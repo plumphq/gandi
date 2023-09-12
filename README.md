@@ -1,9 +1,9 @@
 <div style="display:flex; justify-content: space-between">
 <h1>Gandi</h1>
-<h1>
+<p>
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgandiorg%2Fgandi%2Fmain%2Fdocs%2Fmeta%2Fbadges.json&query=%24.companies_number&label=Companies%3A&labelColor=%231a1a1a&color=%231a1a1a" alt="Companies Badge" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgandiorg%2Fgandi%2Fmain%2Fdocs%2Fmeta%2Fbadges.json&query=%24.jobs_number&label=Careers%3A&labelColor=%231a1a1a&color=%231a1a1a" alt="Careers Badge" />
-</h1>
+</p>
 </div>
 
 > Stateful Reverse Proxy for decentralized IT jobs
