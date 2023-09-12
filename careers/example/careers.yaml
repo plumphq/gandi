@@ -1,0 +1,11 @@
+# important: only one careers object per file.
+careers:
+  # required, concrete job listing url
+  - url: https://careers.superside.com/creative-project-manager
+    # optional (recommended), list of keywords to search for in the listing,
+    # to make sure relevant listing processor is used
+    guidance:
+      - "Project"
+      - "Manager"
+  # this would work too:
+  - url: https://careers.superside.com/creatives-presentation-design
