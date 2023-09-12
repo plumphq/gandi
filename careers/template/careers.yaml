@@ -1,0 +1,9 @@
+# important: only one careers object per file.
+careers:
+  # required, concrete job listing url (not domain!)
+  - url:
+    # optional (recommended), list of keywords to search for in the listing,
+    # to make sure relevant listing processor is used, (case-insensitive)
+    guidance:
+      -
+  - url: https://scentbird.breezy.hr/p/458bdadc18ab-email-coder

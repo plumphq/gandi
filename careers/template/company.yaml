@@ -1,0 +1,24 @@
+# required, company name
+name:
+# required, company base url (not domain!)
+url:
+# required, company careers page (!important: company careers page, not an external job board)
+careers_url:
+# required, company description (markdown unsupported, 300 characters ~ 3-4 sentences max.)
+description:
+
+# optional (recommended), company icon url, preferably in a square/circle formats, any size, .png / .jpg / .svg
+icon:
+# optional (recommended), company slogan / one sentence brief (90 characters max.)
+slogan:
+# optional (recommended), additional links to company social media profiles
+links:
+  - title: glassdoor
+    url:
+  - title: twitter
+    url:
+  - title: facebook
+    url:
+
+# optional, company headcount, LinkedIn format: [1-10, 11-50, 51-200, 201-500, 501-1000, 1001-5000, 5001-10000, 10001+]
+size:
