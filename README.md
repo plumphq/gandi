@@ -108,7 +108,7 @@ Gandi relies on a simple seven-step process (2-steps from the contributor side):
 The sync process is even simpler and doesn't require any manual actions from the contributor side: there is a cron job
 that runs every day, verifies the given job listing checksum by url, and creates an automatic PR if anything changed.
 
-A practical example of the contribution can be found [right there](https://google.com).
+A practical example of the process sample can be found [right there](https://gandicore.com/playground).
 
 To deep dive into the process, please refer to the [contribution](CONTRIBUTING.md)
 and [company folder structure](/careers/README.md) documentations.
