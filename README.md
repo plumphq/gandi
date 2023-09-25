@@ -78,7 +78,7 @@ job-seekers, and enables maximum reach.
 That approach won't work without consumers – systems that are able to pull the data from Gandi, implement a custom
 search engine based on that and fit the target audience – job-seeker needs.
 
-It's crucial to understand that __Gandi is not a search engine itself__, though it's useless in a vacuum. We seek to
+It's crucial to understand that __Gandi is not a search engine itself__. We seek to
 provide a data source for as many job search platforms as possible, and we're open to any company that wants to join us.
 
 ## How does it work?
