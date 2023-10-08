@@ -1,0 +1,21 @@
+{
+    "//location_example": ["Mountain View, CA", "Brazil", "EU", "LATAM", "Worldwide"],
+    "location": null,
+    "//attendance_example": ["Remote", "Onsite", "Hybrid"],
+    "attendance": ["Fully remote"],
+    "//type_example": ["Full-time", "Internship", "Part-time", "Contract"],
+    "type": null,
+    "//minimal_experience_example": ["No experience", "1", "3", "5", "7", "10"],
+    "experience": null,
+    "//salary_example": {"min": 800000, "max": 1000000, "format": "annually", "currency": "usd"},
+    "salary": null,
+    "//tags_example": ["Backend", "Frontend", "Fullstack", "Mobile", "DevOps", "Data", "Security", "QA"],
+    "tags": ["Creative","Digital Advertising","Strategy","Customer Management","Project Management","Data Interpretation"],
+    "//skills_example": ["Java", "Python", "PHP", "Spring Framework", "Django"],
+    "skills": ["Digital Advertising","Strategy Development","Data Interpretation","Creative Work","Communication"],
+    "//overview_example": "Looking for a software engineer to work on the next generation of Google Search, improving search quality and user experience.",
+    "overview": "Superside is looking for a Creative Strategist to join the Creative Services team. As part of a new team within a fast-growing strategy capability, you'll be responsible for developing insightful and compelling strategies that will drive exciting and effective creativity across our digital, social, web, and brand services.",
+    "description": "Superside is seeking a Creative Strategist to develop clear and compelling digital-first strategies for campaigns across a variety of digital media including social, display, newsletters, and mixed reality. The successful candidate will collaborate closely with creatives to develop idea-led creative that delivers on the strategy, build trusted relationships with customers, identify new opportunities, and recommend and test new processes and products. They should have an expert understanding of digital advertising, excellent communication skills, and a passion for great creative work. This role offers the opportunity to work in a fast-paced, ever-evolving environment and embrace new and disruptive technologies in strategy and creative development.",
+    "//requirements_example": ["Good communication skills", "Team player", "Self-motivated", "etc."],
+    "requirements": ["Expert understanding of digital advertising and the latest technologies, platforms, formats, and strategic approaches","Proven ability to clarify complex and ambiguous challenges and provide original and informed solutions","Experience interpreting data both as input to strategy development and in evaluating creative performance","Diligent and rigorous approach to research and strategy development","Passion for great creative work and understanding of the creative process","Excellent English communication skills","Comfortable working autonomously and collaboratively","Entrepreneurial mindset and desire to drive growth"]
+}
