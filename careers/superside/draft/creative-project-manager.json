@@ -1,0 +1,21 @@
+{
+    "//location_example": ["Mountain View, CA", "Brazil", "EU", "LATAM"],
+    "location": ["Worldwide"],
+    "//attendance_example": ["Remote", "Onsite", "Hybrid"],
+    "attendance": ["Remote"],
+    "//type_example": ["Full-time", "Internship", "Part-time", "Contract"],
+    "type": ["Full-time"],
+    "//experience_example": ["No experience", "1-3 years", "3-5 years", "5+ years", "7+ years", "10+ years"],
+    "experience": ["3"],
+    "//salary_example": {"min": 800000, "max": 1000000, "format": "annually", "currency": "usd"},
+    "salary": null,
+    "//tags_example": ["Backend", "Frontend", "Fullstack", "Mobile", "DevOps", "Data", "Security", "QA"],
+    "tags": ["Creative Project Management"],
+    "//skills_example": ["Java", "Python", "PHP", "Spring Framework", "Django"],
+    "skills": ["Project Management","Account Management","Creative production","Creative communication","Adobe Suite","Figma","Digital advertising","Social media","Branding"],
+    "//overview_example": "Looking for a software engineer to work on the next generation of Google Search, improving search quality and user experience.",
+    "overview": "Superside is looking for Creative Project Managers to strengthen their team. Joining the Creative Services department, you'll build and deliver creative strategy and assets for some of the most innovative companies on the planet.",
+    "description": "In this role, you'll have the responsibility for key accounts from day one, a steep learning curve and an exciting growth path toward team leadership. You'll contribute to account strategy, identify and meet customers' needs, manage multiple high-paced creative projects, and collaborate with customers and creatives. You'll also partner with customers to leverage our creative teams' capabilities and continuously learn and develop yourself and others.",
+    "//requirements_example": ["Good communication skills", "Team player", "Self-motivated", "etc."],
+    "requirements": ["3+ years of experience as a Project/Account/Campaign manager, or Creative producer within a brand or advertising function","Excellent understanding of creative communication and how creative content can drive business outcomes","Understanding of creative craft with a solid ability to scope and budget","Familiarity with the Adobe Suite (Ps, Ai, Ae, Id) and Figma","High-level understanding of Digital advertising and social media platforms, or Branding and communications","An organized, customer-centric and detail-oriented approach, with an account management mindset","Excellent verbal and written English skills required to present ideas and coordinate work in large international groups","Autonomy, decisiveness, and accountability"]
+}
