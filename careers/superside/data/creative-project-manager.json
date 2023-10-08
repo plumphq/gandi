@@ -1,0 +1,20 @@
+{
+    "id": 12,
+    "companyId": 3,
+    "title": "Creative Project Manager",
+    "location": [Ljava.lang.String;@26350ea2,
+    "type": [Ljava.lang.String;@1e9469b8,
+    "attendance": [Ljava.lang.String;@5a08efdc,
+    "experience": [Ljava.lang.String;@57272109,
+    "salaryMin": null,
+    "salaryMax": null,
+    "salaryFormat": "null",
+    "salaryCurrency": "null",
+    "salaryBonus": "Unspecified",
+    "tags": [Ljava.lang.String;@59696551,
+    "skills": [Ljava.lang.String;@648d0e6d,
+    "overview": "Superside is looking for Creative Project Managers to strengthen their team. Joining the Creative Services department, you'll build and deliver creative strategy and assets for some of the most innovative companies on the planet.",
+    "description": "In this role, you'll have the responsibility for key accounts from day one, a steep learning curve and an exciting growth path toward team leadership. You'll contribute to account strategy, identify and meet customers' needs, manage multiple high-paced creative projects, and collaborate with customers and creatives. You'll also partner with customers to leverage our creative teams' capabilities and continuously learn and develop yourself and others.",
+    "requirements": [Ljava.lang.String;@79e66b2f,
+    "applicationUrl": "https://careers.superside.com/creative-project-manager"
+}
