@@ -78,7 +78,7 @@ job-seekers, and enables maximum reach.
 That approach won't work without consumers – systems that are able to pull the data from Gandi, implement a custom
 search engine based on that and fit the target audience – job-seeker needs.
 
-It's crucial to understand that __Gandi is not a search engine itself__, though it's useless in a vacuum. We seek to
+It's crucial to understand that __Gandi is not a search engine itself__. We seek to
 provide a data source for as many job search platforms as possible, and we're open to any company that wants to join us.
 
 ## How does it work?
@@ -108,7 +108,7 @@ Gandi relies on a simple seven-step process (2-steps from the contributor side):
 The sync process is even simpler and doesn't require any manual actions from the contributor side: there is a cron job
 that runs every day, verifies the given job listing checksum by url, and creates an automatic PR if anything changed.
 
-A practical example of the contribution can be found [right there](https://google.com).
+A practical example of the process sample can be found [right there](https://gandicore.com/playground).
 
 To deep dive into the process, please refer to the [contribution](CONTRIBUTING.md)
 and [company folder structure](/careers/README.md) documentations.
