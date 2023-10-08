@@ -6,3 +6,4 @@ careers:
     # to make sure relevant listing processor is used, (case-insensitive)
     guidance:
       - creative
+      - project
