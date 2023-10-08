@@ -1,0 +1,21 @@
+{
+    "//location_example": ["Mountain View, CA", "Brazil", "EU", "LATAM", "Worldwide"],
+    "location": ["Worldwide"],
+    "//attendance_example": ["Remote", "Onsite", "Hybrid"],
+    "attendance": ["Remote"],
+    "//type_example": ["Full-time", "Internship", "Part-time", "Contract"],
+    "type": "Full-time",
+    "//minimal_experience_example": ["No experience", "1", "3", "5", "7", "10"],
+    "experience": ["3"],
+    "//salary_example": {"min": 800000, "max": 1000000, "format": "annually", "currency": "usd"},
+    "salary": null,
+    "//tags_example": ["Backend", "Frontend", "Fullstack", "Mobile", "DevOps", "Data", "Security", "QA"],
+    "tags": ["Generative AI","Branding","Digital Ads","Creative Concepts","Design"],
+    "//skills_example": ["Java", "Python", "PHP", "Spring Framework", "Django"],
+    "skills": ["AI tools","Adobe Creative Suite","PowerPoint","Figma","Dynamic Creative Optimization","Real-Time Marketing","Bannerflow","Storyteq","Celtra","Smartly"],
+    "//overview_example": "Looking for a software engineer to work on the next generation of Google Search, improving search quality and user experience.",
+    "overview": "We're seeking a purpose-driven and innovative Creative with a focus on Generative AI. Join our distributed team and work on various AI capabilities for our customer portfolio.",
+    "description": "We are looking for a purpose-driven and innovative Creative with a focus on Generative AI to join our distributed team. As a high-growth scale-up, you will have the opportunity to build, test, learn, and deploy new AI solutions across our customer portfolio of 450+ brands like Meta, Amazon, and Salesforce. In this role, you will generate visually stunning brand concepts and designs using AI tools, optimize and streamline design workflows for efficiency and scale, and collaborate with the AI Creative Leaders to translate strategic vision into tangible designs. You will also stay up-to-date with the latest design trends and integrate them into your work, manage multiple projects, and actively problem-solve to make Superside even better. To succeed in this role, you should have a BA or higher in Design or a similar field, 2-4 years of experience in a creative design role, a passion for generative AI, proficiency in using AI tools to augment design processes, and a strong portfolio of branding, digital ads, and creative concepts. You should also have excellent presentation and design skills using the Adobe Creative Suite, PowerPoint, and Figma, the ability to quickly learn processes and multi-task projects, and excellent English verbal and written communication skills.",
+    "//requirements_example": ["Good communication skills", "Team player", "Self-motivated", "etc."],
+    "requirements": ["BA or higher in Design, Creative or similar fields","2-4 years of experience in a creative design role","A passion for generative AI and programmatic creation","Proficiency in using AI tools to augment design processes","Strong portfolio of Branding, Digital Ads, Creative Concepts and Design","A solid understanding of Dynamic Creative Optimization, Real-Time Marketing tools and Automation platforms such as Bannerflow, Storyteq, Celtra, Smartly","Excellent presentation and design skills using the Adobe Creative Suite, PowerPoint, Figma","Ability to quickly learn processes and multi-task projects with great detail","Excellent English verbal and written communication skills","Bias for action, proactive, customer-centric, and execution-driven mindset","Experience managing creative projects in their entirety"]
+}

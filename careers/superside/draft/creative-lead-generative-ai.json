@@ -1,0 +1,21 @@
+{
+    "//location_example": ["Mountain View, CA", "Brazil", "EU", "LATAM", "Worldwide"],
+    "location": ["Worldwide"],
+    "//attendance_example": ["Remote", "Onsite", "Hybrid"],
+    "attendance": ["Remote"],
+    "//type_example": ["Full-time", "Internship", "Part-time", "Contract"],
+    "type": ["Full-time"],
+    "//minimal_experience_example": ["No experience", "1", "3", "5", "7", "10"],
+    "experience": ["4"],
+    "//salary_example": {"min": 800000, "max": 1000000, "format": "annually", "currency": "usd"},
+    "salary": null,
+    "//tags_example": ["Backend", "Frontend", "Fullstack", "Mobile", "DevOps", "Data", "Security", "QA"],
+    "tags": ["AI","Generative AI","Branding","Ad","Social creative","Illustration","Photographic assets"],
+    "//skills_example": ["Java", "Python", "PHP", "Spring Framework", "Django"],
+    "skills": ["AI","Automation","Branding","Adobe Creative Suite","PowerPoint","Figma"],
+    "//overview_example": "Looking for a software engineer to work on the next generation of Google Search, improving search quality and user experience.",
+    "overview": "We're seeking a purpose-driven and innovative Creative with a focus on Generative AI.",
+    "description": "You will join a distributed team of creatives specialised in AI and automation, working on a various capabilities such as AI-enhanced Branding, Ad and Social creative, illustration, photographic assets and illustration. As a high-growth scale-up that works remotely with brands like Meta, Amazon and Salesforce, you'll be in a unique position to build, test, learn and deploy new AI solutions across our customer portfolio of 450+ brands.",
+    "//requirements_example": ["Good communication skills", "Team player", "Self-motivated", "etc."],
+    "requirements": ["BA or higher in Design, Creative or similar fields","4+ years of experience in a creative role","A passion for generative AI and programmatic creation","Experience in implementing and managing generative AI systems in a creative context","Strong portfolio of Branding, Digital Ads, Creative Concepts and Design","Excellent presentation and design skills using the Adobe Creative Suite, PowerPoint, Figma","Ability to quickly learn processes and multi-task projects with great detail","High level of knowledge and craft in generative AI to provide top-notch design and direction","Excellent English verbal and written communication skills","Bias for action, proactive, customer-centric, and execution-driven mindset"]
+}
