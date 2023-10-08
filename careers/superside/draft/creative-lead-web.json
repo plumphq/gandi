@@ -2,11 +2,11 @@
     "//location_example": ["Mountain View, CA", "Brazil", "EU", "LATAM", "Worldwide"],
     "location": null,
     "//attendance_example": ["Remote", "Onsite", "Hybrid"],
-    "attendance": ["Remote"],
+    "attendance": ["Fully remote"],
     "//type_example": ["Full-time", "Internship", "Part-time", "Contract"],
     "type": null,
     "//minimal_experience_example": ["No experience", "1", "3", "5", "7", "10"],
-    "experience": ["7+ years"],
+    "experience": ["6+ years"],
     "//salary_example": {"min": 800000, "max": 1000000, "format": "annually", "currency": "usd"},
     "salary": null,
     "//tags_example": ["Backend", "Frontend", "Fullstack", "Mobile", "DevOps", "Data", "Security", "QA"],
@@ -14,8 +14,8 @@
     "//skills_example": ["Java", "Python", "PHP", "Spring Framework", "Django"],
     "skills": ["Figma","Adobe Creative Suite"],
     "//overview_example": "Looking for a software engineer to work on the next generation of Google Search, improving search quality and user experience.",
-    "overview": "Superside is looking for an inspired and purpose-driven Creative Lead to take our company’s creative capabilities to the next level.",
-    "description": "Superside is seeking a Creative Lead (Web) to manage the creation and output quality of projects, provide expertise in web design and art direction, collaborate with account teams and customers, mentor and manage a team of creatives, and shape creative strategies to meet customer needs. The successful candidate will have a BA or higher in Design, Creative, or similar fields, 6+ years of experience as a creative lead in a top-tier creative agency or in-house design team, a strong portfolio of work in web design and art direction, proficiency in Figma and the Adobe Creative Suite, and excellent communication skills. Join Superside and be part of a globally distributed team that delivers high-quality creative work for top brands like Meta, Amazon, and Salesforce.",
+    "overview": "Superside is looking for a Creative Lead (Web) to take our company’s creative capabilities to the next level.",
+    "description": "Superside is seeking an inspired and purpose-driven Creative Lead to spearhead their globally distributed team of top-talent creatives. The Creative Lead will manage the overall creation, workflow, and output quality of projects, provide expertise in Web Design, Digital Ads, and Art Direction, collaborate with account teams to develop customer relationships, and inspire and mentor a team of creatives. The successful candidate will have a BA or higher in Design, Creative, Comms, or similar fields, 6+ years of experience as a creative lead, a strong portfolio focused on Web Design, Digital Ads, and Art Direction, proficiency in Figma and Adobe Creative Suite, and excellent communication skills.",
     "//requirements_example": ["Good communication skills", "Team player", "Self-motivated", "etc."],
-    "requirements": ["BA or higher within Design, Creative, Comms, or similar fields","6+ years of experience as a world-class creative lead in an international top-tier creative agency or in-house design team in a global tech company","Strong portfolio of creative work across multiple capabilities, with a focus on Web Design, Digital Ads and Art Direction","Proficient in utilizing Figma with advanced design skills","Excellent design skills using Adobe Creative Suite","Experience in art direction and web design","Ability to quickly learn processes and multi-task projects with great detail","High level of knowledge and craft to provide top-notch design and direction","Excellent English verbal and written communication skills","Bias for action, proactive, customer-centric, and execution-driven mindset","Experience managing creative projects in their entirety and leading a high-performing team (Designers, Art Directors, etc)"]
+    "requirements": ["BA or higher within Design, Creative, Comms, or similar fields","6+ years of experience as a world-class creative lead in an international top-tier creative agency or in-house design team in a global tech company","Strong portfolio of creative work across multiple capabilities, with a focus on Web Design, Digital Ads, and Art Direction","Proficient in utilizing Figma with advanced design skills","Excellent design skills using Adobe Creative Suite","Experience in art direction and web design","Ability to quickly learn processes and multi-task projects with great detail","High level of knowledge and craft to provide top-notch design and direction","Ability to always deliver pixel-perfect quality on time and within budget","Excellent English verbal and written communication skills","Bias for action, proactive, customer-centric, and execution-driven mindset","Experience managing creative projects in their entirety and leading a high-performing team (Designers, Art Directors, etc)"]
 }
