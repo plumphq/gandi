@@ -1,0 +1,21 @@
+{
+    "//location_example": ["Mountain View, CA", "Brazil", "EU", "LATAM", "Worldwide"],
+    "location": null,
+    "//attendance_example": ["Remote", "Onsite", "Hybrid"],
+    "attendance": ["Fully remote"],
+    "//type_example": ["Full-time", "Internship", "Part-time", "Contract"],
+    "type": null,
+    "//minimal_experience_example": ["No experience", "1", "3", "5", "7", "10"],
+    "experience": null,
+    "//salary_example": {"min": 800000, "max": 1000000, "format": "annually", "currency": "usd"},
+    "salary": null,
+    "//tags_example": ["Backend", "Frontend", "Fullstack", "Mobile", "DevOps", "Data", "Security", "QA"],
+    "tags": ["Creatives","Presentation Design","Branding","Graphic Design","Digital Advertising","Print Design"],
+    "//skills_example": ["Java", "Python", "PHP", "Spring Framework", "Django"],
+    "skills": ["Presentation design","Visual storytelling","Data visualization","Infographics","Imagery","Illustration","Text","Motion design","Figma","Adobe Illustrator","Photoshop","Google Slides","PowerPoint","Keynote"],
+    "//overview_example": "Looking for a software engineer to work on the next generation of Google Search, improving search quality and user experience.",
+    "overview": "Superside is looking for inspired and purpose-driven Creatives to take our company’s creative capabilities to the next level. In this role, you will work with our globally distributed team of top-talent creatives and creative leads, across various capabilities such as Branding, Graphic Design, Digital Advertising, Print Design, with a special focus on Presentation Design.",
+    "description": "We are looking for Creatives to join our team at Superside. As a Creative, you will be responsible for creating amazing designs for top global brands, specializing in presentation design across a diverse range of projects and requirements. You will work strategically to understand customers' needs and goals, and present solutions backed by concepts and creative strategy. You will collaborate with creative leads and account teams across different time zones, working on simultaneous projects with high attention to detail. Additionally, you will be responsible for problem-solving, staying proactive, and delivering high-quality work on time and within budget. We offer continuous learning opportunities and a supportive community to help you grow in your career.",
+    "//requirements_example": ["Good communication skills", "Team player", "Self-motivated", "etc."],
+    "requirements": ["BA or higher within Design, Creative, Comms, or similar fields","Strong portfolio of creative work with a focus on Presentation design","Strong knowledge of visual storytelling through presentation design, including data visualization, infographics, and use of imagery, illustration, text, and motion","Excellent presentation layout and design skills using Figma, Adobe Illustrator, Photoshop, Google Slides, PowerPoint & Keynote","Motion skills within Presentation design software","Excellent understanding, interpretation, and visual execution of data visualization and infographics","Ability to quickly learn processes and multi-task projects with customer needs in mind","Great communication skills and experience working within a team environment","An open-minded approach to creativity and work","Ability to always deliver pixel-perfect quality on time and within budget","Excellent English verbal and written communication skills","Bias for action, proactive, customer-centric, and execution-focused mindset"]
+}
