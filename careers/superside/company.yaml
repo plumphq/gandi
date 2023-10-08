@@ -1,0 +1,27 @@
+# required, company name
+name: Superside
+# required, company base url
+url: https://www.superside.com/
+# required, company careers page (!important: company careers page, not an external job board)
+careers_url: https://careers.superside.com/jobs
+# required, company description (markdown unsupported, 300 characters ~ 3-4 sentences max.)
+description: Superside is a remote future-of-work startup that delivers great design
+  at scale to enterprise teams — from everyday production work to large-scale strategic design solutions.
+  By building workflow technology and an instant and fully-managed process,
+  Superside makes design hassle-free for customers like Facebook, Red1bull, Puma, and more.
+
+# optional (recommended), company icon url, ppreferably in a square/circle formats, any size, .png / .jpg / .svg
+icon: https://www.superside.com/images%2Ffavicon%2Fapple-touch-icon.png
+# optional (recommended), company slogan / one sentence brief (90 characters max.)
+slogan: The world's top 1% remote talent
+# optional (recommended), additional links to company social media profiles
+links:
+  - title: glassdoor
+    url: https://www.glassdoor.com/Overview/Working-at-Superside-EI_IE1397130.11,20.htm
+  - title: twitter
+    url: https://www.twitter.com/supersideHQ/
+  - title: facebook
+    url: https://www.facebook.com/supersideHQ/
+
+# optional, company headcount, LinkedIn format: [1-10, 11-50, 51-200, 201-500, 501-1000, 1001-5000, 5001-10000, 10001+]
+size: 501-1000
