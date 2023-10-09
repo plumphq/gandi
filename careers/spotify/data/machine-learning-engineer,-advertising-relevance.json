@@ -1,0 +1,24 @@
+            {
+                "id": 67,
+                "companyId": 4,
+                "title": "Machine Learning Engineer, Advertising Relevance",
+                "location": ["New York, NY"],
+                "type": ["Permanent"],
+                "attendance": ["Hybrid"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Machine Learning","Advertising Relevance","Personalize Ads","ML Development","Data Analysis","Agile Software Processes","Collaborative Teams"],
+                "skills": ["Machine Learning","Java","Scala","Python","ad tech","NLP","Computer Vision"],
+                "overview": "The Machine Learning Engineer, Advertising Relevance position involves building production systems to personalize listeners' ad experiences, contributing to product development, prototyping new approaches, optimizing quality, and collaborating with cross-functional teams at Spotify.",
+                "description": "Our mission on the Advertising Product & Technology team is to build a next generation advertising platform that aligns with our unique value proposition for audio and video. We work to scale the user experience for hundreds of millions of fans and hundreds of thousands of advertisers. This scale brings unique challenges as well as tremendous opportunities for our artists and creators.
+
+At Spotify, we’re proud of our ambitious mission of having 1 billion fans enjoying music around the world, and are seeking machine learning engineers to join us in pursuit of this goal. Our team leverages machine learning to drive both advertiser outcomes and listener satisfaction in Spotify Free, helping democratize music access globally while positively impacting Spotify’s bottom line. We develop innovative solutions around the core problem of getting the right ad to the right user at the right time, while embodying Spotify’s values and taking our users’ best interest at heart. 
+",
+                "extras": [{"title":"What You'll Do","content":["Build production systems that personalize our listeners’ experience of ads on platform","Contribute to designing, building, evaluating, shipping, and refining Spotify’s product by hands-on ML development","Prototype new approaches and production-ize solutions at scale for our hundreds of millions of active users","Help drive optimization, testing, and tooling to improve quality","Perform data analysis to establish baselines and inform product decisions","Collaborate with a cross functional agile team spanning design, data science, product management, and engineering to build new technologies and features"]},{"title":"Who You Are","content":["You have professional experience in applied machine learning","You have some hands-on experience implementing or prototyping machine learning systems at scale in Java, Scala, Python, or similar languages","Experience with ad tech, NLP, Computer Vision, or audio signal processing is a plus","You care about agile software processes, data-driven development, reliability, and disciplined experimentation","You have experience and passion for fostering collaborative teams","Experience with TensorFlow, pyTorch, and/or Google Cloud Platform is a plus","Experience with building data pipelines and getting the data you need to build and evaluate your models, using tools like Apache Beam / Spark is a plus"]},{"title":"Where You'll Be","content":["We are a distributed workforce enabling our band members to find a work mode that is best for them!","Where in the world? For this role, it can be within the Americas region in which we have a work location","Prefer an office to work from home instead? Not a problem! We have plenty of options for your working preferences. Find more information about our Work From Anywhere options here","Working hours? We operate within the Eastern Standard time zone for collaboration"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/spotify/73a12609-accc-4019-b186-8b416c5e53b0"
+            }
