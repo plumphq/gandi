@@ -1,0 +1,26 @@
+            {
+                "id": 76,
+                "companyId": 4,
+                "title": "Senior Backend Engineer - AdTech",
+                "location": ["New York, NY"],
+                "type": ["Permanent"],
+                "attendance": ["Remote"],
+                "experience": 5,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Backend Engineer","AdTech","Java","API Design","Scalability","Distributed Systems","Data Processing"],
+                "skills": ["Java","gRPC","GCP","BigQuery","Bigtable","system design","data structures"],
+                "overview": "The Senior Backend Engineer - AdTech position involves scaling the user experience for advertisers and millions of fans, collaborating with cross-functional teams to develop technical solutions for podcast and ad services platforms, and impacting the music experience.",
+                "description": "Our mission on the Advertising Product & Technology team is to build a next generation advertising platform that aligns with our unique value proposition for audio and video. We work to scale the user experience for hundreds of millions of fans and hundreds of thousands of advertisers. This scale brings unique challenges as well as tremendous opportunities for our artists and creators.
+
+We are looking for Senior Backend Engineers to join our Advertising Product & Technology organization. Our teams are charged with scaling Spotify's Free Product and our Podcast Monetization Mission. You will work directly on an array of product features, advertiser publishing tools, and insights and reporting functionalities. You will collaborate  with our cross-functional teams to ideate, develop, and own complex technical solutions on our fast-paced podcast and ad services technology platforms.
+
+Our team at Spotify looks for candidates that share our common interest in distributed backend systems, their scalability, and continued development. In this role, you will closely collaborate with our internal customers to figure out the best API and backend system design to scalably meet their needs. You will build the backend systems that power our application, scale highly distributed systems, and continuously improve our engineering practices. Above all, this work will impact how the world experiences music.
+",
+                "extras": [{"title":"What You’ll Do","content":["Collaborate with key internal partners to determine how to scalably design backend systems and APIs","Architect, develop, and operate Java services deployed to millions of users.","Work with data engineers to build and maintain batch and real-time data pipelines with data processing frameworks like Scio, Storm, Spark and the Google Cloud Platform.","Be a technical leader and valued contributor in an autonomous, cross-functional agile team","Collaborate with other engineers, product owners, and designers to identify and solve challenging problems, creating awesome music sessions for users worldwide.","Be a leader of the Spotify-wide backend developer community affecting and driving our architecture across the company.","Work on what you want during regular hack days and annual hack weeks."]},{"title":"Who You Are","content":["You have 5+ years of working experience as a Backend Engineer working with Java. Additional tools and technologies such as gRPC, GCP, BigQuery and Bigtable are a plus.","You have experience working directly with stakeholders to understand, document and develop APIs and systems to meet their requirements, driving increased adoption and reducing reliance on custom one-off implementations.","You have written distributed, high-volume services and know how to deploy and keep them running in production.","You have interest in big data processing technologies.","You love working in an environment where you constantly experiment and iterate quickly.","You believe data is the most powerful tool for informed decision-making.","You have a deep understanding of system design, data structures, and algorithms."]},{"title":"Where You'll Be","content":["We are a distributed workforce enabling our band members to find a work mode that is best for them!","Working hours? We operate within the Eastern Standard time zone for collaboration and ask that all be located in that time zone."]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/spotify/52340a16-f830-4230-9ed7-8d61020497ca"
+            }
