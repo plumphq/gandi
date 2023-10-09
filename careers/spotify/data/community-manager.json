@@ -1,0 +1,30 @@
+            {
+                "id": 51,
+                "companyId": 4,
+                "title": "Community Manager",
+                "location": ["London"],
+                "type": ["Permanent"],
+                "attendance": ["Hybrid"],
+                "experience": 5,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Social Listening","Media Monitoring","Data Analysis","Social Media Strategy","Audience Building","Rapid Response","Digital Analytics"],
+                "skills": ["Social listening","Media landscape monitoring","Data extraction","Insight sharing","Social audience building","Social content tracking","Interactions tracking"],
+                "overview": "The Community Manager will provide always-on social listening and response capabilities, monitor media landscape and social conversation, extract real-time data, and share key insights to optimize communications strategy and mitigate potential threats, while also supporting social audience building and ally development.",
+                "description": "Spotify’s Global Communications team is looking for a Community Manager that will provide always-on social listening and response capabilities across a key social channel. The role will focus on monitoring the media landscape and social conversation, extract real-time data, and share key insights that help our company identify narrative opportunities, optimize our communications strategy and mitigate potential threats. It will also support social audience building, follower interaction, and ally development across the platform. Finally, it will also provide additional support across the Comms team on key projects where needed. 
+
+This person will work closely with an editorial team responsible for developing social content for key executives, ensuring a coordinated approach. The role will also work closely with various members across Spotify’s Global Communications, marketing, and content/artist social teams, as well as agency teams. 
+
+Additionally, this person will play a supporting role in Spotify’s rapid-response capability, working with a team to leverage insights most critical to helping ensure that the company communicates thoughtfully when unforeseen or unexpected issues arise, particularly in the European market. 
+
+This person is expected to have strong business acumen, writing and project management skills, as well as effective engagement with high-level partners across the company. Other critical skills include sound judgment and a high-degree of accountability.
+
+This role may be located in either our London, UK offices or Stockholm, Sweden offices. 
+",
+                "extras": [{"title":"What You'll Do","content":["Leverage social listening tools to monitor media landscape and social conversation, with a special focus on executive social channels","Track user engagement, and support audience building and ally development strategies for the executives’ owned social media channels","Monitor and regularly report on executives' social content, interactions, following, and relevant interactions to optimize their social media presence, reach, and engagement","Track the performance of the executives’ social media metrics and develop insights to inform areas of improvement","Collaborate with Comms leads to strategically amplify storytelling in the digital space","Leverage social listening tools to develop and expand rapid response capabilities in partnership with the Communications team, particularly in Europe, to help inform partners of potential crises or notable media moments using data informed insights"]},{"title":"Who You Are","content":["5+ years of social media listening and/or digital analytics experience","High level of critical thinking and judgment","Standout colleague with strong organizational, communication, and time-management skills","Experience with one or more of the following tools:","Social Listening/Monitoring: TrendKite, Brandwatch, Crimson Hexagon, Sysomos, Netbase, Radian6, Tracx","Digital Platforms/Web Analytics: Facebook Insights, Twitter Analytics, YouTube Analytics, Google Analytics, Adobe Analytics (SiteCatalyst/Omniture)","Influencer Identification: Traackr, Tagger, CreatorIQ, Meltwater Klear","Outstanding writer, presenter, and communicator"]},{"title":"Where You'll Be","content":["This role may be located in either our London, UK or Stockholm, Sweden offices"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/spotify/1a69ea48-3901-4cbc-9dd5-ef70d103e1ee"
+            }
