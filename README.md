@@ -7,10 +7,10 @@ developing
 capabilities to create unique job search engines that **share the same source of content** but provide **different
 features** to retrieve and process it.
 
-To put it simply, Gandi can be described as a company's job listings repository, which follows the following main
+To put it simply, Gandi can be described as a company's job listings repository , which follows the following main
 principles:
 
-- **Decentralized** – each company is responsible for its own job listings, that have been published on the company's
+- **Decentralized** – each company is responsible for its own job listings, that have been published on the company's ATS or any other custom
   website and pulled by Gandi;
 - **Instant** – a single link to a company's job listing ensures seamless sync with Gandi repository, negating the need
   for manual content duplication;
