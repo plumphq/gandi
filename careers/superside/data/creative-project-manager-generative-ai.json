@@ -1,0 +1,27 @@
+            {
+                "id": 20,
+                "companyId": 3,
+                "title": "Creative Project Manager (Generative AI)",
+                "location": ["Global"],
+                "type": ["Contractor"],
+                "attendance": ["Remote"],
+                "experience": 3,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Creative Project Manager","Generative AI","Superside","creative solutions","innovation","automation tools","account strategy"],
+                "skills": ["Generative AI projects","Creative AI solutions","Adobe Suite (Ps, Ai, Ae, Id)","Figma","database management","governance","Generative AI tools including LLMs and Diffusion","Digital advertising","social media platforms","Branding and communications","verbal and written English skills"],
+                "overview": "The Creative Project Manager (Generative AI) will manage generative AI projects, collaborate with creative professionals to deliver strategic solutions, build account strategy, manage team capacity, and provide valuable insights to customers.",
+                "description": "Superside is looking for a Creative Project Manager to support our customers in their Generative AI projects. This role will help shape the future of Superside as we’re developing this new creative capability. You’ll be working closely with our creative team specialized in AI and automation tools to deliver strategic creative solutions for the world’s most innovative brands. In this role, you'll have the responsibility for key accounts, a steep learning curve focussing on innovation and new technology and an exciting growth path toward team leadership.
+
+
+The biggest challenge right now
+
+We are building an entire new department specialized in AI and other automation tools. Superside being at the center of creative, tech and digital professional services, we find ourselves in a unique position to take on this opportunity and place ourselves at the forefront of our field. This calls for people that are fundamentally passionate about innovation, new technologies and how it can disrupt an industry. 
+",
+                "extras": [{"title":"What You'll Be Doing","content":["Manage the overall creation, workflow, and output quality of generative AI projects","Build account strategy to proactively approach customer needs with creative AI solutions","Collaborate with creative professionals to ensure creative work meets both the needs of company customers and the company’s standards for creative quality","Collaborate with dedicated account teams to successfully grow and develop our customers","Guide, discuss, and clarify customer needs into concise design briefs and processes, and present output and discuss feedback as needed","Build internal processes amongst the creative team to ensure an efficient working environment","Manage team capacity and scope costings and project-specific details","Provide valuable insight to the customer in terms of new features + additional service offerings","Build a project pipeline that will assist customer in reaching their internal design KPIs and targets","Host regular weekly meetings with CSMs, CPMs and Sales to ensure Creative Generative AI is at the forefront of conversations and conversion","Problem-solve internal and external issues and find solutions providing insights on how to improve current processes","Contribute to Superside culture by participating in internal testing, upskilling and hosting webinars"]},{"title":"What You'll Need To Succeed","content":["3+ years of experience as a Project/Account/Campaign manager, or Creative producer within a brand or advertising function","Excellent understanding of creative communication and how creative content can drive business outcomes","Understanding of creative craft with a solid ability to scope and budget","Familiarity with the Adobe Suite (Ps, Ai, Ae, Id) and Figma","Familiarity with database management and governance","Familiarity with Generative AI tools including LLMs and Diffusion","High-level understanding of Digital advertising and social media platforms, or Branding and communications","An organized, customer-centric and detail-oriented approach, with an account management mindset","Excellent verbal and written English skills allowing you to present ideas and coordinate work in large international groups","Autonomy, decisiveness, and accountability"]}],
+                "requirements": [],
+                "applicationUrl": "https://api.lever.co/v0/postings/superside/2707352e-8880-4ba0-a1c1-dd8dd057df7c"
+            }
