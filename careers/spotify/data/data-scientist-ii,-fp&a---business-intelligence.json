@@ -1,0 +1,26 @@
+            {
+                "id": 55,
+                "companyId": 4,
+                "title": "Data Scientist II, FP&A - Business Intelligence",
+                "location": ["New York, NY"],
+                "type": ["Permanent"],
+                "attendance": ["Hybrid"],
+                "experience": 5,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Data Scientist","FP&A","Business Intelligence","Data Analysis","Reporting Support","Big Data","BI Tools"],
+                "skills": ["SQL","Python","Tableau","Looker","data analysis","visualization","financial data"],
+                "overview": "The Data Scientist II, FP&A - Business Intelligence position at Spotify involves providing data analysis and reporting support to the FP&A organization, developing and maintaining financial datasets and dashboards, and leveraging big data and BI tools in a fast-paced, high growth environment.",
+                "description": "We are looking for an outstanding Data Scientist to join our Business Intelligence team. This role will provide data analysis and reporting support to Spotify’s FP&A organization. This role will report into the Business Intelligence Lead within the Finance Data team, and provide broad exposure to Spotify wide opportunities, challenges and other key decision-making across multiple lines of business.  The Business Intelligence function develops and maintains financial datasets and dashboards, while leveraging skills in working with data programmatically to improve efficiency and accuracy of FP&A outputs.
+
+The ideal candidate should have experience working with big data and BI tools, excellent attention to detail, and be able to prioritize effectively in a fast-paced, high growth environment. There will be heavy emphasis on financial, user, and consumption metrics with automation of analysis and reporting. Accompanying this broad set of responsibilities is exposure to multiple areas of the business, as well as multiple tiers of senior management throughout the company.
+
+At Spotify, we are passionate about what we do and deliver high-impact projects with both quality and pace through tight-knit, cross-functional teamwork. By turning insights into strategies and models into plans, you will craft the process in which leaders and decision-makers across Spotify understand and evaluate our business’s financial health and trajectory.  Above all, your work will impact the way the world experiences music.
+",
+                "extras": [{"title":"What You'll Do","content":["Serve as the first line of support for FP&A data needs","Create and maintain tools for analysis and dashboarding","Manage data pipelines and consult on technical best practices","Measure performance of business initiatives using big data tools","Create and support financial models using programmatic data analysis","Evaluate BI processes and propose methods for improvement"]},{"title":"Who You Are:","content":["","You have a minimum of 5 years work experience with an emphasis on programmatic data analysis, and visualization/ dashboarding","You have expert level SQL and intermediate level Python skills","You have experience using multiple visualization tools (Tableau/ Looker)","Preferred, but not required, a strong understanding of financial data (GL, Income Statement)","You are able to work in a fast paced, highly collaborative, and international environment","You are a self-starter who is intellectually curious and seeks projects independently","You are passionate about both technology and music"]},{"title":"Where You'll Be:","content":["This is a New York based role","Working hours? We operate within the local (EST) timezone for collaboration"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/spotify/adababf1-0d0f-48d7-b5d8-8f1e47e6f6f9"
+            }
