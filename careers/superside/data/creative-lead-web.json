@@ -1,20 +1,25 @@
-{
-    "id": 15,
-    "companyId": 3,
-    "title": "Creative Lead (Web)",
-    "location": ["Worldwide"],
-    "type": ["Full-time"],
-    "attendance": ["Remote"],
-    "experience": ["6"],
-    "salaryMin": 0,
-    "salaryMax": 0,
-    "salaryFormat": "Unspecified",
-    "salaryCurrency": "USD",
-    "salaryBonus": "Unspecified",
-    "tags": ["Web Design","Digital Ads","Art Direction","UI Design"],
-    "skills": ["Figma","Adobe Creative Suite"],
-    "overview": "Superside is looking for a Creative Lead (Web) to take our company’s creative capabilities to the next level.",
-    "description": "Superside is seeking an inspired and purpose-driven Creative Lead to spearhead their globally distributed team of top-talent creatives. The Creative Lead will manage the overall creation, workflow, and output quality of projects, provide expertise in Web Design, Digital Ads, and Art Direction, collaborate with account teams to develop customer relationships, and inspire and mentor a team of creatives. The successful candidate will have a BA or higher in Design, Creative, Comms, or similar fields, 6+ years of experience as a creative lead, a strong portfolio focused on Web Design, Digital Ads, and Art Direction, proficiency in Figma and Adobe Creative Suite, and excellent communication skills.",
-    "requirements": ["BA or higher within Design, Creative, Comms, or similar fields","6+ years of experience as a world-class creative lead in an international top-tier creative agency or in-house design team in a global tech company","Strong portfolio of creative work across multiple capabilities, with a focus on Web Design, Digital Ads, and Art Direction","Proficient in utilizing Figma with advanced design skills","Excellent design skills using Adobe Creative Suite","Experience in art direction and web design","Ability to quickly learn processes and multi-task projects with great detail","High level of knowledge and craft to provide top-notch design and direction","Ability to always deliver pixel-perfect quality on time and within budget","Excellent English verbal and written communication skills","Bias for action, proactive, customer-centric, and execution-driven mindset","Experience managing creative projects in their entirety and leading a high-performing team (Designers, Art Directors, etc)"],
-    "applicationUrl": "https://careers.superside.com/creative-lead-web"
-}
+            {
+                "id": 24,
+                "companyId": 3,
+                "title": "Creative Lead (Web)",
+                "location": ["Global"],
+                "type": ["Contractor"],
+                "attendance": ["Remote"],
+                "experience": 6,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Web Design","Digital Ads","Art Direction","UI Design","Project Management","Figma","Adobe Creative Suite"],
+                "skills": ["Web Design","Digital Ads","Art Direction","UI Design","Figma","Adobe Creative Suite","Design"],
+                "overview": "Superside is looking for an inspired and purpose-driven Creative Lead to spearhead their globally distributed team of top-talent creatives, across various capabilities such as Web Design, Digital Ads and Social Creative, Art Direction, UI Design, and others.",
+                "description": "Superside is looking for an inspired and purpose-driven Creative Lead to take our company’s creative capabilities to the next level. In this role, you will spearhead our globally distributed team of top-talent creatives, across various capabilities such as Web Design, Digital Ads and Social Creative, Art Direction, UI Design, and others.
+
+
+We provide strategic creative solutions for customers and partners such as Meta, Amazon, Salesforce, Reddit and Google. Our subscription-based model allows us to create meaningful long-term customer relationships and the high-quality work that our talented teams produce.
+",
+                "extras": [{"title":"What You'll Do","content":["Manage the overall creation, workflow and output quality of your projects","Provide expertise in Web Design, Digital Ads and Art Direction, ensuring high-quality creative output and innovative approaches in all projects","Present creative work and direction to customers of a wide range of global brands","Collaborate with your dedicated account teams to successfully grow and develop our customers","Manage a number of simultaneous projects, staying on time and budget","Shape creative strategies and output to meet our customer's needs and goals","Connect with our customers on an ongoing basis, building trust through creative delivery to increase their business value","Inspire, mentor, and manage a team of creatives, taking responsibility for their growth and development","Develop, and grow yourself and your team, and act as a creative-thought leader within the organization"]},{"title":"What You'll Need to Succeed","content":["BA or higher within Design, Creative, Comms, or similar fields","6+ years of experience as a world-class creative lead in an international top-tier creative agency or in-house design team in a global tech company","Strong portfolio of creative work across multiple capabilities, with a focus on Web Design, Digital Ads and Art Direction","Proficient in utilizing Figma with advanced design skills","Excellent design skills using Adobe Creative Suite","Experience in art direction and web design","Ability to quickly learn processes and multi-task projects with great detail","High level of knowledge and craft to provide top-notch design and direction","Ability to always deliver pixel-perfect quality on time and within budget","Excellent English verbal and written communication skills","Bias for action, proactive, customer-centric, and execution-driven mindset","Experience managing creative projects in their entirety and leading a high-performing team (Designers, Art Directors, etc)"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/superside/fc599b22-8c87-4263-a98e-d061065b4ff2"
+            }
