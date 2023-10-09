@@ -1,0 +1,21 @@
+{
+    "//location_example": ["Mountain View, CA", "Brazil", "EU", "LATAM", "Worldwide"],
+    "location": ["Worldwide"],
+    "//attendance_example": ["Remote", "Onsite", "Hybrid"],
+    "attendance": ["Flexible hours","Fully remote setup"],
+    "//type_example": ["Full-time", "Internship", "Part-time", "Contract"],
+    "type": null,
+    "//minimal_experience_example": ["No experience", "1", "3", "5", "7", "10"],
+    "experience": null,
+    "//salary_example": {"min": 800000, "max": 1000000, "format": "annually", "currency": "usd"},
+    "salary": null,
+    "//tags_example": ["Backend", "Frontend", "Fullstack", "Mobile", "DevOps", "Data", "Security", "QA"],
+    "tags": ["Product Marketing Manager","Marketing","Brand Management","SaaS","Consumer Goods","Market Research","Win/Loss Analysis"],
+    "//skills_example": ["Java", "Python", "PHP", "Spring Framework", "Django"],
+    "skills": ["Strategic thinking","Storytelling","Market analysis","Communication","Collaboration"],
+    "//overview_example": "Looking for a software engineer to work on the next generation of Google Search, improving search quality and user experience.",
+    "overview": "Superside is looking for a Senior Product Marketing Manager to drive our product marketing strategy.",
+    "description": "Superside is looking for a Senior Product Marketing Manager to drive our product marketing strategy. You will be responsible for shaping Superside's brand narrative and positioning our product and services in the market. This role is ideal for a strategic thinker with a passion for storytelling and a deep understanding of market dynamics. You will own a key function in a marketing team that has proven its ability to drive rapid growth from $4M-$45M ARR, and be part of our ongoing growth journey from $45M-$100M ARR and beyond.",
+    "//requirements_example": ["Good communication skills", "Team player", "Self-motivated", "etc."],
+    "requirements": ["Bachelor's degree in Marketing, Business, or a related field. Master's degree is a plus","5+ years of experience in product marketing, brand management, or a related role, preferably in the SaaS, or consumer goods industry","Proven track record of crafting compelling brand stories and narratives","Strong analytical skills with the ability to translate data into actionable strategies","Exceptional communication and collaboration skills","Experience in market research and win/loss analysis"]
+}
