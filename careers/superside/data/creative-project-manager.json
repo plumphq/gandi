@@ -1,20 +1,28 @@
-{
-    "id": 12,
-    "companyId": 3,
-    "title": "Creative Project Manager",
-    "location": "{Worldwide}",
-    "type": "{Full-time}",
-    "attendance": "{Remote}",
-    "experience": "{3}",
-    "salaryMin": 0,
-    "salaryMax": 0,
-    "salaryFormat": "Unspecified",
-    "salaryCurrency": "USD",
-    "salaryBonus": "Unspecified",
-    "tags": "{\"Creative Project Management\"}",
-    "skills": "{\"Project Management\",\"Account Management\",\"Creative production\",\"Creative communication\",\"Adobe Suite\",Figma,\"Digital advertising\",\"Social media\",Branding}",
-    "overview": "Superside is looking for Creative Project Managers to strengthen their team. Joining the Creative Services department, you'll build and deliver creative strategy and assets for some of the most innovative companies on the planet.",
-    "description": "In this role, you'll have the responsibility for key accounts from day one, a steep learning curve and an exciting growth path toward team leadership. You'll contribute to account strategy, identify and meet customers' needs, manage multiple high-paced creative projects, and collaborate with customers and creatives. You'll also partner with customers to leverage our creative teams' capabilities and continuously learn and develop yourself and others.",
-    "requirements": "{\"3+ years of experience as a Project/Account/Campaign manager, or Creative producer within a brand or advertising function\",\"Excellent understanding of creative communication and how creative content can drive business outcomes\",\"Understanding of creative craft with a solid ability to scope and budget\",\"Familiarity with the Adobe Suite (Ps, Ai, Ae, Id) and Figma\",\"High-level understanding of Digital advertising and social media platforms, or Branding and communications\",\"An organized, customer-centric and detail-oriented approach, with an account management mindset\",\"Excellent verbal and written English skills required to present ideas and coordinate work in large international groups\",\"Autonomy, decisiveness, and accountability\"}",
-    "applicationUrl": "https://careers.superside.com/creative-project-manager"
-}
+            {
+                "id": 36,
+                "companyId": 3,
+                "title": "Creative Project Manager",
+                "location": ["Global"],
+                "type": ["Contractor"],
+                "attendance": ["Remote"],
+                "experience": 3,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Project Management","Creative Strategy","Creative Assets","Account Management","Budgeting","Adobe Suite","Digital Advertising"],
+                "skills": ["Adobe Suite","Figma","Digital advertising","Social media platforms","Branding","Communications","English skills"],
+                "overview": "Superside is looking for Creative Project Managers to build and deliver creative strategy and assets for innovative companies, with key account responsibility from day one and a growth path towards team leadership.",
+                "description": "Superside is looking for Creative Project Managers to strengthen their team.
+
+
+Joining the Creative Services department, you'll build and deliver creative strategy and assets for some of the most innovative companies on the planet—all while working in a global remote community focused on making the future of work brilliant.
+
+
+In this role, you'll have the responsibility for key accounts from day one, a steep learning curve and an exciting growth path toward team leadership.
+",
+                "extras": [{"title":"What You'll Do","content":["Contribute to account strategy to proactively identify and meet customers’ needs with creative work","Identify upgrade, expansion opportunities and churn risk, and take measures to ensure retention","Manage 20+ concurrently ongoing high-paced creative projects—from strategy to concept to production— collaborating with numerous customers and creatives","Identify, discuss and clarify customers’ objectives and needs. Turn them into creative recommendations and concise creative briefs, present output and discuss feedback","Scope, budget, plan, coordinate and execute projects","Motivate the creative team to deliver a 10/10 customer experience on every single project","Partner with our customers to support them in finding the best way to leverage our creative teams' capabilities to achieve their business objectives","Continuously learn, develop, and grow yourself and others"]},{"title":"What You'll Need To Succeed","content":["3+ years of experience as a Project/Account/Campaign manager, or Creative producer within a brand or advertising function","Excellent understanding of creative communication and how creative content can drive business outcomes","Understanding of creative craft with a solid ability to scope and budget","Familiarity with the Adobe Suite (Ps, Ai, Ae, Id) and Figma","High-level understanding of Digital advertising and social media platforms, or Branding and communications","An organized, customer-centric and detail-oriented approach, with an account management mindset","Excellent verbal and written English skills required to present ideas and coordinate work in large international groups","Autonomy, decisiveness, and accountability"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/superside/0d5efb61-c187-4430-ac7e-003ab992aba2"
+            }
