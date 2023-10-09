@@ -1,0 +1,7 @@
+# if your company is using lever AST, you can simply define the lever board url, and
+# all the jobs will be automatically fetched from there
+# note: if lever board jobs are prioritized, you can remove the duplicated careers section
+lever_board: https://jobs.lever.co/spotify/
+# important: only one careers object per file.
+careers:
+  - url: https://jobs.lever.co/spotify/3fdc8a58-2f66-4872-b839-9d3593e2d7bf

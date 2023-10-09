@@ -1,0 +1,29 @@
+# required, company name
+name: Spotify
+# required, company base url (not domain!)
+url: https://www.spotify.com/
+# required, company careers page (!important: company careers page, not an external job board)
+careers_url: https://www.lifeatspotify.com/jobs
+# required, company description (markdown unsupported, 300 characters ~ 3-4 sentences max.)
+description: Spotify transformed music listening forever when we launched in 2008.
+  Our mission is to unlock the potential of human creativity by giving a million
+  creative artists the opportunity to live off their art and billions of fans the
+  opportunity to enjoy and be inspired by these creators. Everything we do is driven
+  by our love for music and podcasting. Today, we are the world’s most popular audio
+  streaming subscription service with a community of more than 299 million users.
+
+# optional (recommended), company icon url, preferably in a square/circle formats, any size, .png / .jpg / .svg
+icon: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Spotify_App_Logo.svg/1200px-Spotify_App_Logo.svg.png
+# optional (recommended), company slogan / one sentence brief (90 characters max.)
+slogan: Music for everyone.
+# optional (recommended), additional links to company social media profiles
+links:
+  - title: glassdoor
+    url: https://www.glassdoor.com/Overview/Working-at-Spotify-EI_IE408251.11,18.htm
+  - title: twitter
+    url: https://twitter.com/Spotify
+  - title: facebook
+    url: https://www.facebook.com/Spotify/
+
+# optional, company headcount, LinkedIn format: [1-10, 11-50, 51-200, 201-500, 501-1000, 1001-5000, 5001-10000, 10001+]
+size: 10001+
