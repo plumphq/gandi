@@ -1,0 +1,24 @@
+            {
+                "id": 43,
+                "companyId": 4,
+                "title": "Backend Engineer, Personalization",
+                "location": ["New York, NY"],
+                "type": ["Permanent"],
+                "attendance": ["Hybrid"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Java","APIs","Scalability","Backend Systems","Service Development","Music Recommendations","Agile Methodology"],
+                "skills": ["Java","APIs","Java services","improve Spotify’s music recommendations","distributed services","big data processing technologies","system design"],
+                "overview": "The Backend Engineer, Personalization position involves collaborating with internal stakeholders, architecting and developing Java services for millions of users, improving music recommendations, and solving challenging problems within an agile team, all while working in the Eastern Standard Time zone.",
+                "description": "The Personalization team makes deciding what to play next easier and more enjoyable for every listener. From Blend to Discover Weekly, we’re behind some of Spotify’s most-loved features. We built them by understanding the world of music and podcasts better than anyone else. Join us and you’ll keep millions of users listening by making great recommendations to each and every one of them. We ask that our team members be physically located in Central European time or Eastern Standard/Daylight time zones for the purposes of our collaboration hours.
+
+In Mixer, we develop and operate a platform powering Spotify’s programmatic playlists and listening experiences. We also optimize for business outcomes and give the creators community a way to achieve their goals, all while ensuring continuous improvement in listener satisfaction.
+",
+                "extras": [{"title":"What You'll Do","content":["Collaborate with key internal stakeholders to determine how to design backend systems and APIs to meet their scalable needs","Architect, develop, and operate Java services deployed to hundreds of millions of users","Improve Spotify’s music recommendations to accomplish business goals while maintaining and improving listener satisfaction.","Be an independent technical contributor within an autonomous, cross-functional agile team","Collaborate with other engineers, product owners, and designers to identify and solve challenging problems","Work on what you want during regular hack days and bi-annual hack weeks"]},{"title":"Who You Are","content":["You have experience working directly with stakeholders to understand, document and develop APIs and systems to meet their requirements, driving increased adoption and reducing reliance on custom one-off implementations","You have experience writing distributed, high-volume services and know how to deploy and keep them running in production","You have an interest in big data processing technologies","You love working in an environment where you constantly experiment and iterate quickly","You believe data is the most powerful tool for informed decision-making","You have a deep understanding of system design, data structures, and algorithms","You care about quality and you know what it means to ship high quality code","You may have experience working on a platform team"]},{"title":"Where You'll Be","content":["Location is flexible. You will join a team that spans Boston, New York and Remote employees, so you need to be based in Eastern Standard Time zone"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/spotify/af43824d-d6cb-49e4-a469-e7873b379dbd"
+            }
