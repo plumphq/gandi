@@ -1,0 +1,30 @@
+            {
+                "id": 53,
+                "companyId": 4,
+                "title": "Data Scientist - Music",
+                "location": ["New York, NY"],
+                "type": ["Permanent"],
+                "attendance": ["Remote"],
+                "experience": 3,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Data Scientist","Music","Spotify","Content Platform","Creator Products","Promotional Tools","Native Ads"],
+                "skills": ["Python","Machine Learning","Product Analytics","BigQuery","SQL","Tableau","Data Science"],
+                "overview": "The Data Scientist - Music position involves building the technology and tools for visual promotional formats that empower artist teams to build audiences and connects with collaborators, utilizing a deep understanding of listener preferences and behaviors.",
+                "description": "The Music team builds Spotify's content platform and creator products. Our content platform ingests, understands, and safeguards the world's audio. Our creator products - Spotify for Artists, Canvas, Discovery Mode, and Marquee - enable artists and their teams to connect with collaborators and grow & monetize their audience.
+
+Central to the Music team’s vision is the development of promotional tools for artists and labels powered by Spotify’s deep knowledge of listener preferences and behaviors. Music Promotion as a whole is dedicated to developing products that help artists get their music into the ears of existing and potential fans, and within this larger team, sits Native Ads PI. 
+
+We’re looking for a Data Scientist to join the Native Ads team which builds visual promotional formats that empower artist teams to build audiences of fans with formats, targeting & measurement tools that are purpose built for music. The team is currently 4 people strong with 2 DS, 1 sales analyst, and a user researcher.  
+
+In this role, you will partner with cross-functionally product, engineer and user research to build the technology that makes this a reality by accounting for a varied set of artist needs, preferences, and goals. You will tackle complex problems to develop a behavioral understanding of customer needs, as well as to forecast and predict the value that our tools deliver to them & Spotify. In doing so, you will have a proven impact on bringing Spotify’s two-sided marketplace vision to life.
+
+As part of the Product Insights team, you will help us define the next generation of promotion products for the music industry. You’ll also be connected to the broader Spotify insights community to expand the influence of your team's work.
+",
+                "extras": [{"title":"What You'll Do","content":["Work closely with cross-functional teams of data scientists, researchers, product owners, engineers, designers, marketers, and others across the company to develop the next generation of promotion tools for artists.","Identify the most impactful opportunities for product development based on user needs, and execute on them diligently and resourcefully.","Partner closely with other data scientists to inform, build and test hypotheses that deliver actionable insights to improve and expand our products.","Define the metrics and dashboards we use to measure the health and success of our products.","Mentor and coach data scientists and tackle leadership opportunities within the larger data science community.","Maintain a culture of rigor and data-informed decision-making to drive tangible business impact."]},{"title":"Who You Are","content":["3+ years of demonstrated ability in a similar data scientist role.","Degree in data science, computer science, statistics, economics, mathematics, or a similar quantitative field.","Experience working with Machine Learning teams.","You have proven experience as a Data Scientist using experimentation methods and advanced statistical modeling to drive product development.","You have experience with product analytics, including crafting success metrics, running power analyses, determining statistical significance, and presenting findings with clear product recommendations or implications.","You have hands-on experience synthesizing insights from data using tools such as Python, R, BigQuery, SQL, Tableau.","Strong communication skills and value building strong relationships with colleagues and partners as well as the ability to explain sophisticated topics in straightforward terms.","You’re a compelling storyteller who can communicate in succinct and inspiring ways to audiences with varied data science experience to influence real world product or feature decisions."]},{"title":"Where You'll Be","content":["We offer you the flexibility to work where you work best! For this role, you can be within North America as long as we have a work location and you are willing to work east coast hours."]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/spotify/01c714ee-1578-429f-a50f-97b60c39d43e"
+            }
