@@ -1,0 +1,30 @@
+            {
+                "id": 74,
+                "companyId": 4,
+                "title": "Product Marketing Manager, India",
+                "location": ["Mumbai"],
+                "type": ["Permanent"],
+                "attendance": ["Onsite"],
+                "experience": 6,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Product Marketing","India","Monetization","Go-to-Market","Adoption","Revenue Growth","Cross-Functional"],
+                "skills": ["digital advertising","audio","market requirements","product strategy","commercial roadmap","adoption blockers","go-to-market launches"],
+                "overview": "The Product Marketing Manager, India position at Spotify Advertising involves defining product and go-to-market strategies, driving successful launches, and improving product adoption and revenue growth in the Indian market.",
+                "description": "Spotify Advertising is building the world’s leading audio-first advertising platform and defining the next frontier for digital advertising. 
+We are seeking a Product Marketing Manager (PMM) to join our Monetization Product Marketing team with Advertising Sales to cover one of our top growth markets, India. 
+
+This role will serve as the voice of the India market and customers there, define product strategy, develop go-to-market strategy, and drive successful launches that improve product adoption and revenue growth while driving real business outcomes for our advertising partners.
+
+This is a highly cross-functional role and offers the chance to define a significant impact on our rapidly growing global advertising business. The Monetization Product Marketing team partners closely with our advertising R&D teams (product, engineering, design, etc.), ad sales, field marketing, business operations, research, production, legal, content, and PR/communications teams.
+
+We are seeking a person with a passion for digital advertising and audio (music + podcasts). 
+
+",
+                "extras": [{"title":"What You'll Do","content":["Collect and distill market requirements and serve as the voice of the market and its customers for our advertising R&D teams","Partner with product teams to define the product strategy and establish the commercial roadmap in India","Collaborate with sales leadership to understand adoption blockers and provide client-facing support","Establish and complete cross-functional go-to-market launches for new advertising products","Produce product adoption reports that identify adoption blockers and proposed growth plans","Serve as the subject matter expert on our ad products both internally and externally"]},{"title":"Who You Are","content":["You have a BA or BS degree; MBA or quantitative graduate degree a plus","You have a minimum of 6+ years of advertisement/marketing experience, ideally with experience buying or selling ads or building new ad products; experience of SMB/self-serve sales, B2B marketing and related technical knowledge a big plus","You have a minimum of 2+ years of working in a digital advertising company operating globally","You have a deep understanding of digital advertising industry and stakeholders in India market","You have a passion for digital advertising and audio (music + podcasts)","You have a track record of influencing senior collaborators in advertising sales, R&D and cross-functional teams","You have a curiosity about telling stories that are backed by data analysis","You have experience working globally and are empathetic to customer needs","You can explain the value of highly technical concepts in human, relatable, and compelling language"]},{"title":"Where You'll Be","content":["You will be based in the Mumbai office"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/spotify/68ac9dfa-d316-436f-89f9-917b2c8c0b16"
+            }
