@@ -1,0 +1,24 @@
+            {
+                "id": 82,
+                "companyId": 4,
+                "title": "Senior Product Manager - Ad Formats",
+                "location": ["New York, NY"],
+                "type": ["Permanent"],
+                "attendance": ["Remote"],
+                "experience": 7,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Ad Formats","Product Manager","Advertising Platform","Mobile","Video","Display Formats","Revenue"],
+                "skills": ["Mobile Experience","Technical Understanding","Advertising Products","Ad Tech","Design Principles","Product Roadmap","Business Judgment"],
+                "overview": "The Senior Product Manager - Ad Formats will be responsible for building personalized, engaging, and performant ad formats and experiences for Spotify's advertising platform, with a focus on mobile, video, and native display formats to deliver outstanding value for listeners and advertisers.",
+                "description": "Our mission on the Advertising Product & Technology team is to build a next generation advertising platform that aligns with our unique value proposition for audio and video. We work to scale the user experience for hundreds of millions of fans and hundreds of thousands of advertisers. This scale brings unique challenges as well as tremendous opportunities for our artists and creators.
+
+We are looking for a passionate and experienced Senior Product Manager to help build the next generation of advertising at Spotify. Our advertising platform is rapidly growing, and you will build personalized, engaging and performant ad formats and experiences. You will build, test, and launch innovative formats with a focus on mobile, video, and native display formats to deliver outstanding value for our listeners and our advertisers. Your work will help Spotify deliver an excellent Free listener experience and performant promotional products for our advertisers.
+",
+                "extras": [{"title":"What You'll Do","content":["Build brand new ad formats and experiences (video and/or display) that listeners love and advertisers want to buy","Work cross-functionally with engineering, design, product insights and business partners and collaboratively with other product teams to identify and drive opportunities for improved revenue and user experience","Create products which scale on our Spotify Ads Platform","Help develop a holistic ad strategy for the future of the Spotify Ads Business","Create a healthy and productive environment in your team through honesty, accountability, empathy and inclusivity."]},{"title":"Who You Are","content":["You have 7+ years of experience driving consumer-facing products, and can show the impact of the products you have shipped.","You have built products with a focus on mobile experience.","You have a technical understanding of how to build products that scale.","You have experience building advertising products or in the ad tech domain.","You care deeply about the user experience and have extensive knowledge in design principles, U/X, quantitative and qualitative research.","You can synthesize a strategy, build a product roadmap, and are dedicated at executing to achieve your business goals","You are comfortable facilitating planning and decision-making across several teams, including partners, and know how to encourage and empower teams to get things done.","You have sound business judgment as well as ability to analyze qualitatively, quantitatively, problem-solve, and prioritize.","You have strong written and oral communications skills, and can clearly communicate to technical and non-technical stakeholders at all levels."]},{"title":"Where You'll Be","content":["We are a distributed workforce enabling our band members to find a work mode that is best for them!","Where in the world? For this role, it can be anywhere in the Americas region in which we have a work location","Prefer an office to work from home instead? Not a problem! We have plenty of options for your working preferences. Find more information about our Work From Anywhere options here.","Working hours? We operate within the Eastern Standard time zone for collaboration."]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/spotify/cc8ae217-88ea-4886-bcab-4a7e0918a60a"
+            }
