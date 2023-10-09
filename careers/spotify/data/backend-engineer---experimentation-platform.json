@@ -1,0 +1,24 @@
+            {
+                "id": 42,
+                "companyId": 4,
+                "title": "Backend Engineer - Experimentation Platform",
+                "location": ["Stockholm"],
+                "type": ["Permanent"],
+                "attendance": ["Hybrid"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Backend Engineering","Experimentation Platform","Java Services","Systems Design","Data Structures","Algorithms","Customer Interaction"],
+                "skills": ["Java","systems design","data structures","algorithms","communication","collaboration","user experience"],
+                "overview": "Backend Engineer - Experimentation Platform position: You will be part of the skilled and highly engaged Experimentation Platform team at Spotify, working on improving the experimentation experience for teams internally and externally, contributing to the creation of data platforms, and collaborating with customers and stakeholders. Based in Stockholm, Sweden.",
+                "description": "The Experimentation Platform team at Spotify is a skilled and highly engaged group of engineers that are distributed over 6 locations in Europe. Today they are running simultaneous experiments across several hundreds of teams working on a multitude of different products built for hundreds of millions of users. Experimentation touches almost all of Spotify’s functions from marketing via content management to consumer products. Recently the team also announced Confidence, the commercial version of the Experimentation Platform.
+
+As an engineer in the Experimentation Platform product area, you’ll be working on hard problems that bring value to our internal and external customers. You will play an instrumental role in improving the experimentation experience for teams at Spotify and around the world.
+",
+                "extras": [{"title":"What You’ll Do","content":["You have a consistent record of breaking down sophisticated technical problems into small, achievable pieces and iterating quickly in a startup-like environment.","You’ve shipped high-impact code and have shown the ability to pragmatically take solutions from conceptualization to production. Specifically, you have a record of directly contributing to the creation of data platforms or developer experiences.","You demonstrate a specialty in writing impactful, well-patterned Java services and a strong understanding of systems design, data structures, and algorithms.","You love to work directly with internal and external customers. Not only do you have a passion for building robust solutions, but also represent and promote directly with customers and stakeholders.","You are a strong communicator and collaborator and want to contribute to an ever-improving user experience built on partnerships with customers, product managers, and engineering leadership in an emerging B2B business model."]},{"title":"Who You Are","content":["You’re joining a team of people that practice a respectful, playful, and sincere culture. You’ll continue to learn how to scale systems, all while growing in your interactions with engineers, leaders, and collaborators.","You’re joining an organization that values impactful ICs who strive to build an excellent product and developer experience.","You thrive in high-paced and empowered environments. You know that moving fast and taking action not only moves us forward but also builds trust with customers and yields important learnings.","You’re joining a company that constantly seeks to be best-in-class, both in product and people. You set a high bar for yourself and the people around you. From hack days to being a daily member of our backend developer community, you will learn from others, and they will learn from you!"]},{"title":"Where You’ll Be","content":["We are a distributed workforce enabling our band members to find a work mode that is best for them!","This position will be based in Stockholm, Sweden.","Prefer an office to work from home instead? Not a problem! We have plenty of options for your working preferences. Find more information about our Work From Anywhere options here."]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/spotify/43220c3e-b83f-4ebd-86d4-d2f52fd63c1f"
+            }
