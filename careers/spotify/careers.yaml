@@ -4,3 +4,4 @@
 lever_board: https://jobs.lever.co/spotify/
 # important: only one careers object per file.
 careers:
+  - url:
