@@ -1,8 +1,11 @@
+# if your company is using lever AST, you can simply define the lever board url, and
+# all the jobs will be automatically fetched from there
+lever_board: https://jobs.lever.co/superside/
 # important: only one careers object per file.
 careers:
   # required, concrete job listing url (not domain!)
   - url: https://careers.superside.com/creative-project-manager
-    # optional (recommended), list of keywords to search for in the listing,
+    # optional (but recommended), list of keywords to search for in the listing,
     # to make sure relevant listing processor is used, (case-insensitive)
     guidance:
       - creative
