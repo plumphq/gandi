@@ -2,7 +2,7 @@
     "//location_example": ["Mountain View, CA", "Brazil", "EU", "LATAM", "Worldwide"],
     "location": null,
     "//attendance_example": ["Remote", "Onsite", "Hybrid"],
-    "attendance": ["Fully remote"],
+    "attendance": ["Fully Remote"],
     "//type_example": ["Full-time", "Internship", "Part-time", "Contract"],
     "type": null,
     "//minimal_experience_example": ["No experience", "1", "3", "5", "7", "10"],
@@ -10,12 +10,12 @@
     "//salary_example": {"min": 800000, "max": 1000000, "format": "annually", "currency": "usd"},
     "salary": null,
     "//tags_example": ["Backend", "Frontend", "Fullstack", "Mobile", "DevOps", "Data", "Security", "QA"],
-    "tags": ["Generative AI"],
+    "tags": ["Generative AI","Branding","Ad Design","Social Creative","Illustration","Photographic Assets"],
     "//skills_example": ["Java", "Python", "PHP", "Spring Framework", "Django"],
-    "skills": ["AI tools","Design","Generative AI","Digital Ads","Creative Concepts","Dynamic Creative Optimization","Real-Time Marketing","Adobe Creative Suite","PowerPoint","Figma"],
+    "skills": ["AI Tools","Generative AI","Design","Dynamic Creative Optimization","Real-Time Marketing","Bannerflow","Storyteq","Celtra","Smartly","Adobe Creative Suite","PowerPoint","Figma"],
     "//overview_example": "Looking for a software engineer to work on the next generation of Google Search, improving search quality and user experience.",
-    "overview": "We’re seeking a purpose-driven and innovative Creative with a focus on Generative AI. You will join a distributed team of creatives specialized in AI and automation, working on various capabilities such as AI-enhanced Branding, Ad and Social creative, illustration, photographic assets, and illustration.",
-    "description": "We’re seeking a purpose-driven and innovative Creative with a focus on Generative AI. You will join a distributed team of creatives specialized in AI and automation, working on various capabilities such as AI-enhanced Branding, Ad and Social creative, illustration, photographic assets, and illustration.",
+    "overview": "We're seeking a purpose-driven and innovative Creative with a focus on Generative AI. Join our distributed team of creatives specialized in AI and automation, working on various capabilities such as AI-enhanced Branding, Ad and Social creative, illustration, photographic assets, and illustration.",
+    "description": "We are looking for a Creative with a focus on Generative AI to join our distributed team. As a Creative at Superside, you will generate visually stunning brand concepts and designs using AI tools. You will also utilize generative AI and automation tools to produce large-scale outputs. Your role will involve optimizing and streamlining design workflows, staying up-to-date with design trends, collaborating with teams, managing multiple projects, and actively problem-solving. You will have a solid understanding of Dynamic Creative Optimization, Real-Time Marketing tools, and Automation platforms. Proficiency in using AI tools and excellent presentation and design skills are essential. Strong communication skills, a bias for action, and experience managing creative projects are also required.",
     "//requirements_example": ["Good communication skills", "Team player", "Self-motivated", "etc."],
-    "requirements": ["BA or higher in Design, Creative or similar fields","2-4 years of experience in a creative design role","A passion for generative AI and programmatic creation","Proficiency in using AI tools to augment design processes","Experience in implementing and managing generative AI systems in a creative context","Demonstrated portfolio of Branding, Digital Ads, Creative Concepts, and Design","A solid understanding of Dynamic Creative Optimization, Real-Time Marketing tools, and Automation platforms such as Bannerflow, Storyteq, Celtra, Smartly","Excellent presentation and design skills using the Adobe Creative Suite, PowerPoint, Figma","Ability to quickly learn processes and multi-task projects with great detail","Excellent English verbal and written communication skills","Bias for action, proactive, customer-centric, and execution-driven mindset","Experience managing creative projects in their entirety"]
+    "requirements": ["BA or higher in Design, Creative, or similar fields","2-4 years of experience in a creative design role","Passion for generative AI and programmatic creation","Proficiency in using AI tools to augment design processes","Experience in implementing and managing generative AI systems in a creative context","Strong portfolio of Branding, Digital Ads, Creative Concepts, and Design","Solid understanding of Dynamic Creative Optimization, Real-Time Marketing tools, and Automation platforms such as Bannerflow, Storyteq, Celtra, Smartly","Excellent presentation and design skills using the Adobe Creative Suite, PowerPoint, Figma","Ability to quickly learn processes and multi-task projects with great detail","Excellent English verbal and written communication skills","Bias for action, proactive, customer-centric, and execution-driven mindset","Experience managing creative projects in their entirety"]
 }
