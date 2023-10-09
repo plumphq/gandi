@@ -1,0 +1,28 @@
+            {
+                "id": 83,
+                "companyId": 4,
+                "title": "Senior Sales Engineer - Backstage",
+                "location": ["New York, NY"],
+                "type": ["Permanent"],
+                "attendance": ["Hybrid"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Backstage","Open-source Platform","Developer Portals","Microservices","Infrastructure","Technical Sales","Web Development"],
+                "skills": ["React","TypeScript","Node","web development","cloud-based solutions","technology startup","backstage.io"],
+                "overview": "The Senior Sales Engineer - Backstage position involves helping customers understand and drive positive change to developer productivity through developer portal software.",
+                "description": "Originally conceived in Spotify, Backstage is now a leading open-source platform for building developer portals. Adopted by hundreds of companies, Backstage helps customers restore order to their microservices and infrastructure and enables product teams to ship high-quality code quickly — without compromising autonomy.
+
+Interested in helping us drive Spotify’s developer portal philosophy and increase market share? We in Spotify’s Backstage team are looking for a Senior Sales Engineer with a unique balance of technical knowledge, eye for business, and interpersonal skills to help our customers understand and drive positive change to developer productivity through developer portal software.
+We’re seeking versatile engineers skilled in technical sales, web development, and customer interaction who crave a challenge and feel energized to help realize Backstage’s enormous potential.
+
+Join a nimble, startup-like team of engineers, marketers, business developers, and product managers to drive an entirely new technology-focused business line and distribution channel. We want someone who’s passionate about that type of environment.
+Your daily work is flexible, and you can expect a broad and developing role in which the combination of technical knowledge and the ability to motivate change and shape client opportunities is central.
+",
+                "extras": [{"title":"What You'll Do","content":["Work hands-on with prospects, customers, and partners to demonstrate and communicate the value of Backstage and how it aligns with their needs","Develop technical content to support customer adoption, encompassing documentation, demonstrations, code samples, and blog posts.","When necessary, get hands-on and dig in to help address customer issues alongside Customer Success Engineering and Core Engineering","Collaborate with sales, marketing, and product to devise joint go-to-market strategies that enhance user experiences, increase market share, and drive revenue growth","Partner with Developer Relations to grow the Backstage footprint","Handle numerous accounts concurrently and strategically"]},{"title":"Who You Are","content":["The ideal candidate will possess both a sales and engineering background that allows them to strategically engage at the C-level as well as with software developers and IT architects","Proficiency in web development with React, TypeScript, and Node","Self-starter who can prioritize different projects alongside customer engagements","Excellent communicator able to concisely explain technical solutions across different audiences","Previous experience helping customers build cloud-based solutions (plus)","Prior experience working for a technology startup (plus)","Experience working with/contributing to backstage.io (plus)"]},{"title":"Where You'll Be","content":["This position will be based in North America/New York - East Coast, EST time zone","We are a distributed workforce enabling our band members to find a work mode that is best for them!","Prefer an office to work from home instead? Not a problem! We have plenty of options for your working preferences. Find more information about our Work From Anywhere options here."]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/spotify/1cd2c7a8-2ebe-4244-a91c-3f74aa795f59"
+            }
