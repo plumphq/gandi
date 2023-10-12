@@ -1,0 +1,27 @@
+            {
+                "id": 471,
+                "companyId": 6,
+                "title": "Technical Program Manager (L5) - Ads",
+                "location": ["Los Gatos, California"],
+                "type": [],
+                "attendance": ["Onsite"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": [""],
+                "skills": [""],
+                "overview": "The Technical Program Manager (L5) - Ads position at Netflix is responsible for driving high impact cross-functional ads programs, collaborating with various teams and senior leadership to execute and deliver strategic programs in the Ads space.",
+                "description": "Netflix is one of the world's leading entertainment services with 238 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. 
+
+We launched a new ad-supported tier in November 2022 to offer our members more choice in how they consume their content. Our new tier allows us to attract new members at a lower price point, while also creating a compelling path for advertisers to reach audiences that are deeply engaged.
+
+We are looking for a Technical Program Manager with Ads domain experience to drive high impact cross-functional ads programs. This role requires strong collaboration with product, data science, business, peer technical program managers and senior leadership to execute, track and deliver high impact strategic programs in the Ads space.
+
+",
+                "extras": [{"title":"Responsibilities","content":["Lead multiple cross-functional programs, in collaboration with product, engineering, design, and data science, that deliver technical solutions.","Provide deep domain expertise to form technical strategies with engineering partners.","Drive engagement with internal partners, work to decompose requirements into technical execution plans with measurable milestones, effectively optimize scope and schedule, manage cross-functional dependencies, and proactively manage risks.","Craft clear communication of progress toward goals, reporting status to stakeholders and leadership."]},{"title":"Requirements","content":["8+ years of technical program management experience","Ads domain experience","Proven experience driving large-scale software projects, managing the definition of technical strategies, and building long-term scalable solutions","Deep understanding and point of view on product growth and discovery solutions","Highly skilled, experienced, and enjoys orchestrating multiple programs with many moving parts and creating partnerships with cross-functional teams","Able to identify gaps in solutions, debate technical approaches and weigh in on product vs. technology tradeoffs","Excellent written and verbal communication skills, including the ability to clearly articulate business impact and technical constraints tailored to the audience","Self-starter who enjoys tackling 0 to 1 problem spaces and quickly bringing organization and direction","Exemplify the Netflix culture by understanding, advocating, and demonstrating its values."]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/5b234c8b-6950-41b2-a6ca-f98f26cb28b3"
+            }
