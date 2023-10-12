@@ -1,0 +1,26 @@
+            {
+                "id": 164,
+                "companyId": 5,
+                "title": "Software Engineer I",
+                "location": ["Remote, Spain"],
+                "type": ["Full-time"],
+                "attendance": ["Remote"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Python","Django","Unit Testing","Front-end Technologies","Database Experience","AWS","API Development"],
+                "skills": ["Python","Django","HTML","CSS","Ajax","Javascript","MySQL"],
+                "overview": "Software Engineer I will be responsible for building beautiful, responsive, delightful, and intuitive user interfaces using Python and Django web framework, with proficiency in front-end technologies and knowledge of maintainable and well-tested code.",
+                "description": "THE CHALLENGE
+Eventbrite's business continues to grow and scale rapidly, powering millions of events. Event creators and event goers need new tools and technologies that empower them to have the most meaningful live experiences. As a Software Engineer at Eventbrite, you will build beautiful, responsive, delightful and intuitive user interfaces that people are excited to use
+
+THE TEAM
+We're a people-focused Engineering organization:  the women and men on our team value working together in small teams to solve big problems, supporting an active culture of mentorship and inclusion, and pushing themselves to learn new things daily. Pair programming, weekly demos, tech talks, and quarterly hackathons are at the core of how we’ve built our team and product. We believe in engaging with the community, regularly hosting free events with some of the top technical speakers, and actively contributing to open source software (check out Britecharts as an example!). Our technology spans across web, mobile, API, big data, machine learning, search, physical point of sale, and scanning systems. To learn more about some of the frontend teamwork, check out our frontend blog 
+",
+                "extras": [{"title":"THE SKILL SET","content":["Advanced English Level","Experience with or the excitement to work with Python and Django web framework","Understanding that great code is also maintainable code","You care about making sure your code is well tested","A result driven self starter with great communication and collaboration skills","Unit-testing know-how required, experience with TDD or BDD is an added bonus","Knowledge of front-end technologies (HTML, CSS, Ajax, Javascript)Database experience (ideally MySQL, NoSQLis a plus)","OOP/OOD knowledge"]},{"title":"BONUS POINTS","content":["Experience with AWS and developing APIs","Experience using non-relational databases","Familiarity with Eventbrite and a passion for live events"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/eventbrite/786a6dd8-ba55-4b2d-b452-634dc348e12b"
+            }
