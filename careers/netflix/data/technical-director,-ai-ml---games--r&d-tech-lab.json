@@ -1,0 +1,25 @@
+            {
+                "id": 500,
+                "companyId": 6,
+                "title": "Technical Director, AI/ML - Games- R&D Tech Lab",
+                "location": ["Los Gatos, California"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": 10,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["AI/ML Technologies","Game Design","Team Leadership","Prototyping","Technical Complexity","Communication","Collaboration"],
+                "skills": ["ML/AI technologies","game development systems","processes","team leadership","player empathy","technical creativity","technical complexity"],
+                "overview": "The Technical Director, AI/ML - Games- R&D Tech Lab position involves leading an incubation style R&D team to explore new applications of emerging AI/ML technologies in order to discover and prototype new game designs and architectures that could revolutionize the games industry.",
+                "description": "The Game Studio is building an incubation style R&D team chartered to lead our investments in building new kinds of games not previously possible without ongoing advances AI/ML technologies.  We aim to explore new applications of emerging technologies to discover game designs and architectures not before possible. This team will incubate and prototype concepts with the intent to eventually build a complete team to ship something new that could change the games industry and reach player audiences in new ways, as well as influencing adoption of AI technologies and tooling that are likely to level up our practices.
+
+We’re looking for a Technical Director with a game industry track record of leading technically complex and creative projects that lead to successful, innovative games, and will be expected to balance strategic and technical thinking with hands-on engineering work, especially through the early phases. This person will also be asked to represent the team and projects as a whole and eventually build a more complete team to eventually ship a game based on early discoveries of novel prototypes that show big opportunity.  Pre-existing deep knowledge of AI/ML is not required, but some awareness and interest in diving in and building a workable knowledge in collaboration with an AI/ML expert partner is expected.
+
+",
+                "extras": [{"title":"RESPONSIBILITIES","content":["Games technology strategy, development and prototyping: Being able to find opportunities to integrate ML/AI technologies with not entirely known game development systems and processes is key, and being able to do enough hands on prototyping work in the early days to demonstrate inspiring traction is needed.","Team Leadership: Able to work across disciplines with minimum process to organize work and create predictability in an unpredictable space, eventually working with leadership to recommend, specify, and build a team around whatever discoveries the team finds that represents a major opportunity.","Creative: The ideal candidate is able to bring player empathy to the technical work and can reasonably pursue “fun” as well as technical creativity. In the long term, the team will consider dedicated design resources but in the short term until there’s a better understanding of what is possible, a technology leader who also understands game design and perhaps proactively works with other design leaders in our organization to hone thoughts will be important."]},{"title":"REQUIREMENTS","content":["10+ years experience shipping AAA, casual or mobile games, with high complexity innovations (vs solely iterative or pure sequels), in a technical director type role.","High comfort with technical complexity and ambiguity, and an interest to pioneer","Exceptional communication, cross discipline collaboration and leadership skills","Passion for making video games, and how technology enables joy in innovative ways"]},{"title":"Bonus Skill","content":["Strong product/design sense","Familiarity with multiple game engine technologies such as Unity3D and UnrealEngine","Expertise in leveraging mixes of “cloud” services and APIs to create complex game features and architectures"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/1bcaea57-26dd-4127-922e-4701a76d57b0"
+            }
