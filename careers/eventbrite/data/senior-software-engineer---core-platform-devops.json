@@ -1,0 +1,29 @@
+            {
+                "id": 161,
+                "companyId": 5,
+                "title": "Senior Software Engineer - Core Platform (Devops)",
+                "location": ["Remote, India"],
+                "type": ["Full-time"],
+                "attendance": ["Remote"],
+                "experience": 2,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Systems Engineering","Software Delivery Pipeline","Python","Django","MySQL","AWS","React"],
+                "skills": ["Docker","AWS","Software delivery pipelines","Software developer","Python","GO","Kubernetes"],
+                "overview": "A Senior Software Engineer - Core Platform (Devops) in this company will be responsible for defining, designing, and implementing infrastructure and tooling in order to increase the speed, quality, and efficiency of the engineering organization by working on deep problems and helping others learn and adopt solutions, and by collaborating with various teams to work on backend technologies such as Redis, Kafka, and ElasticSearch.",
+                "description": "THE CHALLENGE
+Eventbrite is a people-first organization. Our goal of building the global platform for live experience relies on the foundation of top talent and strong company culture. Our team is focused on developer experience and architecture. Our ideal candidate is someone that is willing to work on deep problems and can also explain and help others learn and adopt solutions.
+
+THE TEAM
+We work on foundational aspects key to making our Development teams successful. We are responsible for the efficiency of the software development lifecycle for our applications. This includes proposing and building new application architecture and building tooling to create a more pleasant developer experience while at the same time keeping our core systems up to date.
+
+THE ROLE
+We are looking for a creative problem solver and communicative engineer that’s interested in Systems Engineering. This team is a newly formed team in 2023 whose mandate is to increase the speed, quality, and efficiency of the engineering organization. We are at a point wherein the number of services and infrastructure pieces we’re dealing with everyday has become unwieldy and we need highly skilled engineers on the devtools infrastructure team to scale our capabilities. As a Senior Software Engineer you will be responsible for defining, designing, and implementing the infrastructure and tooling that powers the software delivery pipeline.
+",
+                "extras": [{"title":"THE TECH STACK","content":["Eventbrite is one of the world’s largest Django-powered sites by request volume. Python, Django, and MySQL are the primary off-the-shelf technologies in our stack. We are hosted on AWS.PySOA, our services framework, builds on these core technologies. Because this team interfaces with many other teams, there’s potential to work with a variety of other backend technologies in our stack, including Redis, Kafka, ElasticSearch to name a few. On the frontend, we make extensive use of React and Redux."]},{"title":"THE SKILL SET","content":["1+ years experience developing Docker containers","1+ years experience working with cloud technologies (AWS preferred)1+ years experience working with software delivery pipelines","2+ years experience as a software developer","Willingness to work on a distributed team","Efficient, practical programmer with a record of producing maintainable code","Great communication skills and ability to explain complex technical concepts to a varied audience","Strong software engineering background and experience with cross-team collaboration"]},{"title":"BONUS POINTS","content":["Experience with Python or GO","Open source contributions","Experience with defining software delivery pipelines","Experience with Kubernetes (EKS preferred)","Past experience as a Site Reliability Engineer (SRE)Experience defining SLOs/SLAs and implementing alerting, monitoring, and writing runbooks","Experience with Kafka","Experience with IaC: Terraform and CDK","Experience with Hashicorp’s products: Nomad, Vault and Consul","Experience with container security"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/eventbrite/6d78e2ec-919a-4ce5-b230-b707bca979f7"
+            }
