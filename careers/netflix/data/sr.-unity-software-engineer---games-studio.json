@@ -1,0 +1,24 @@
+            {
+                "id": 450,
+                "companyId": 6,
+                "title": "Sr. Unity Software Engineer - Games Studio",
+                "location": ["Remote, United States"],
+                "type": ["Full-time"],
+                "attendance": ["Remote"],
+                "experience": 8,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Unity Software Engineer","Game Systems","Technical Mentorship","Gameplay","Engine Features","Technical Specifications","Tools and Processes"],
+                "skills": ["Unity","game systems","gameplay features","coding standards","programming skills","leadership","software development life cycle"],
+                "overview": "The Senior Unity Software Engineer - Games Studio is responsible for managing, designing, and implementing game systems, providing technical mentorship and guidance for junior engineers.",
+                "description": "Sr. Unity Software Engineer
+
+The Senior Software Engineer is responsible for the management, design, and implementation of game systems. You will provide technical mentorship and guidance for junior engineers.
+",
+                "extras": [{"title":"Essential Functions/Responsibilities","content":["Work on key gameplay and engine features independently or in a supervisory capacity over a small, cross-disciplinary team","Collaborate with Principal/Director level engineers to define technical specifications for large systems","Support project Lead. In their absence, fill in as needed for project meetings. Disseminate information and updates as appropriate and necessary","Partner with other engineers to develop tools and processes that improve efficiency and quality","Develop and update feature documentation, maintain shared library of tech and process documentation","Independently design and implement key systems and gameplay features","Demonstrate expertise/ownership in at least one major area of the codebase","Mentor, motivate and inspire other engineers","Help guide or lead cross-disciplinary dialogs to drive features from initial concept to completion","Exemplify reliability, accountability, and professionalism in all work-related interactions","Partner with principal/director-level engineers to drive coding standards and best practices for the department and project team"]},{"title":"Skills and Abilities","content":["Advanced programming skills within the relevant development environment(s)","Ability to objectively evaluate code as part of a formal review process and effectively communicate opportunities for improved performance, resilience, and stability","Ability to coordinate and build effective partnerships within the engineering team and other development verticals","Demonstrated fundamentals of leadership, including clear and proactive communication and coordination, meeting moderation, and oversight of small cross-disciplinary initiatives","Able to manage multiple, competing tasks and be self-directed to meet deadlines in a quickly evolving environment","Positive attitude and ability to receive and provide objective and constructive feedback","Excellent organization skills"]},{"title":"Education and Experience","content":["Computer Science, Mathematics, Engineering, or related degree, or equivalent work experience","8 years’ experience in delivering production-level code in a professional environment","Experience shipping multiple successful game products into the marketplace","Experience supporting a live service","iOS and Android mobile development experience","Real-Time strategy and Unity 3D game development experience","Thorough understanding of the software development life cycle, and practices","Experience with Jira, Confluence, or other defect tracking software"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/cf6cf2ad-48ac-4dc1-a4c4-499468f4afbf"
+            }
