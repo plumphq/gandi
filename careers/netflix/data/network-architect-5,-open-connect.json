@@ -1,0 +1,30 @@
+            {
+                "id": 354,
+                "companyId": 6,
+                "title": "Network Architect 5, Open Connect",
+                "location": ["Remote, United States"],
+                "type": ["Full-time"],
+                "attendance": ["Remote"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": [""],
+                "skills": [""],
+                "overview": "",
+                "description": "Netflix is responsible for double digit percentages of the traffic on Internet access networks at peak times, and we’re working collaboratively with Internet Service Providers to ensure that our great content is delivered in a manner that is both highly efficient and cost effective. Today, we deliver 100% of Netflix content to 190 countries via Open Connect, our purpose-built content delivery network.  We also strive to deliver a world class ecosystem to our content creators in every stage of the production process through technology and collaboration enabled by network solutions.  We need great network professionals to help us manage the remarkable challenge and opportunity in these environments.
+
+As a Network Architect, you will design network solutions for our network backbone, our Corporate offices, our creative production workflows, and our data center networks globally.  We are seeking an experienced Network Architect to join our efforts in designing, iterating and scaling the diverse technology stacks in the Netflix ecosystem.  
+
+This role requires a technical leader and collaborator with a broad set of skills and technical achievements, a dev-ops/automation-forward mindset to problem solving, and an impressive past of unique career and life experiences to bring to our diverse team of experts. 
+
+There are multiple disciplines on this team and we’re looking for an architect with experience building and designing campus and data center networks with particular focus on automation, lab design and testing, and experience with media, content creation, and content delivery technologies. 
+
+Be sure to review our culture page to learn more about the unique Netflix culture and the opportunity to be part of our team.
+",
+                "extras": [{"title":"Qualifications:","content":["Experience in networking fields with demonstrable technical leadership experience in new architecture development, product ownership, and iterative design","Expert-level knowledge for large-scale multi-vendor (Arista, Cisco, Juniper, Nokia) networks with global footprints","Experience managing, developing or working in a lab environment for both product or feature development and for regression or defect testing against a production environment. This experience would also include using automation and off-the-shelf test equipment and software in a test environment","Expert level knowledge of IP routing, particularly BGP, ISIS, OSPF and an understanding of the Internet ecosystem","Modeling and designing network topologies with consideration to technologies such as MPLS-TE","Strong knowledge of VXLAN technologies and MPLS L2 and L3 VPNs","Experience with optical transport system design and planning for metropolitan area networks","Experience in Python, specifically writing and maintaining code for network automation.","Solid understanding of content delivery, data center, and enterprise networking concepts and technologies"]},{"title":"What you will be doing:","content":["Developing a lab based test bed for functional and operational testing of new products, new feature sets, defects and error conditions","Working closely with other architects to build, refine, and evolve the architecture of Netflix’s Backbone, CDN infrastructure, data centers, and campus networks","Creating the full lifecycle network architectures and deliver them to other teams that will plan, deploy, operate and deprecate these designs","Develop technical documentation, diagrams and templates and be rigorous in maintaining accuracy and relevancy of developed materials","Provide top level technical support and leadership for operational matters"]},{"title":"You will be successful in this role if:","content":["Self starter, curious and not afraid to ask when in doubt","Highly effective verbal and written communicator to both technical and non-technical audiences inside and outside of Netflix","Self-organize, collaborate and manage efforts with peers and teams across responsibility areas, languages, geography and time zones","Effective in informing, educating and developing team members throughout the organization"]},{"title":"Nice to have:","content":["Masters or bachelors degree in a relevant science or engineering field","Experience in:","- vendor management including RFI creation, evaluation and commercial negotiations","- design and implementation of technologies in Campus architecture. including Layer 2 stretch technologies, voice and video collaboration, and zero-trust standards for scalable security models","- deploying datacenters, supporting complex, low-latency compute and storage technologies, optical design for high-bandwidth deployments.","- making buy vs build decisions for network services and infrastructure"]},{"title":"Additional requirements:","content":["Location is flexible within the US or Netherlands","Periodic travel within the United States for offsites, conferences and technical meetings"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/8e372d72-4501-44aa-8733-0a941d8577bc"
+            }
