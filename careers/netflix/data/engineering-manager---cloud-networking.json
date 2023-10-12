@@ -1,0 +1,26 @@
+            {
+                "id": 289,
+                "companyId": 6,
+                "title": "Engineering Manager - Cloud Networking",
+                "location": ["Remote, United States"],
+                "type": ["Full-time"],
+                "attendance": ["Remote"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Cloud Networking","Network Platform","Cloud Network Architecture","Scaling","AWS","IPv6","eBPF"],
+                "skills": ["AWS","networking technologies","Layer3/Layer4 networking","QoS","SDN","Network Security","eBPF"],
+                "overview": "An Engineering Manager is needed to lead a team of senior engineers for the Cloud Networking group in the Network Platform organization at Netflix, responsible for designing the cloud network architecture/topology, building network capabilities, and providing Layer2-Layer7 networking solutions for scaling, securing, and routing traffic throughout the Netflix ecosystem.",
+                "description": "Netflix is one of the world's leading streaming entertainment services with over 238 million paid memberships in over 190 countries enjoying TV series, films, and games across a wide variety of genres and languages. Members can play, pause, and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.
+
+We are looking for an experienced Engineering Manager who will lead and grow a team of senior engineers for the Cloud Networking group in the Network Platform organization. The team is responsible for designing the cloud network architecture/topology, and building network capabilities that provide leverage across various Netflix use cases including streaming and gaming. The team provides Layer2 - Layer7 networking solutions to ensure consistent ability to scale the network, secure traffic management throughout the Netflix ecosystem, and abstract out the AWS primitives and the complexities of resiliency, security, routing, and insights. 
+
+You will be leading a stunning set of engineers who tackle some of the largest cloud networking challenges in the industry. This team has reliably enabled Netflix’s hyper-cloud growth by co-innovating with AWS, driving technologies like IPv6, and delivering eBPF-based products to create novel solutions to classic problems like NAT64. If you’re looking for a deeply technical and highly dynamic opportunity that will have an outsized impact on the future of how Netflix scales into the future, we’d love to talk to you!
+",
+                "extras": [{"title":"What you will do","content":["Drive the vision and strategy on how to evolve our Cloud Networking Platform solutions.","Build, scale, and mentor a cohesive team of amazing engineers.","Form strong cross-functional partnerships driven by trust to achieve alignment with many engineering teams and ensure our solutions meet their needs while maintaining our focus on agility, scalability, reliability, and efficiency.","Deliver network platform capabilities and drive adoption across Netflix with a focus on eng-excellence and timely execution."]},{"title":"What we are looking for","content":["Experience building and operating complex distributed systems at scale in the cloud networking domain. We use AWS and experience with building/consuming the networking stack of a public cloud is desired.","Deep knowledge of networking technologies and abstractions in modern cloud-native architectures.","Solid understanding of Layer3/Layer4 networking, QoS, SDN, and Network Security","Experience in kernel networking technologies like eBPF is a plus.","Technical acumen with the ability to go deep (as needed) to provide inputs and judgment in making data-driven decisions.","Proven track record of timely execution with upholding engineering excellence while building trust with partners/customers.","Customer obsession and product mindset to understand what customers want and deliver results create a tight feedback loop.","Proven experience building and leading software engineering teams with a focus on inclusion and diversity.","Orientation towards long-term impact as the yardstick for prioritization, but able to strike the right balance between short-term goals and longer-term vision.","Exceptional written and verbal communication skills."]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/830a5b5d-1c07-4083-a5aa-b4474896a2a0"
+            }
