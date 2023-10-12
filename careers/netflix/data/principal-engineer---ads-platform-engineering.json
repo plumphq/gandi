@@ -1,0 +1,33 @@
+            {
+                "id": 363,
+                "companyId": 6,
+                "title": "Principal Engineer - Ads Platform Engineering",
+                "location": ["Remote, United States"],
+                "type": ["Full-time"],
+                "attendance": ["Remote"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Ad Tech Systems","Forecasting Models","Inventory Management","Ad Operations","DMP Integrations","A/B Experimentation","Advertising Industry"],
+                "skills": ["ad servers","bidders","pacers","yield optimizers","targeting reach estimation systems","forecasting models","inventory management"],
+                "overview": "The Principal Engineer - Ads Platform Engineering position at Netflix involves building and optimizing advertising systems, ensuring member experience, and driving outcomes for advertisers, with a focus on differentiation and becoming a market leader.",
+                "description": "At Netflix, we want to entertain the world and are constantly innovating on how entertainment is imagined, created and delivered to a global audience. We currently stream content in more than 30 languages in 190 countries, topping over 220 million paid subscribers. 
+
+ We recently launched a new ad-supported tier to offer our members with more choice in how they consume their content. Our new tier allows us to attract new members at a lower price point, while also creating a compelling path for advertisers to reach audiences that are deeply immersed.
+
+Our Team
+
+The Ads Platform Engineering team builds the advertising systems and integrations that powers the delivery of ads using our world class content delivery ecosystem. We use a number of Netflix investments and innovations to power our ads - unique mix of client and server side ad insertions, state of the art content delivery system, ad encoding recipes, content understanding and metadata etc. We deliver ads in a manner that’s thoughtful of our member’s viewing experience and drive great outcomes for advertisers. We also ensure that advertiser brand safety is ensured during serving, members only see the most appropriate ads for them.
+
+Our team is new and yet faced with the enormous ambitions of building highly performant advertising systems and delivering high impact to our business by monetizing our incredible slate of content. As one of the newest entrants in the Connected TV advertising space that’s rapidly growing, we seek to build unique value propositions that help us differentiate from the competition and become a market leader in record time.
+
+We are looking for a thought leader in the advertising space who is excited to join us on this journey.
+
+",
+                "extras": [{"title":"Skills & experience we’re seeking:","content":["Deeply experienced in building core ad tech systems such as ad servers, bidders and pacers, yield optimizers, targeting reach estimation systems.","Familiar with forecasting models and has used them for inventory management, enabling sales operations and enabling both reservation and auction based buying models at scale.","Has worked closely with ad operations to enable campaign setup, targeting, reporting and advertiser needs.","Has built or operated integrations with DMPs and worked on audience targeting.","Has enabled an publisher side A/B innovations and/or enabled advertiser experimentation and supported A/A, A/B setups that are reliable and robust.","Has had a recognizable presence in the advertising industry seen via talks, lectures or whitepapers, on various advertising topics."]},{"title":"Nice to haves:","content":["Thorough understanding of ad marketplace transactions. Familiar with the sales tooling and third party integrations that enable the flow of deals from the advertiser ecosystems into campaigns and impressions.","Familiarity with brand lift measurement, incrementality based outcomes measurement, bidding and experimentation.","Familiarity with legal compliance and changing landscape of ads regulations around the world.","Contributed to an ads industry technology standard (e.g VAST, OpenRTB) or worked on an industry consortium effort."]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/c9319ff1-0b88-46d1-a992-b576f5922998"
+            }
