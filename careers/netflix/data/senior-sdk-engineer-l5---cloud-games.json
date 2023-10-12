@@ -1,0 +1,27 @@
+            {
+                "id": 407,
+                "companyId": 6,
+                "title": "Senior SDK Engineer (L5) - Cloud Games",
+                "location": ["Remote, United States"],
+                "type": ["Full-time"],
+                "attendance": ["Remote"],
+                "experience": -1,
+                "salaryMin": 100000,
+                "salaryMax": 700000,
+                "salaryFormat": "per-year-salary",
+                "salaryCurrency": "USD",
+                "salaryBonus": "Unspecified",
+                "tags": ["SDK Engineer","Cloud Games","Java","Project Management","Agile Methodology","Jira","Cross-Platform Libraries"],
+                "skills": [""],
+                "overview": "A Senior SDK Engineer (L5) - Cloud Games at Netflix is responsible for designing and implementing tools to enable game developers to integrate with the Netflix Games Platform, creating an immersive gaming environment for Netflix members.",
+                "description": "Netflix is one of the world's leading entertainment services with over 230 million paid memberships in over 190 countries. In addition to great shows and movies, our membership also includes exclusive access to a growing portfolio of high-quality games. On the Games SDK team, we are passionate about bringing a new kind of ✨joy✨ to hundreds of millions of Netflix members around the world, whether they’re traveling to a remote location or at home with family. We are looking for a Senior Software Engineer to help us evolve the way people play games online.
+
+As a member of the Games SDK team, you will play a pivotal role in designing and implementing the tools that enable game developers to integrate with the Netflix Games Platform in their streaming games. In the process, you will help create an immersive environment for Netflix members to discover and play games along with watching our content.
+
+People who excel on our team are self-motivated engineers who are passionate about business and technology innovation. We believe a big part of our ability to drive global growth comes from fostering inclusion and building diversity within our team. Our team is made up of engineers who come from a wide variety of backgrounds and disciplines, and we believe the plurality of experience, opinions, and skills within our team is what makes us succeed in our mission.
+
+",
+                "extras": [{"title":"What sets you apart?","content":["You are comfortable with some degree of uncertainty and ambiguity. This new game platform is evolving quickly as we learn what drives member joy in the gaming space.","You exude developer empathy. You have great intuition for making a clean, easy-to-use API for game developers to integrate Netflix services.","You thrive on cross-functional collaboration. You have excellent communication skills and can translate objectives and concerns between different teams, creating greater alignment between all the stakeholders on a project.","You are self-motivated. You proactively look for solutions to bridge the needs of the business with technology.","You have strong analytical skills. You are adept at analyzing data to gain insights that drive improvements in app quality."]},{"title":"What skills are important to us?","content":["We value aptitude over experience, but here are some key skills that will make you successful on this team:","Experience building cross-platform libraries using C/C++ on Windows, macOS & Linux","Experience with game engines such as Unity and Unreal, native plugins, and bindings","Experience developing third-party SDKs","Experience building and extending secure, scalable client-server communications (GraphQL knowledge a plus)","Experience writing automated tests and using them to power short feedback cycles in a continuous integration environment."]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/6887f0a6-320f-4aff-9f64-9ddc19f6577e"
+            }
