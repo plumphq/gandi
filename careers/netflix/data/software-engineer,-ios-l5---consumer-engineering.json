@@ -1,0 +1,26 @@
+            {
+                "id": 436,
+                "companyId": 6,
+                "title": "Software Engineer, iOS (L5) - Consumer Engineering",
+                "location": ["Remote, United States"],
+                "type": ["Full-time"],
+                "attendance": ["Remote"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["iOS App Development","UI Performance","Quality Assurance","Product Management","Swift Programming","Automated Testing","Collaboration"],
+                "skills": ["iOS","Swift","UIKit","Core Animation","Foundation","XCTest","XCUITest"],
+                "overview": "The Software Engineer, iOS in Consumer Engineering at Netflix builds industry-leading iOS, Android, and TV apps, collaborates with design and product teams, and drives innovations in the member experience space.",
+                "description": "Netflix is the world's leading streaming entertainment service with 230M+ paid memberships in over 190 countries enjoying TV series, documentaries and feature films across a wide variety of genres and languages. The Consumer Engineering team builds the industry-leading Netflix iOS, Android, and TV apps. We work with our design and product partners to rapidly experiment with new product ideas. 
+
+We’re looking for a Software Engineer to drive innovations in the member experience space. This is a high-impact role that enables delivering delightful experiences to Netflix subscribers on the iOS app. Our responsibilities include working on large-scale A/B tests of features - ranging from highly visible product experiences to core infrastructure that enables existing and future innovations. We care deeply about UI performance, quality, and accessibility of the Netflix iOS app. To bring new kinds of engaging and cinematic experiences to life, we partner closely with many cross-functional teams including product management, experience design, and creative production.
+
+You will excel if you are product-minded, detail-oriented, and can drive scalable technical solutions that mesh with our business goals. We have a unique culture that allows you to do your best work and grow.
+",
+                "extras": [{"title":"About the Role","content":["Collaborate with developers and product teams to build delightful, performant, and accessible user experiences.","Contribute to product features, core infrastructure and A/B tests using advanced UIKit, Core Animation, and Foundation APIs in Swift.","Develop highly maintainable iOS client code with effective documentation that can be leveraged by other developers on the team.","Write automated tests with XCTest and XCUITest frameworks to deliver high quality code.","Partner closely with product management to scope projects, with designers to refine UI specifications or collaborate with partner engineering teams on shared infrastructure."]},{"title":"What Sets You Apart","content":["Curious about a broad range of new or unfamiliar technologies, our consumer base, and product vision.","Seek different perspectives, feedback, and relevant information to continuously grow and improve.","Maintain strong relationships with cross-functional teams through clear communication.","Take a thoughtful, practical approach to problem solving that considers tradeoffs and avoids over-engineering.","Comfortable asking questions and seeking knowledge in unfamiliar or ambiguous situations.","Endeavor to elevate the knowledge, skills, abilities of yourself and others that is conducive to fostering an inclusive, collaborative environment."]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/09b8a538-5ca3-4f03-a747-d38de5dd94b4"
+            }
