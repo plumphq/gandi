@@ -1,0 +1,29 @@
+            {
+                "id": 141,
+                "companyId": 5,
+                "title": "Engineering Manager",
+                "location": ["Remote, Spain"],
+                "type": ["Full-time"],
+                "attendance": ["Remote"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Engineering Manager","Remote-first","Cross-functional team","Software development lifecycle","Design requirements","Career growth","High-quality software","Cycle time","Efficiency","Business outcomes","Feasibility","Innovation","Hiring and onboarding","Transparency","Accountability","Agile engineering teams","Lean/agile methodologies","Architectural discussions","Strategic trade-offs","Rapid prototyping","MVP definition","User research","Data driven","Cloud technologies","Communication skills"],
+                "skills": ["Java","Python","AWS","Docker","Jenkins","Git","SQL"],
+                "overview": "An Engineering Manager is responsible for leading a remote-first, cross-functional team to deliver high-quality software in small, regular iterations, partnering with design and product counterparts to empower users to find and discover events, and supporting the career growth of engineers.",
+                "description": "THE TEAM
+Eventbrite's business continues to grow and scale rapidly, powering millions of events. Event creators and attendees need to be empowered with new tools and technologies to assist them in having the most meaningful live experiences. 
+
+THE CHALLENGE
+As an Engineering Manager you will be responsible for a cross-functional team that delivers features to our Eventbrite event creators and event consumers.
+
+THE ROLE
+You will partner with your design and product counterparts to empower users to find and discover events. You’ll help refine our software development lifecycle process, clarify design requirements, and accelerate progress. You'll support the career growth of our engineers and provide them with opportunities to distinguish themselves as they drive impact throughout our organization.
+",
+                "extras": [{"title":"YOU WILL","content":["Lead a remote-first, cross-functional engineering team to deliver high-quality software in small, regular iterations.","Continuously aim to reduce cycle time and improve the efficiency of the team.","Ensure team members have the knowledge of the wider organizational context for their work, goals and outcomes.","Hold team members accountable for achieving their goals while operating with high levels of autonomy.","Collaborate with your Product and Design counterparts to align on the delivery of business outcomes, clarify requirements, validate assumptions and accelerate progress.","Lead the engineering team to validate the feasibility of projects and ideas while in continuous collaboration with cross-functional partners and other engineering teams.","Collaborate with other engineering managers to drive innovation in processes and strategies throughout the business pilar.","Facilitate the hiring and onboarding of engineers.","Maintain regular communication with the leadership team.","Foster a culture of transparency, accountability and openness."]},{"title":"THE SKILL SET","content":["Experienced in leading, managing and inspiring cross-functional, agile engineering teams.","A solid technical background with a passion for delivering high quality, maintainable software following lean/agile methodologies.","Comfortable participating in architectural discussions, asking informative questions, and assisting the team in making strategic trade-offs.","Experience applying concepts like experimentation, rapid prototyping, MVP definition, user research and data driven, customer first decision making to engineering.","Experience working within a highly collaborative, remote-first environment, driving a team that ships code to production often.","The ability to recruit, onboard, grow and develop a globally-distributed engineering team","An understanding of build/deployment pipelines and tooling","An understanding of cloud technologies such as AWS.","Excellent communication skills, both written and verbal.","Excellent facilitation skills involving the whole team in group based decision making.","The ability to work proficiently in English."]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/eventbrite/c8dad8cb-6ae7-4a0c-a693-9bfddf2c763c"
+            }
