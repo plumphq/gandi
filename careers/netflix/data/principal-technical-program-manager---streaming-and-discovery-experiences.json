@@ -1,0 +1,24 @@
+            {
+                "id": 364,
+                "companyId": 6,
+                "title": "Principal Technical Program Manager - Streaming and Discovery Experiences",
+                "location": ["Remote, United States"],
+                "type": ["Full-time"],
+                "attendance": ["Remote"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Streaming","Discovery Experiences","Netflix","Technical Program Manager","Product Management","Architectural Investments","User Experience"],
+                "skills": [""],
+                "overview": "The Principal Technical Program Manager - Streaming and Discovery Experiences will drive the execution of large consumer-facing initiatives, influence the improvement of underlying technologies, and establish an overall plan for teams to successfully launch new experiences for Netflix customers.",
+                "description": "The Streaming and Discovery Experiences Engineering organization continuously improves the Netflix experience to delight, attract, and retain our members. We’re responsible for much of what our members interact with when they use Netflix - from our streaming algorithms to our client and server playback systems to the UI our members use daily to find their next favorite Netflix title. 
+
+We are looking for a product-minded Technical Program Manager passionate about building great customer experiences alongside adaptable, inclusive teams. You will be part of a cross-functional group of product managers, designers, data scientists, researchers, and engineers leading the evolution of the Netflix app across our entire device ecosystem. 
+",
+                "extras": [{"title":"Primary Responsibilities:","content":["Drive the execution of large consumer-facing initiatives at Netflix.","Leverage the insights and experience from this work to influence the improvement of underlying technologies, architectures, and operations.","Apply strong technical, organizational, and communication skills to devise sound technical approaches to abstract goals.","Identify the systems involved to build new solutions, align roadmaps, and weigh relative priorities.","Establish an overall plan for numerous teams to rally around and successfully launch new experiences for Netflix customers.","Identifying and mitigating technical risks.","You are a strong communicator with exceptional listening skills. You can operate independently, challenge the status quo, and always play for the larger team."]},{"title":"What sets you apart?","content":["A passion for driving toward clarity and simplicity.","Experience making smart architectural investments to meet the demands of a rapidly growing user base across the world. You’ve learned the difference between building flexible systems that adapt to business needs and unnecessarily complex systems that attempt to guess the future.","Always thinking about the user experience implications of the team’s work.","You are a thought partner to your business stakeholders and successfully influence product direction.","You seek to understand other parts of the business, their limitations, and where product sensitivities lie.","You balance competing concerns and make tough calls on where to cut scope vs. invest more, and how to make resourcing trade-offs across different domains.","As comfortable speaking technically as non-technically and able to bridge between the two.","10+ years of experience in product management, technical program management, software engineering, or leading software development projects."]},{"title":"Desired Technical Skills:","content":["Consumer software, systems design, and architecture experience.","Ability to identify gaps in solutions, debate technical approaches, and see various perspectives.","Able to provide insights into business, product, and technology tradeoffs.","Great at adapting solutions to meet short and longer-term needs.","Expertise in low-latency streaming, hardware, and infrastructure."]},{"title":"Desired Project Management Skills:","content":["Can devise and apply various approaches to the execution of complex initiatives.","Coordination across many independent tracks of work and organizations.","Excels at leading large-scale software projects.","Risk identification and mitigation.","Can balance strategic and tactical efforts to make tough calls and broadly communicate the decision framework.","Detail-oriented, can identify what’s missing in planning and execution of software development, testing, and launch."]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/0b0c7cdb-2277-44f8-8b38-cab55e6b9803"
+            }
