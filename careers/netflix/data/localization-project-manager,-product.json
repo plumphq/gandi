@@ -1,0 +1,31 @@
+            {
+                "id": 461,
+                "companyId": 6,
+                "title": "Localization Project Manager, Product",
+                "location": ["Remote, United States"],
+                "type": ["Full-time"],
+                "attendance": ["Remote"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": [""],
+                "skills": [""],
+                "overview": "The Localization Project Manager, Product oversees end-to-end localization projects, manages localization workflows, collaborates with stakeholders, and ensures high-quality output from vendors and freelancers. Requires a bachelor's or master's degree in Localization or related fields and at least 3 years of prior localization project management experience.",
+                "description": "Netflix is one of the world's leading streaming entertainment service with over 238 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause, and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.
+
+Localization at Netflix is centered around linguistic excellence, a great team environment, and cutting edge technology. We are responsible for the translation and cultural adaptation of everything Netflix creates, from beautiful user interfaces to cinematic original programming. Our work is not just about translation, it is about providing our users with an experience that feels local.
+
+Netflix is a global product and our Localization team needs to scale to support that. We are currently looking for a Technical Localization Project Manager to help bring the Netflix experience to international markets.
+
+As a Technical Localization Project Manager, you work with one or more Localization Program Managers for our different product components (business areas). You are responsible for all elements of the localization workflow from ideation to job completion for an AB test, feature productization or supporting effort.
+
+A successful candidate is a highly motivated individual who thrives when working autonomously in a fast-paced and constantly evolving environment. They passionately collaborate and problem solve. They have a demonstrated ability to manage priorities and projects and have the right mix of organizational and communication skills.
+
+",
+                "extras": [{"title":"Responsibilities:","content":["Manage end to end localization projects including risk mitigation and change management","Drive tooling updates, integrations and migrations with engineering teams","Partner cross-functionally with Netflix stakeholders to identify critical business blockers and collaborate to solve and optimize these","Thrive in a fast paced, ambiguous environment","Able to multitask and pivot quickly","Gather and provide project context to drive high quality output from localization vendors and freelancers","Oversee the localization metrics for your projects including adherence to budgets, deadlines and quality thresholds","Run project kick offs and meetings with cross functional groups to ensure alignment","Partner and train vendors, translators and reviewers","Evangelize Globalization with stakeholders and its unique role at Netflix","Support data-driven innovation initiatives such as AB Testing"]},{"title":"Qualifications:","content":["Bachelor's, or Master’s degree, in Localization, Language Studies, or International Studies","3+ years of prior localization project management experience, working on projects that involve language launches, software, and/or creative content localization","Working knowledge of industry standard localization tools and best practices","Excellent written and verbal communication skills","Strong analytical problem-solving skills","Bias to action, proactive & innovative by nature","Strong attention to detail"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/69434ea0-9539-4669-bca5-6d7f6233f63c"
+            }
