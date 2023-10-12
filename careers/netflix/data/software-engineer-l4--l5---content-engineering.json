@@ -1,0 +1,30 @@
+            {
+                "id": 417,
+                "companyId": 6,
+                "title": "Software Engineer (L4/ L5) - Content Engineering",
+                "location": ["Warsaw, Poland"],
+                "type": ["Pipeline"],
+                "attendance": ["Onsite"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Content Engineering","Java","Project Management","Agile Methodology","Jira","Conflict Resolution","Budget Management"],
+                "skills": ["Java","Object Oriented language","microservice-based distributed systems","relational and non-relational data stores","distributed media systems","media production and/or distribution workflows","Java coding"],
+                "overview": "Content Engineering at Netflix is seeking Level 4 and Level 5 Software Engineers to build scalable technologies for global content production and management, working cross-functionally and evaluating new approaches to improve application development.",
+                "description": "Netflix is the world's leading streaming entertainment service with over 230 million paid memberships in over 190 countries enjoying TV series, documentaries and feature films across a wide variety of genres and languages. Members can watch as much as they want, anytime, anywhere, on any internet-connected screen. Members can play, pause and resume watching, and stop and restart their membership without long-term commitments. 
+ 
+Content Engineering builds the products and services used by our internal and external partners producing and managing our global content. With an increasing slate of original content being produced every year, our products manage billions of dollars worth of content-spend.
+ 
+We need your help to build the technologies that allow us to scale our efforts across the globe, and do so effectively and efficiently!
+ 
+This role is based in Warsaw and our teams work in a hybrid-working model. 
+
+We are looking for both Level 4 and Level 5 Software Engineers to join our team. 
+",
+                "extras": [{"title":"Your Day-to-Day","content":["Work cross-functionally to build new services, tools and data models to operationalize our workflows at scale.","Participate in product reviews and team meetings, providing technical insight. Help scope, estimate, and prioritize between conflicting needs.","Evaluate new technologies and approaches to streamline and improve our rapid application development tooling and conventions.","Regularly learn new systems and tools as the Netflix platform and ecosystem evolve.","Participate in our on-call rotation and contribute to incident reviews."]},{"title":"You may enjoy working with us if you:","content":["Are self-driven and highly motivated to deliver top-tier solutions with minimal guidance. You also recognize when you're wrong, learning from your mistakes and moving past them.","Love brainstorming with fellow Backend and UI engineers, product designers, and product managers, and directly with our users, to understand what they want, figure out what they really need, and finally, what we should build.","Strive to embrace best practices and are always searching for opportunities to continually improve."]},{"title":"We would love to work with you if:","content":["Strong understanding of distributed media systems and architecture","Experience building software systems for media production and/or distribution workflows is strongly desired","You are adept at building applications with an Object Oriented language. We work with Java primarily, so interest in learning and coding in Java is desirable.","You excel in developing microservice-based distributed systems with high availability, throughput, fault tolerance, and performance.","You are experienced in utilizing relational and non-relational data stores.","You have previous experience in Media and Entertainment industry."]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/2f3d2c7f-defb-4b01-a27a-43726b424305"
+            }
