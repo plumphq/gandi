@@ -1,0 +1,35 @@
+            {
+                "id": 156,
+                "companyId": 5,
+                "title": "Senior Android Engineer",
+                "location": ["Remote, Spain"],
+                "type": ["Full-time"],
+                "attendance": ["Remote"],
+                "experience": 3,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Android Engineer","Kotlin","Model-View-Intent","Clean Architecture","Flows","Coroutines","Jetpack Compose"],
+                "skills": ["Android","Kotlin","Coroutines","Unit testing","UI testing","SDLC","Design patterns"],
+                "overview": "A Senior Android Engineer is sought by Eventbrite to connect users to their next event through their native app platform, leveraging years of native app technology experience.",
+                "description": "THE CHALLENGE
+Eventbrite is a people-first organization. Our goal of building the global platform for live experience relies on the foundation of top talent and strong company culture. Eventbrite is seeking an Android Engineer to join us in our mission to bring the world together through live experiences. Last year alone, our platform processed over 150 million tickets across over 3 million events organized by our creators. Our perfect candidate will leverage their years of experience innovating with native app technologies to connect our millions of app users with their next event. 
+
+THE ROLE
+Join our engineering team and help make Eventbrite an indispensable platform for finding the best events anywhere in the world. You'll work directly with product management, product design, and other engineers to get a deep understanding of how our users explore our inventory and you will build the systems to most effectively satisfy our users’ needs.
+
+We're excited to share that our development environment is at the forefront of modern technologies. Our entire codebase has been successfully migrated to Kotlin, in addition, we're in the process of migrating legacy code to the Model-View-Intent (MVI) architecture, an advanced Unidirectional Data Flow pattern that enhances code maintainability and scalability. Our project structure follows the principles of Clean Architecture, with multiple modules that streamline code organization and promote separation of concerns. To ensure smooth asynchronous programming, we utilize Flows and Coroutines, enabling efficient and responsive handling of data streams and background tasks. Furthermore, we have embraced Jetpack Compose, a modern UI toolkit, to craft the UI components of our applications..
+
+THE TEAM
+Ads Experience team is working on a new advertisement product inside EB named Eventbrite Ads. The main focus of our team is to enable creators to promote their events across Eventbrite owned destinations, and deliver a delightful consumer experience by being able to deliver their promoted events in a frictionless mode. We are a multi-disciplinary team, our skills are mainly focused on the backend and frontend for Website, and we want to expand Ads to the native mobile applications. By joining us you can enable the team to bring Ads to the next level, while having a good collaboration with other mobile engineers in several product teams as well as the App Enablement and Organizer App native teams.
+
+The members of our team tackle big problems through small group collaboration. Our technology spans across web, mobile, APIs, big data and machine learning, search, as well as physical point of sale and ticket scanning systems. Specifically for mobile we have 4 apps (Organizer and Attendee apps for both worlds, iOS and Android).As a people-focused organization, we support a culture of inclusion, mentorship, and continuous learning. Pair programming, weekly demos, tech talks, and hackathons are at the core of how we build our team and product. We engage with the community by hosting events with exciting technical speakers and releasing key building blocks of our stack as open-source software. 
+
+Our engineering teams own their services and systems end to end from requirements gathering to deployment to maintenance. Team members follow an on-call rotation to ensure any issues are mitigated immediately and root causes are rectified.
+",
+                "extras": [{"title":"THE SKILL SET","content":["You have strong experience as an Android engineer building high performing and reliable apps","You take initiative and produce results with great communication and collaboration skills","You have experience aligning design, product and engineering goals","You enjoy working on a highly visible product that impacts millions of users","You have knowledge of design patterns, mobile architectures and market software standards","You have a good understanding of Kotlin, Coroutines and asynchronous code","You are an efficient, practical programmer with a record of producing maintainable code","You have experience with unit and UI testing for Android applications","You work with teams that are continuously delivering and automating processes, you are excited about working in a world class SDLC environment"]},{"title":"BONUS POINTS","content":["Experience shipping one or more native iOS apps to the App Store and/or Android apps to the Android Market","Experience building services supporting web and native","Active contributor to open source software"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/eventbrite/950dfcd4-2bba-49ad-a1af-48243c897960"
+            }
