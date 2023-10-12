@@ -1,0 +1,32 @@
+            {
+                "id": 372,
+                "companyId": 6,
+                "title": "Product Manager, Games Algorithms",
+                "location": ["Los Gatos, California"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": 2,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Product Manager","Games Algorithms","Personalization","UI","Machine Learning","Data","Strategic Roadmap"],
+                "skills": [""],
+                "overview": "The Product Manager for Games Algorithms role at Netflix entails advancing algorithmic capabilities for their Games portfolio and services, including personalized recommendations, messaging, player discovery, and matching, by leading cross-functional teams and partnering with various functions to drive transformational change in the product experience.",
+                "description": "The Role
+With more than 230 million members in over 190 countries, Netflix continues to shape the future of entertainment around the world. Personalization permeates almost every aspect of the Netflix product experience: From adapting the UI’s layout to member tastes - recommending the most delightful content - showing the most helpful title images and trailers to help members choose better - machine learning is essential to how members enjoy our service.
+
+We are looking for a Product Manager to advance our algorithmic capabilities for our growing Games portfolio and services. This includes personalized recommendations of Game titles, as well as other applications like messaging, player discovery and matching. 
+
+Leveraging available data, you will craft and communicate a strategic roadmap and see to its execution leading cross-functional teams of the industry’s best data scientists, machine learning and software engineers. You will work in close partnership with the games product management team, design, consumer insights and other functions to bring your vision to life and drive transformational change of the product experience. As a high-leverage thought leader, you will have the ability to shape our thinking on how to evolve our product, and have a massive impact on how members enjoy our service. 
+
+This role is based in our Los Gatos office (preferred) in a hybrid model, but we are open to remote candidates who are on the West Coast. Some travel to Los Gatos will be required.
+
+Who will be successful in this role?
+You combine a deep technical background in e.g. statistics, econometrics, or machine learning with a strong product sense and excellent communication skills to define, explain and execute your vision. You naturally gravitate towards experimentation as a way to validate your hypotheses while having a healthy skepticism when interpreting experimental results. In order to be successful in this position, you need to be able to work with world-class engineers, have the statistical acumen to collaborate with top-notch data scientists and the business sense to drive product goals and strategies. Demonstrated ability to build successful consumer-facing applications and algorithms, and a strong feel for the entertainment business are big pluses.
+",
+                "extras": [{"title":"What We Offer","content":["The opportunity to have impact. The products and features you will be working on are central to the product experience of hundreds of millions of people around the world. Our Games effort is off to a great start, and this role offers a unique opportunity to help shape the trajectory of this exciting new effort.","Responsibility. Netflix offers true transparency and autonomy. Our culture is unique and is key to how we innovate.","Learning. You will be creating customer experiences and business models that have never been done before. You will have the opportunity to work with stunning colleagues who value collaboration and from whom you can learn.","A work environment where you can grow your career. Many of our top execs started out as individual contributors."]},{"title":"Skills Required:","content":["Experience managing consumer products leveraging machine learning (e.g. recommendation systems) with a proven record of prioritizing and successfully launching impactful products or platforms.","Demonstrated leadership experience working effectively with data scientists, machine learning engineers, statisticians etc.","Proven ability to map algorithmic solutions to product problems with demonstrated impact on business metrics through AB testing.","Excellent written communication skills and ability to present technical content to non-technical audiences.","Ability to partner with different functions to ensure that your solutions drive real business impact. Strategic thinking and ability to incorporate larger business context into algorithm and product development.","Postgraduate education (MS or PhD) in an applied quantitative field is strongly preferred, such as Machine Learning, Statistics, Operations research, Information theory, Control theory, Econometrics etc.","Experience working in the Games industry is a plus."]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/e92f9801-8ab7-4649-8287-23527e8fcf2e"
+            }
