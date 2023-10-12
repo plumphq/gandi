@@ -1,0 +1,31 @@
+            {
+                "id": 324,
+                "companyId": 6,
+                "title": "Machine Learning Intern, Research (Fall 2023/Winter 2024)",
+                "location": ["Los Gatos, California"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Machine Learning","Research","Applied Machine Learning Research","Personalization Algorithms","Media and Content Understanding","Search","Systems Optimization"],
+                "skills": [""],
+                "overview": "",
+                "description": "Netflix is reinventing entertainment from end to end. We are revolutionizing how shows and movies are produced, pushing technological boundaries to efficiently deliver streaming video at massive scale over the internet, and continuously improving the personalization of how entertainment is presented to our more than 220 million members around the globe. 
+
+Applied Machine Learning Research at Netflix improves various aspects of our business, including personalization algorithms, media and content understanding, search, systems optimization, content valuation, tooling for artists, and streaming video optimization. As such, our research spans many Machine Learning areas, including recommender systems, causal inference, reinforcement learning, computer vision, computer graphics, natural language processing, optimization, operations research and systems. Great applied research also requires great Machine Learning infrastructure,  another large area of emphasis at Netflix.
+
+In Fall 2023, Netflix will be hosting a small number of Machine Learning Research internships and Machine Learning Engineering & Infrastructure internships. Applicants are encouraged to express their interest in one or both types of internships.
+
+This internship can be remote. We are seeking individuals who are able to work full-time hours (40 hours a week) for 12 weeks between the fall of 2023 and spring of 2024. 
+
+We are looking for individuals with the following qualifications:
+
+",
+                "extras": [{"title":"Must have:","content":["Currently enrolled PhD in the Machine Learning space, preferably specializing in Natural Language Processing.","Ideally some experience with (controllable) text generation, text generation at scale, or text generation evaluation.","Experience programming in at least one programming language (e.g. Python, Scala, Java or C/C++).","Curious, self-motivated, and excited about solving open-ended challenges at Netflix.","Great communication skills, both oral and written."]},{"title":"Nice to have:","content":["Publications in relevant conferences or journals.","Comfortable with software engineering best practices (e.g. version control, testing, code review, etc.)."]},{"title":"In order for your application to be considered complete:","content":["You will be sent an Airtable form shortly after you submit your application on our careers site; your application will not be considered complete until you fill out and submit this form.","Include a Resume or CV with complete contact information (email, phone, mailing address) and a list of relevant coursework and publications (if applicable).","You will be asked to include a short (max one page) statement describing your research experiences and interests, and (optionally) their relevance to Netflix Research. For inspiration, have a look at the Netflix research site. In this statement, please include the approximate dates you might be able to work full-time hours (40 hours a week) for 12 weeks between the fall of 2023 and spring of 2024."]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/f01132ac-1ae7-480b-a422-827b2d357730"
+            }
