@@ -1,0 +1,32 @@
+            {
+                "id": 410,
+                "companyId": 6,
+                "title": "Site Reliability Engineering Manager, Open Connect CDN Platform",
+                "location": ["Remote, United States"],
+                "type": ["Full-time"],
+                "attendance": ["Remote"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Site Reliability Engineering Manager","Open Connect CDN Platform","Netflix","Content Delivery Network","CDN","Netflix video traffic","large-scale distributed Internet systems"],
+                "skills": ["SRE principles and practices","Unix/Linux operating systems fundamentals","networking technologies (routing, BGP, protocols)","Python or Go programming language","designing, analyzing & operating distributed systems at scale","written and verbal communication skills","managing geographically distributed teams"],
+                "overview": "The Site Reliability Engineering Manager for the Open Connect CDN Platform at Netflix is responsible for leading a team focused on deploying and supporting a reliable and available CDN platform, as well as designing, analyzing, and managing large-scale distributed Internet systems.",
+                "description": "Bay Area/ Los Angeles/ Seattle, USA (Remote)
+
+How do you spark joy in hundreds of millions of people? It starts with a vision - that technology can give voice to stories around the world. In delivering those much-loved stories, Netflix is responsible for a significant portion of global internet traffic.
+To steward that responsibility, we work collaboratively with ISPs to deploy Open Connect, Netflix’s Content Delivery Network (CDN), our in-house custom-built network and server infrastructure responsible for delivering 100% of Netflix's video traffic. We strive to deliver a great Netflix viewing experience in over 190 countries so our customers can watch whatever, whenever, interruption free.
+We are seeking a seasoned SRE Manager with extensive experience in building and  leading a team that’s focused on working to help us deploy, support, and evolve a highly reliable & available CDN platform. To achieve this you must have experience with designing, deploying, analyzing & managing large-scale distributed Internet systems. 
+Come join us and play a meaningful role in our journey to entertain the world!
+
+About The Team
+
+The Open Connect Site Reliability Engineering (SRE) Platform team is responsible for our CDN Platform & infrastructure that’s deployed in over 100 countries. The team collaborates with Netflix Engineering teams and external ISP partners, with focus on finding ways to continuously improve the design and operation of the Open Connect services. Our primary goals are to make them more scalable, reliable, efficient, and secure. We do this by instrumenting for observability that provides us the insights required for effective monitoring & remediation. The group is also responsible for automation, continuous deployment, enabling rapid software releases without service impact. 
+
+",
+                "extras": [{"title":"Responsibilities","content":["Applying your strong understanding of SRE principles and practices","Lead, empower, and mentor a team of engineers by providing them with the appropriate context and continuous feedback","Guide a team with a mix of systems & software engineering skills while executing on projects focused on scalability, reliability, and availability","Collaborate closely within the broader Open Connect organization and form strong cross-functional partnerships (Network Engineering, Hardware Engineering, Development, et al)","Establish a track record of resolving issues in a live production environment and implementing strategies to minimize them","Consistently deliver timely execution on complex projects with excellent quality"]},{"title":"Qualifications","content":["Proven experience building and leading high-performance SRE teams","Proactive at giving and receiving feedback with a growth mindset, confident to initiate the hard conversations","Ability to disambiguate, in a fast-paced environment, driving clear action plans for your team","Experience working with a diverse group of cross functional peers - engineers, partner engagement managers, operations and business stakeholders, at varying technical levels, influencing and driving direction and decision making","Strong understanding of Unix/Linux operating systems fundamentals","Strong knowledge of networking technologies (routing, BGP, protocols)","Proficient in a programming language such as Python or Go","Experience designing, analyzing & operating distributed systems at scale","Great written and verbal communication skills, adept at active listening","Experience managing geographically distributed teams"]},{"title":"Things that show how we think","content":["Measuring Real-Life Latency of the Internet: A Netflix Story","Mastering Near-Real Time Telemetry and Big Data","FreeBSD optimization used by Netflix to serve 800 Gb/s from a single server","Resiliency Practices in Managing CDN"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/fbd6244c-1bc2-43cc-8ce6-5a0cb7310c46"
+            }
