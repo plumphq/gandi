@@ -1,0 +1,28 @@
+            {
+                "id": 423,
+                "companyId": 6,
+                "title": "Software Engineer (L5) - Dev Spaces",
+                "location": ["Los Gatos, California"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Development Workflow","Dev Tooling","IDEs","Cloud Workspaces","Netflix Development Lifecycle","Newt","Developer Productivity"],
+                "skills": [""],
+                "overview": "",
+                "description": "Location: LG or US Remote only.
+
+Description
+The Dev Spaces team’s mission is to support developer productivity by providing Netflix engineers with development workflow tooling, development environments, and managed IDEs. Through the tight integration of IDEs, dev tooling, cloud workspaces, and Netflix’s internal Platform, we'll provide a development experience that guides engineers through the Netflix development lifecycle, minimizes friction, and reduces context switching.
+
+About the role
+One of the team’s most successful products is Newt, a command line tool that orchestrates development workflows for thousands of Netflix engineers. As the seventh member of the Dev Spaces team, you’ll apply your prior experience in developer tooling towards pushing Newt and the capabilities of Netflix Engineering forward. 
+",
+                "extras": [{"title":"Responsibilities","content":["Serve as one half of a pair of engineers focused on Newt and other foundational, language-agnostic development workflow tooling.","Continue improving our ability to optionally move builds and tests off of developer laptops and into the cloud.","Explore opportunities to expand integrations between dev tooling, IDEs, and our internal remote development environment product.","Maintain feedback loops with the many teams that use our products."]},{"title":"Requirements","content":["You have prior experience in a role focused within the developer productivity (IDEs, dev tooling, dev environments) space","You have professional level proficiency in Go, Java, Python, or Javascript.","You have a product-centric mindset that you use to understand business needs. You have the technical and interpersonal skills to collaboratively design the scalable systems and engineering solutions that meet those needs.","You employ strong senses of empathy and curiosity to build the best possible experiences for the users of your products.","You have the communication skills required to collaborate with and influence teams and individuals in order to drive initiatives forward without a strict top-down mandate."]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/86436768-c294-4c27-8f3e-667516066cb4"
+            }
