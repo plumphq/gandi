@@ -1,0 +1,30 @@
+            {
+                "id": 384,
+                "companyId": 6,
+                "title": "Security Risk Engineer (L4)",
+                "location": ["Remote, United States"],
+                "type": ["Full-time"],
+                "attendance": ["Remote"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": [""],
+                "skills": ["Data analysis","Data visualization","Technology risk","Risk quantification","Statistical models","Impact analysis","Risk management"],
+                "overview": "",
+                "description": "Taking risks, making bets!
+
+At Netflix, we continue to challenge the traditional risk assessment and modeling approach. Our strategic bet around risk quantification shapes our decision-making and guides us in prioritizing risk responses and control design. Our risk program is looking for a new team member as we continue helping the business increase their confidence and ability to:
+
+- use data analysis to improve decision making
+- provide data visualization to decision-makers to reduce uncertainty,
+- and understand optimal techniques to respond to technology risk
+
+To support our investment in this space, we need to take smart risks, and you will enable Netflix to lean into those smart risks by expanding a program that promotes risk quantification, statistical models, and impact analysis to increase our confidence in risk response activities. We are looking for thoughtful data-oriented professionals to enable our mission and support our inclusive culture. In this role, you will help establish and execute a broad strategic vision for the risk program at Netflix. You will not only work within the team but also cross-functionally with various teams across the organization. 
+",
+                "extras": [{"title":"You are excited about this opportunity because…","content":["You are enthusiastic about analyzing and visualizing how data analysis can help inform risk-based decision making","You understand and advocate for risk management and understand how data supports analytical models and influence decision making","Our company culture encourages independent decision-making by employees","You have a passion for risk management, information security, metrics, efficient security operations, and effective control designs","Visualizing risk data for people to consume and use effectively is something you are good at doing"]},{"title":"To be successful in this role, we are looking for individuals that…","content":["Participate in developing key risk indicators, provide inputs to the development of key control indicators, and key performance indicators for various programs","Excited to learn and apply statistical models to risk frameworks (FAIR, Monte-Carlo with PERT distributions, sensitivity analysis, and others)","Familiarity with R, Python, SQL, etc","Familiarity with Tableau or other statistical and visualization tools","Understand relevant data collection, data cleaning, and data analysis techniques","Can participate in risk management, decision-making, and collaborative discussions","Can participate and support quantified risk assessments and understand the value of qualitative data for improvements to quality and engineering processes","Utilize information security risk expertise to develop loss event scenarios across operating companies, business units, projects, and products","Interpret internal or external cyber security risk analyses in business terms and recommend a responsible course of action","Develop templates and instructional materials to help with self-service risk management actions based on defined risk tolerances","Monitor and identify opportunities to improve the effectiveness of risk management processes"]},{"title":"Core value skills - must-have","content":["Attention to detail","Inclusivity","Broad knowledge of how to operationalize the management of risk as a part of regular workflow","Autonomously drives work delivery (bias to action)","Strong communication (technical, status/blockers, cross-functional)","Cross-functional Collaboration"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/7621a3a6-047d-43d8-9324-17b574a1a0bc"
+            }
