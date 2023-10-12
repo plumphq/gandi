@@ -1,0 +1,31 @@
+            {
+                "id": 297,
+                "companyId": 6,
+                "title": "Engineering Manager, Machine Learning, Member Satisfaction",
+                "location": ["Los Gatos, California"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": [""],
+                "skills": [""],
+                "overview": "The Engineering Manager, Machine Learning, Member Satisfaction will lead a team working on applied ML research for estimating long-term member satisfaction at Netflix, leveraging techniques in causal inference, machine learning, reinforcement learning, and econometrics.",
+                "description": "Netflix is the world's leading streaming entertainment service with 220M+ paid memberships in over 190 countries enjoying TV series, documentaries and feature films across a wide variety of genres and languages. 
+
+The Opportunity
+
+We are looking for an experienced engineering leader to lead our applied ML research on estimating long-term member satisfaction. As Netflix continues to grow, we are venturing into exciting new frontiers of personalization to help our members find the content they’ll most enjoy. To do this, we have to understand which titles, and what experiences in the product, produce the most joy for each member. 
+
+Your team will be at the forefront of research on causal inference, machine learning, reinforcement learning, and econometrics. You will lead a team of experts in these techniques to understand how members experience titles, and how that changes their long-term assessment of their satisfaction with the Netflix service. In this role you will be responsible for building and leading the team. Your team will be responsible for operating, as well as innovating on these algorithms. You will help select and guide projects from end-to-end: idea to production. You will partner with people from many disciplines, including behavioral scientists, machine learning researchers, and application engineers. 
+
+To be successful in this role, you need a strong machine learning, engineering, and econometrics background, to be data-driven, and have the proven ability to lead multi-disciplinary, cross-functional, teams. You also need to be great at giving and receiving feedback, championing new ideas, empowering others, and balancing the needs of both research and engineering.
+
+",
+                "extras": [{"title":"Minimum Job Qualifications","content":["Experience building and leading a team of ML researchers and engineers","A track record of leading applications of ML to solve real-world problems","Broad knowledge of causal inference, econometrics, and machine learning","Great interpersonal skills","MS or PhD in Computer Science, Statistics, or a related field"]},{"title":"Preferred Qualifications","content":["10+ years of total experience including 5+ years of engineering management","Experience working on high-scale consumer problems."]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/a5650e28-ecde-44ce-8a32-6671b6e53c14"
+            }
