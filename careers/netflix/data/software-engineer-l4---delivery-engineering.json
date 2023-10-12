@@ -1,0 +1,30 @@
+            {
+                "id": 412,
+                "companyId": 6,
+                "title": "Software Engineer (L4) - Delivery Engineering",
+                "location": ["Los Gatos, California"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Java","Project Management","Continuous Delivery","Spinnaker","AWS","Google Cloud","Kubernetes"],
+                "skills": [""],
+                "overview": "",
+                "description": "Location: Los Gatos, CA, or US Remote only.
+
+It’s an amazing time to be joining Netflix as we continue to transform entertainment. We deliver billions of hours of movies and TV shows per month to more than 230 million members in over 190 countries. At Netflix, we want to entertain the world. To achieve this, we must be able to rapidly build and ship innovative experiences for our members and creators all around the globe.
+
+Who we are
+
+The Delivery Engineering team at Netflix is building Spinnaker, our Continuous Delivery platform, which facilitates Netflix in delivering billions of hours of movies and TV shows per month.  The ability to rapidly and confidently deploy the code that directly affects the Netflix experience is a huge competitive advantage. Whether it's an internal tool, a new recommendation algorithm, or changing the UI to showcase Squid Game, teams across Netflix rely on Delivery Engineering's Continuous Delivery platform to make it happen.
+
+We are looking for senior software engineers to join our Delivery Engineering team. We’re eager to talk to you if you’re passionate about building software that enables developers to use the cloud more effectively, enables developers to deploy code to production, and accelerates developer productivity.
+",
+                "extras": [{"title":"What you will do","content":["Work on Spinnaker, Netflix’s Continuous Delivery platform","Help us evolve our continuous delivery platform by building new features and collaborating with internal partners and stakeholders","Coordinate and scale the build and cloud deployment systems across all product development teams at Netflix"]},{"title":"The skills we require","content":["Great communication skills, both verbal and written","Relevant software engineering experience (working on distributed systems)","Experience with Java or other JVM languages","Experience and comfort with modern relational and non-relational databases","A curious mind with a bias toward learning"]},{"title":"Nice to have skills","content":["Experience with AWS, Google Cloud, Microsoft Azure, or similar cloud environments","Experience building and managing automated build/test/deployment environments","Experience building and operating Kubernetes controllers"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/66f46744-f4ce-4af9-85b2-5e81d2c98adb"
+            }
