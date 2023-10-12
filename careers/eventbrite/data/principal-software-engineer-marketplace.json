@@ -1,0 +1,36 @@
+            {
+                "id": 149,
+                "companyId": 5,
+                "title": "Principal Software Engineer (Marketplace)",
+                "location": ["Remote, India"],
+                "type": ["Full-time"],
+                "attendance": ["Remote"],
+                "experience": 15,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Python/Django","Kotlin","AWS","CloudWatch","Datadog","Microservices","Cloud Architecture"],
+                "skills": ["Python","AWS","Kotlin","data structures","algorithms","design patterns","distributed system design"],
+                "overview": "The Principal Software Engineer (Marketplace) position at Eventbrite involves driving sweeping architectural changes, providing technical leadership across multiple teams, and working closely with AWS to modernize the platform.",
+                "description": "THE CHALLENGE
+Eventbrite is a people-first organization. Our goal of building the global platform for live experience relies on the foundation of top talent and strong company culture. Our team is the face of Eventbrite, and we’re charged with finding, attracting, and bringing on the best of the best to drive Eventbrite’s growing business and award-winning culture forward. Hiring the best talent globally is no easy feat. However, we have a talented team who has an inspiring story and mission. Our perfect candidate is someone who can connect that vision and story with top-notch talent. 
+
+THE TEAM
+The members of our team tackle big problems through small group collaboration. Our technology spans web, mobile, APIs, big data and machine learning, search, as well as physical point of sale and ticket scanning systems. As a people-focused organization, we support a culture of inclusion, mentorship, and continuous learning. Pair programming, weekly demos, tech talks, and hackathons are at the core of how we build our team and product. We engage with the community by hosting events with exciting technical speakers and releasing key building blocks of our stack as open-source software.   Our engineering teams own their services and systems end to end from requirements gathering to deployment to maintenance. Team members follow an on-call rotation to ensure any issues are mitigated immediately and root causes are rectified. 
+
+THE ROLE
+As a Principal Software Engineer in Eventbrite’s Marketplace group, you will embody Eventbrite engineering’s culture of technical excellence and will help drive sweeping architectural changes as we modernize our platform. 
+
+You’ll provide technical leadership across multiple teams like Identity (user management), Risk and Fraud, and other critical functions that made serving over 5 million events in nearly 180 countries in 2022 a possibility. As a Principal Software Engineer at Eventbrite, you will:
+- Drive Eventbrite’s transition from self-hosted services to cloud-managed services, helping our teams build highly scalable, fault tolerant solutions for our users
+- Educate other engineering teams and advocate for scalable and maintainable architectural decisions.
+- Collaborate closely with other Eventbrite engineering teams to build out additional observability throughout our stack utilizing tools like Datadog, AWS CloudWatch, and others
+- Investigate new technologies and tools and recommend those that best fit the team and organization
+- Work closely with AWS, leveraging a number of cloud native solutions to modernize the Eventbrite platform
+",
+                "extras": [{"title":"THE TECH STACK","content":["Our primary stack is Python/Django and Kotlin based microservices, running on the AWS platform. In addition to self-managed infrastructure like RabbitMQ and Kafka, we heavily rely on various AWS services such as Aurora, OpenSearch, ElastiCache, and many others. We also leverage the HashiCorp toolset in our stack (Consul, Nomad, Vault, and Terraform)."]},{"title":"THE SKILL SET","content":["Understanding and application of computer science fundamentals: data structures, algorithms, and design patterns.","15+ years of application development and design experience with modern languages like Python, Kotlin, etc.","Advanced knowledge of complex software design, distributed system design, design patterns, data structures and algorithms.","Deep understanding of cloud providers such as AWS, and cloud architectures and design patterns.","Track record of delivering successful solutions and collaborating with others.","You enjoy teaching and mentoring others"]},{"title":"BONUS POINTS","content":["You have experience working with modern frontend frameworks: React, Backbone/Marionette, etcActive Eventbrite user with a passion for live events"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/eventbrite/822aeb2b-a1c2-4121-aa6e-e7aea6cb1bc2"
+            }
