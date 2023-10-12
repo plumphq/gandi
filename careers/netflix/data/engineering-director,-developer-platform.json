@@ -1,0 +1,42 @@
+            {
+                "id": 234,
+                "companyId": 6,
+                "title": "Engineering Director, Developer Platform",
+                "location": ["Los Gatos, California"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": [""],
+                "skills": ["JavaScript","Node.js","JVM Languages","Python","Java","data science","machine learning"],
+                "overview": "",
+                "description": "It’s an amazing time to be joining Netflix as we continue to transform entertainment. We deliver billions of hours of movies and TV shows per month to more than 230 million members in over 190 countries. At Netflix, we aspire to entertain the world. Our Developer Platform enables Netflix engineering teams to rapidly build and create innovative experiences for our members and creators all around the globe.
+
+At Netflix, we empower developers to take ownership and handle their creations throughout the entire software development lifecycle. We scale this approach through substantial investments in developer tooling, streamlining, and automating DevOps to minimize repetitive tasks.
+
+Within the Platform Engineering organization, Developer Platform's mission is to optimize the impact of Netflix engineering teams throughout the entire software development lifecycle. We invest deeply in developer tooling, supporting their needs from project start to production operations. We offer comprehensive experiences for software development, delivery, operations, and maintenance. By providing reliable, high-performing, secure, and flexible developer tools, services, and infrastructure, we ensure Netflix can scale and adapt swiftly to meet business demands.
+
+We free Netflix engineers from the complexity of modern software development, allowing them to focus on creating world-class entertainment.
+
+The Opportunity
+
+We are looking for an Engineering Director to drive the next evolution of our Developer Platform with best-in-class experiences that simplify and accelerate workflows that empower and delight software engineers. We strive to manage more for developers so they can innovate more for Netflix. This role encompasses the following domains:
+
+Frontend Application Development (JavaScript/Node.js)
+Provide a world-class development experience for Frontend developers at Netflix by supporting the software development lifecycle for JavaScript libraries and Services.
+
+Backend Application Development (JVM Languages)
+Keep developers in the flow during application development by optimizing the inner development loop for our JVM ecosystem. Look holistically at the end-to-end experience through the entire lifecycle, from project initialization to ongoing operations and maintenance for backend application developers.
+
+Machine Learning & Data Science Ecosystems (Python)
+Provide a paved road for Python development as it is one of the three primary languages in use at Netflix and is fundamental to many critical business scenarios (machine learning, personalization, data science, experimentation, content-encoding, and more).
+
+",
+                "extras": [{"title":"What You Will Do","content":["Define a durable vision and strategy for the Developer Platform organization while partnering closely with Product Management to maximize business and customer impact.","Define how we measure the success and effectiveness of our products and drive the execution and continuous evaluation of those metrics.","Create strong partnerships with our customers (Netflix engineers) by creating continuous feedback loops that allow us to understand their problems better and address them in a highly leveraged manner.","Ensure that our product evolution thoughtfully addresses product lifecycle and adoption/migration experience and provides clear guidance and recommendations to your teams.","Work closely with Technical Program Management to help evolve Platform Engineering’s customer engagement model, communication strategy, and prioritization and planning/roadmapping practices."]},{"title":"What We’re Looking For","content":["Experience at the Engineering Director level","A passion for developer platforms, developer experience, tools, workflows, and infrastructure","Demonstrated success in developing high-performing engineering teams and growing people leaders","Ability to lead through change as the business evolves to take on new challenges","Proven track record of driving a product vision and strategy while leveraging strong cross-functional partnerships with Product Management and Technical Program Management teams","A healthy blend of deep technical knowledge with a customer-focused mindset and empathy","Success in leading large-scale migrations to completion","Deep experience with Java, JavaScript, or Python or experience that spans multiple languages","Strategic thinker that can connect customer use cases to technology solutions and think holistically about end-to-end experience","Ability to manage a portfolio of bigger and smaller bets while balancing short-term goals and long-term vision","Comfortable applying a combination of qualitative and quantitative methods to define success","Leverage product intuition and judgment to solve problems and make decisions without perfect information","Excellent written and verbal communication skills; timely communication with clear expectations"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/f0377ee9-1e17-4523-a6ae-6cea57b3079d"
+            }
