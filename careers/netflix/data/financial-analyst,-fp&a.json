@@ -1,0 +1,29 @@
+            {
+                "id": 300,
+                "companyId": 6,
+                "title": "Financial Analyst, FP&A",
+                "location": ["Manila, Philippines"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Financial Analysis","FP&A","Data Entry","Validation","Reconciliation","Financial Forecasting","Reporting"],
+                "skills": [""],
+                "overview": "",
+                "description": "Netflix is the world's leading streaming entertainment service with over 220 million paid memberships in over 190 countries enjoying TV series, documentaries and feature films across a wide variety of genres and languages. Members can watch as much as they want, anytime, anywhere, on any internet-connected screen. Members can play, pause and resume watching, all without commercials or commitments. 
+
+Netflix is looking for finance professionals to join our team. This role will support the FP&A team and manage data-entry, validation, and reconciliation to build accurate financial forecasts. This role will also contribute to reporting and financial analysis that are used to inform important business decisions.
+
+We currently have opportunities available on the following teams:
+⦁ Content FP&A
+
+All roles are based in our Manila office. Depending on business needs and candidate background, there may be future opportunities to rotate across business functions (e.g., marketing FP&A) as needs open up. 
+",
+                "extras": [{"title":"Responsibilities:","content":["Execute and manage data entry for forecasting and analysis","Perform data validation and reconciliation analysis","Supporting near-term and long-term P&L forecasts","Supporting key portions of the company's free cash flow forecast","Contribute to presentations and memos that can support financial and business decisions","Prior experience in financial planning & analysis or accounting is preferred. Ideal candidates will have a proven track record of performing financial analysis and knowledge of the forecast submission process.","This person must thrive in a fast-paced environment and exhibit the highest personal and professional standards of integrity and ethics.","Netflix is fast-growing with a flat organizational structure, which means that employees are often asked to perform tasks with a range of difficulties. Candidates must be motivated, disciplined, and able to work effectively autonomously."]},{"title":"Requirements:","content":["2+ years of experience conducting quantitative and qualitative financial analysis","Proficiency with spreadsheet-based tools like Google Sheets or Excel","Experience with managing and analyzing large, complex data sets","Exceptional verbal and written communication skills","Sound working knowledge of the related accounting guidance preferred","Bachelor's degree with emphasis on coursework of a quantitative nature, preferably Business, Economics, or Mathematics"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/dbbccb98-bf92-4435-9204-27a24cca69aa"
+            }
