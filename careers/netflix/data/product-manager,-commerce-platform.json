@@ -1,0 +1,24 @@
+            {
+                "id": 369,
+                "companyId": 6,
+                "title": "Product Manager, Commerce Platform",
+                "location": ["Los Gatos, California"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": 5,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Product Manager","Commerce Platform","Monetization","Product Roadmap","User Experiences","Platform Features","Innovation"],
+                "skills": ["platform product manager","commerce platform","monetization product","growth platform","conversion experience","business models","user experiences"],
+                "overview": "The Product Manager, Commerce Platform at Netflix is responsible for driving the next evolution of their commerce platform, scaling and accelerating growth platform capabilities, and maximizing business and customer impact through innovative platform offerings.",
+                "description": "Now is an amazing time to join Netflix as we seek to entertain the world. We have over 200 million paid members in over 190 countries, which makes us the most popular streaming service and we won’t stop there. We are looking for a platform product manager to help drive the next evolution of our commerce platform. As part of the Monetization product team, your mission is to scale and accelerate our growth platform capabilities that power the conversion experience and new business models.  
+
+As a Product Manager at Netflix, you will be expected to strategize, prioritize and execute projects. You should be comfortable at the hub of a fast-paced environment where you interface daily with cross-functional experts. You can build consensus and alignment but are not afraid to push ahead when there remain some critics and lead in the face of ambiguity.  
+",
+                "extras": [{"title":"As the Product Manager: Commerce Platform, you will:","content":["Define and drive our product roadmap for the Netflix Commerce platform across a growing number of business models, services, and UI platforms, balancing the needs of global scale and local customization","Standardize critical user experiences and build platform features across commerce flows (sign up, upsell, tooling, etc.) while allowing for configurability and optimization","Accelerate our ability to innovate on commerce experiences by implementing modular templates and increasing experimentation efficiency","Deeply understand and triangulate across customer needs, technical strategy, and product analytics to drive platform offerings that maximize business and customer impact","Partner closely with senior management, consumer product managers, design, engineering, and data science teams to provide a cohesive vision and ensure the platform roadmap aligns with broader business objectives","Ensure we are solving the right problems by sourcing input from multiple channels and prioritizing effectively to drive platform adoption and increase experimentation throughput for Netflix","Develop and execute ideas through all aspects of the product development lifecycle including design, research, development, testing, productization, and iteration"]},{"title":"Qualifications:","content":["5+ years of experience as a Platform Product Manager with a proven record of successfully launching impactful platform products e.g. a multi-platform experimentation system","Strategic systems thinker with a healthy blend of deep technical knowledge, prioritization skills, along with customer-focused and growth mindset","Ability to inspire, motivate and lead a cross-functional team - your ability to build strong relationships is critical to success.","Comfortable applying a combination of qualitative and quantitative methods to define success","Insatiable curiosity to learn new domains, keep up with industry innovation, and constantly ask ‘why’","Excellent written and verbal communication skills; timely communication with clear expectations"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/d2cf26e1-f572-4e9e-9742-b27972504410"
+            }
