@@ -1,0 +1,32 @@
+            {
+                "id": 143,
+                "companyId": 5,
+                "title": "Lifecycle Marketing Manager",
+                "location": ["Remote, United States"],
+                "type": ["Full-time"],
+                "attendance": ["Remote"],
+                "experience": 4,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Lifecycle Marketing","Email Marketing","Campaign Development","Customer Segmentation","Data Analysis","Project Management","Communication Skills"],
+                "skills": ["Hubspot","Braze","email delivery platforms","customer relationship management software","data warehouses","Audience segmentation","A/B tests"],
+                "overview": "The Lifecycle Marketing Manager role at Eventbrite involves creating and executing marketing campaigns to establish customer relationships, drive engagement, and increase retention through continuous testing, learning, and iteration.",
+                "description": "THE CHALLENGE
+Eventbrite has built a world-class events marketplace, enabling entrepreneurs worldwide to build and grow their businesses with live events while helping event-goers discover unique, local things to do.  We're on a mission to bring the world together through memorable live experiences, and our pace is dynamic and fast. 
+To continue evolving engagement and conversions on both sides of our two-sided marketplace, we are looking for a Lifecycle Marketer who can evolve our marketing campaigns for customers (event organizers) and consumers (event attendees).
+
+THE TEAM
+The Eventbrite Marketing team is a centralized, multi-disciplinary group of strategists, creatives, researchers, and makers, who work to acquire and retain event creators and attendees, while building a strong, enduring, and loved brand. 
+Within this larger team, Lifecycle Marketing is tasked with building stronger relationships with event organizers and attendees through engaging lifecycle marketing campaigns, cross-sell and upsell campaigns, and loyalty and retention campaigns that drive meaningful business impact. We work closely with product, product marketing, data, design, and our business partners. We are a highly cross-functional team that delivers top-tier work by leveraging our collective creativity and strategic prowess.
+ 
+THE ROLE
+This role will be responsible for architecting initiatives that establish customer relationships and inspire engagement and retention. You will be responsible for creating, executing, and maintaining campaigns and marketing plans. In this role, you will need to have a deep understanding of our customers and their journeys, as well as work with cross-functional teams to maximize business impact. You must have excellent written communication skills, a keen attention to detail, be able to manage multiple concurrent projects, and meet tight deadlines. This is a high impact role in which the successful Lifecycle Marketing Manager will continually test, learn and iterate in the pursuit of highly-efficient and valuable customer touchpoints.
+
+",
+                "extras": [{"title":"YOU WILL:","content":["Develop, execute, and optimize customer campaigns from conception to launch.","Work closely with the rest of the Marketing team to align campaign strategies and goals across the organization.","Build user segmentation, based on a deep understanding of our customers and their lifecycles","Continually drive for incremental improvements and optimizations in our lifecycle performance","Measure, monitor, and report on performance metrics for all email types, deriving key insights from data and suggesting adjustments to strategy and tactics in response","Build, test, and optimize engagement and retention programs, making continuous improvements based on performance, trends, insights; regularly report out metrics","Collaborate with the rest of the marketing team to create and execute integrated, cross-channel campaigns","Partner with cross-functional teams to identify new opportunities to increase engagement from active and lapsed customers.","Assist with distribution efforts in channels outside of email, as needed"]},{"title":"THE SKILL SET","content":["4+ years of email marketing experience","Proven track of record of building and optimizing multiple, simultaneous marketing campaigns; equally comfortable building strategic marketing plans and executing at a tactical level","Experience with email delivery platforms, customer relationship management software, and data warehouses, especially Hubspot and Braze","A keen attention to detail and excellent organizational and project management skills","Experience in audience segmentation and targeting","Exceptional communication and writing skills and a track record for delivering clear and compelling customer-facing materials","Experience writing customer-facing content that is on-brand, relevant, and tailored to a specific customer segment/experience","Define, measure, track, and report on relevant metrics. Build and maintain ongoing datasets.","Experience running A/B tests and deriving insights that drive strategy","Strong Excel skills and the ability to manage and analyze large sets of data","\"Can-do\" approach to a varied workload and resourceful problem-solving instincts","Bachelor’s degree"]},{"title":"BONUS POINTS","content":["SQL, Tableau, and/or Salesforce experience","Photo and/or graphic-editing skills (for minor changes on the fly)","Active Eventbrite user with a passion for live events"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/eventbrite/04112f22-6fc8-4b19-b788-63021986404e"
+            }
