@@ -1,0 +1,27 @@
+            {
+                "id": 472,
+                "companyId": 6,
+                "title": "Technical Program Manager (L6) - Content Infrastructure & Solutions",
+                "location": ["Los Gatos, California"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Technical Program Management","Cross-Functional Programs","Engineering Collaboration","Technical Strategy","Risk Management","Project Coordination","Cloud Infrastructure"],
+                "skills": ["Technical Program Management","Engineering","UI/UX","Data Science","Technical Strategy","Cloud","Data Infrastructure"],
+                "overview": "",
+                "description": "About Netflix
+It’s an amazing time to be joining Netflix as we continue to transform entertainment! Our mission is to entertain the world. To achieve this, we need to create and deliver compelling content to over 230 million members all around the globe. We leverage technology  to enable us to excel in producing, distributing and promoting content while making the most efficient use of our multi-billion dollar content budget.
+
+ Content Infrastructure & Solutions (CIS) infrastructure to address cross-cutting concerns related to content creation and media processing. Examples of products and services in our portfolio include massively scalable compute infrastructure to run media encoding for our entire catalog, services to manage media assets, orchestration platforms for complex studio workflows and connecting data across the entire ecosystem. 
+
+We are looking for a Technical Program Manager to drive large cross-functional programs that directly contribute to the pitch-to-play process. This individual will partner closely with engineers, product managers, other technical program managers and senior leadership to execute, track and deliver high impact strategic programs.
+",
+                "extras": [{"title":"What you will do","content":["Lead multiple cross-functional programs, in collaboration with technical teams (including engineering, UI/UX, Data science, etc.), product management and business stakeholders.","Leverage deep technical domain expertise to partner with engineering on technical strategy, planning, and execution.","Craft and drive engagement with partners, work to decompose requirements into technical execution plans with multiple engineering teams, track progress, and report status to a diverse audience.","Champion breaking out high level objectives into measurable milestones while proactively managing risks, blockers, and delays.","Manage cross-functional dependencies, risks, and changes effectively by optimizing scope, schedule, and resources."]},{"title":"What we are looking for","content":["Functional Skills:","You can partner with multiple cross-functional teams to define technical strategy and requirements","You are highly skilled, experienced, and enjoy orchestrating programs with many moving parts - people, needs, and technologies","You have an ability to identify gaps in solutions, debate technical approaches and weigh-in on product vs. technology tradeoffs","You aren’t afraid to get your hands dirty, pulling data to provide insight, debug issues, and monitor system health","You have a data driven mindset in your decision making","You have a deep understanding and point of view within your technical domain(s) of expertise","You have domain expertise in cloud or data infrastructure","Basic Qualifications:","10+ years of experience including","Technical program management - driving large scale software projects/programs with engineering and product teams","4+ years of software or systems engineering","Experience managing projects across cross-functional teams, building sustainable processes, and coordinating release schedules","Excellent written and verbal communication skills, including clear articulation of business impact and technical constraints tailored to the audience","Self-starter who enjoys tackling 0 to 1 problem spaces and quickly bringing organization and direction"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/2220ec11-c3e8-4262-9f15-80261139fb0e"
+            }
