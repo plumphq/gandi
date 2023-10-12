@@ -1,0 +1,31 @@
+            {
+                "id": 415,
+                "companyId": 6,
+                "title": "Software Engineer (L4), Applications Engineering - Feature Animation at Netflix",
+                "location": ["Burbank, California"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Java","Project Management","Agile Methodology","Jira","Conflict Resolution","Budget Management","Team Leadership"],
+                "skills": [""],
+                "overview": "",
+                "description": "Location: This role is based out of the Burbank or Vancouver, CAN office. In-office / Hybrid / Remote; Hybrid Preferred
+
+Feature Animation at Netflix is committed to creating content that makes a lasting impression on audiences and expands expectations of what is possible in storytelling. We are paving the way for the bold future of animation by building a community of amazing artists and talent. As a part of Netflix, Feature Animation values integrity, excellence, respect, inclusion, and collaboration. This is the new wave of animation — and you can help shape it! This opportunity will be a hybrid role based in either Burbank, CA, or Vancouver, CAN. 
+
+Job Summary:
+This role is responsible for the successful execution of projects by understanding the problem in the business, creative and technical context, and developing software solutions to address it. This software engineer will collaborate with the team and integrate with other partners and applications in the Animation domain to innovate and shape the future of technology at Feature Animation at Netflix.
+
+About Feature Animation at Netflix Technology:
+The Feature Animation at Netflix Technology team is focused on developing cutting-edge tools and providing support to the growing slate of animated features.  We are active contributors to our strong culture of collaboration, opportunity, and partnership. We work directly with the artists and management staff to determine how best to apply technology solutions to all aspects of our Studio.  We provide critical support in working with our creative partners (vendors) and establishing standardized workflows for departments.  We work closely with the other Technology teams across Netflix and its subsidiaries to offer the best solutions to the Animation community.
+
+",
+                "extras": [{"title":"What You'll Do:","content":["Work with subject matter experts and generalists in this domain","Engage with cross-functional partners and end users to understand business needs and clarify requirements","Share ideas openly and farm for dissent in an inclusive environment","Align on tradeoffs and decisions with stakeholders and partners across multiple locations and timezones","Develop, test, maintain, and operate full-stack applications with REST, gRPC, GraphQL, SpringBoot Java, React, Typescript, Node, Python","Contribute to technical decisions on the team on relational and NoSQL database technologies like Postgres, Redis, Cassandra, and CockroachDB"]},{"title":"What You'll Need:","content":["Be a product-minded anchor to our end users","Be a systems thinker who can reason through complex interactions and understand technical tradeoffs","Be a versatile software engineer who enjoys learning new technologies, embracing best coding practices, and using their frontend- and backend-skills to develop user-friendly applications","Be a great cross-functional partner who can easily empathize and work with both technical and non-technical partners to understand the underlying business needs and come up with robust solutions","Be a problem-seeker who proactively identifies issues and resolves them with ownership","Be a technical pioneer who is self-motivated to seek out new knowledge and capabilities and empower your teammates by sharing what you've learned","Experience with ShotGrid, Photoshop, Maya, and other digital creation tools is a plus","Required bachelor's degree or higher (or its equivalent), or its equivalent in work-related experience","Candidates with a background relating but not limited to Engineering, Computer Science, Animation, Technology-related experience is a plus"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/e8ac657b-05d0-49fb-af9d-1064d4888d71"
+            }
