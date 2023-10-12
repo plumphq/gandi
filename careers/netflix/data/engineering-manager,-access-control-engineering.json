@@ -1,0 +1,30 @@
+            {
+                "id": 290,
+                "companyId": 6,
+                "title": "Engineering Manager, Access Control Engineering",
+                "location": ["Remote, United States"],
+                "type": ["Full-time"],
+                "attendance": ["Remote"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": [""],
+                "skills": [""],
+                "overview": "",
+                "description": "At Netflix, we are shaping the future of global entertainment, bringing moments of joy to 200+ million customers. The Access Control Engineering team at Netflix is a central security team that supports the Netflix workforce and partners by creating and operating Access Management & Authorization services for users & applications. Our Enterprise IAM use cases continue to become more complex as we increase investment in Netflix Original content production ecosystems, including Gaming and beyond. Our workforce and partners are global, and they access our resources with different patterns from a variety of locations and devices. Balancing security and ease of access supporting fast-paced timelines, we realize that the traditional corporate network security perimeter no longer meets our requirements. Instead, we invest in Identity as a perimeter in the open internet, with reliable, strong and risk-aware authorization to protect our resources.
+
+Among others, this means we:
+Improve and maintain critical workflows such as initial user, service & application access
+Develop self-service access management applications and automated elimination of unused user access permissions
+Design and build lightweight integrations between services in our environment (both built in-house and SaaS) that need to exchange data
+
+You will collaborate with your team to set the vision for Access Control Engineering within SSE and work with other leaders within Security Engineering to help guide us as an organization. You will likely spend your time networking both inside and outside the company, recruiting for your team, building effective and strong partnerships with stakeholders. You will work closely with partner teams including Platform Engineering, Content Engineering, Application & Infrastructure Security and more, providing and receiving feedback effectively and aligning on shared deliverables as needed.  
+
+",
+                "extras": [{"title":"Desired background:","content":["You’re deeply passionate about inclusion, diversity, and equity and have some experience improving aspects where you’ve worked;","You have experience leading teams with highly diverse skill sets;","You can effectively hire and retain high-impact people from diverse backgrounds with diverse motivations;","You can effectively partner with others in the organization and use your thoughtfulness and empathy to understand the challenges they face and how you can work together to better life for Netflix employees;","You can operate both tactically and strategically and know when best to choose which of these approaches is appropriate in the moment;","You’re humble, have some understanding of where/how you’d like to grow, and thirst for supportive, constructive feedback from others to continue to improve yourself.","You’re courageous and willing to do uncomfortable things such as giving people feedback.","You have a passion and background in software or security engineering.","You have 3-5 years experience and success, leading engineering teams staffed with a range of experienced engineers to support work critical systems.","You are well versed in technical principles like cloud engineering, operational excellence, and balancing performance, efficiency, and reliability;","You’re deeply interested in organizational culture and health and have enough familiarity with Netflix’s culture to both find it primarily attractive and to have questions about how it manifests on the ground and impacts your ability to do your job."]},{"title":"Nice to have:","content":["Experience working with authentication and authorization protocols/frameworks (OpenID Connect, SCIM, OAuth or SAML).","A background in working with an Software Engineering, Security or IAM foundational principles","People management background working with highly technical engineers of varying backgrounds"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/2a61d119-4e6d-4a63-825d-b93e56313fee"
+            }
