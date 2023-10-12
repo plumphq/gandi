@@ -1,0 +1,27 @@
+            {
+                "id": 385,
+                "companyId": 6,
+                "title": "Security Software Engineer (L5), Security Platforms Engineering",
+                "location": ["Remote, United States"],
+                "type": ["Full-time"],
+                "attendance": ["Remote"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Security Software Engineer","Security Platforms Engineering","application security","automation","Python","scale","ownership"],
+                "skills": ["security software engineer","application security","automation","Python","scale","security controls","data"],
+                "overview": "The Security Software Engineer (L5), Security Platforms Engineering position at Netflix focuses on building and advancing application security controls automation to reduce risk and contribute to the ecosystem's security posture.",
+                "description": "At Netflix, we do one thing - entertainment - and we aim to do it really well at massive scale. Thousands of services work in tandem to bring engaging content from the minds of our creative partners to the devices where members enjoy that content. The Security Platforms Engineering (SPE) team enables Netflix to entertain the world by securing the technology powering the entertainment that you know and love.
+
+SPE aims to deeply understand our users, systems and security risks, so we can rightsize Netflix’s top security risks at scale. Our application security controls function reduces risk in our unique and complex engineering ecosystem through high-leverage and high-signal security controls automation. 
+
+We are looking for a security software engineer to build and advance our application security controls automation at Netflix. In collaboration with other team members on the squad, you will be responsible for designing and developing controls automations to understand and contribute to our ecosystem’s security posture. You will also work cross-functionally with other teams across Netflix Security Engineering and Platform Engineering to drive impactful change.
+
+",
+                "extras": [{"title":"You:","content":["Are a security software engineer, experienced with application security and automation","Are comfortable writing software, preferably in Python","Thrive on the challenge of working at scale","Confidently take ownership of solutions you architect and build","Weigh the short and long term tradeoffs and make pragmatic decisions, informed by data","Are comfortable with ambiguity, and experienced with tacking open-ended problems","Communicate effectively","Care deeply about the developer experience we create with our security controls","Derive energy from a diverse and constantly-evolving environment and delivering innovative solutions to security challenges","Know we go further together, and enjoy working collaboratively on a team"]},{"title":"For more information related to the work our team does at Netflix please see these resources:","content":["Astha Singhal’s Netflix Tech Blog posts (Part 1 | Part 2) about how we scale application security at Netflix.","Scott Behrens and Shannon Morrison’s talk (QCon) about quantifying risk at scale using asset inventory (slides)","Netflix’s Talk at Scaling Security: Appsec about Asset Inventory and Prism","Aladdin Almubayed’s 2019 BlackHat talk about how we approach third-party vulnerability management.","Bryan Payne’s blog post about how we practice security effectively in a culture that aims to avoid security gates and unnecessary processes.","The Netflix Security YouTube Channel contains videos from talks Netflixers have given about various security topics."]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/9f032884-0638-418e-9cf7-9799d7871bc3"
+            }
