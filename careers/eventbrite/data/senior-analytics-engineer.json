@@ -1,0 +1,31 @@
+            {
+                "id": 155,
+                "companyId": 5,
+                "title": "Senior Analytics Engineer",
+                "location": ["Remote, Spain"],
+                "type": ["Full-time"],
+                "attendance": ["Remote"],
+                "experience": 4,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Analytics Engineering","Data Products","Business Analytics","Reporting","Data Models","Data Marts","ETL Processes"],
+                "skills": ["Snowflake","DBT","Airflow","BI/Viz Tools","SQL","Python","Spark"],
+                "overview": "The Senior Analytics Engineer will design, build, and maintain data products that enhance business analytics and reporting capabilities for Eventbrite, collaborating cross-functionally to revamp data models and deliver self-service analytics capabilities for a diverse set of users/use cases, while improving data quality and promoting data-driven thinking across the company.",
+                "description": "THE CHALLENGE 
+Eventbrite has the world’s largest data repository of live events, powering millions of events and hundreds of millions of ticket transactions each year in 170+ countries. The Analytics Engineering team’s mission is to provide self service tools and data assets that serve as the common foundation for enabling analytics and insights at Eventbrite. We are looking for a strong IC who can help us develop the next generation analytics platform for Eventbrite.
+
+THE TEAM
+Our Analytics Engineering team is centralized within the Data Organization and partners closely with the Data Platform Engineering and cross-functional analytics teams to connect the dots between imminent analytics needs and existing supply of data. The scope of the team spans enabling multiple user personas with varying levels of data literacy/savviness across the breadth of the business. Key “data products” owned by the Analytics Engineering team include various data marts, transformations/business logic to convert source data to consumable metrics/dimensions, and enablement around what data exists, how to leverage it, and everything in between. We conquer significant problems by putting our heads together, learning, supporting and mentoring each other to reach greater heights across the Data Org and across various functions within the company. 
+
+THE ROLE
+You will design, build, and maintain data products that enhance business analytics and reporting capabilities across the Eventbrite. Enable functional analytics team to deliver key dashboards and reports. You'll own the development of metrics, data models and the underlying logic that powers the dashboards and reporting designed by our functional data partners, which in turn supports strategic decision-making by leadership. You will collaborate cross-functionally to revamp data models that power business-critical internal and customer-visible metrics. You will help deliver data marts and ETL processes that enhance self-service analytics capabilities for a diverse set of users/use cases. You will define standards and best practices for improving data quality and automation, translate data consumption needs into requirements and technical specifications for source data and transformations, and you will enable data-driven thinking, and help elevate data literacy across the company. Also, you will mentor and learn from peers to build a cohesive culture and best practices on data at Eventbrite.
+
+
+",
+                "extras": [{"title":"THE SKILL SET","content":["Outstanding interpersonal and communication skills","Strong analytical, problem solving and critical thinking skills","Experience with data languages, tools, and techniques and how to leverage them for impact including Snowflake, DBT, Airflow, BI/Viz Tools","Ability to synthesize common data models and actionable frameworks from diverse analytical needs for technical and non technical stakeholders","Ability to analyze business requirements in various business functional areas and translate them into conceptual, logical and physical data models","High proficiency in dimensional modeling techniques and their applications","Advanced experience writing, optimizing and validating SQL queries (Python and/or Spark are a plus!)","Attentive to detail for quality control, data validation, and reconciliation at scale","4+ years of hands-on experience building, running, and supporting ETL pipelines on large-scale data sets","Familiarity with database optimization and scaling approaches is a plus","Experience working in Agile framework","Attentive to detail with strong quality control, especially in regard to large-scale data changes","Bonus: Active Eventbrite user with a passion for live events"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/eventbrite/baf3eb26-c4bf-420d-a7a8-9b36f45c37af"
+            }
