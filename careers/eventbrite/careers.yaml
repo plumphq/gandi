@@ -1,0 +1,9 @@
+# if your company is using lever AST, you can simply define the lever board url, and
+# all the jobs will be automatically fetched from there
+# note: if lever board jobs are prioritized, you can remove the duplicated careers section
+lever_board: https://jobs.lever.co/eventbrite/
+# important: only one careers object per file.
+careers:
+  # required, concrete job listing url (not domain!)
+  - url: https://jobs.lever.co/eventbrite/90142e71-10a3-4499-a84e-f316fe8a6e27
+

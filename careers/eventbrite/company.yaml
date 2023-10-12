@@ -1,0 +1,20 @@
+# required, company name
+name: Eventbrite
+# required, company base url (not domain!)
+url: https://www.eventbrite.com/
+# required, company careers page (!important: company careers page, not an external job board)
+careers_url: https://www.eventbritecareers.com/
+# required, company description (markdown unsupported, 300 characters ~ 3-4 sentences max.)
+description: Eventbrite is the world’s largest ticketing and event technology platform, powering millions of events in 180 countries in 2017. We build technology that allows anyone to create, share, find and attend events of all kinds. Music festivals, marathons, conferences, hackathons, political rallies, fundraisers, gaming competitions — you name it, we power it.
+
+# optional (recommended), company icon url, preferably in a square/circle formats, any size, .png / .jpg / .svg
+icon: https://play-lh.googleusercontent.com/Zh5gb8srh7zc9bfJY7I8fuIoHuEduQ2zyrPM9k0XtnibL6yolNXmC-KZxtej8idLURw
+# optional (recommended), company slogan / one sentence brief (90 characters max.)
+slogan: Bringing the world together through live experiences
+# optional (recommended), additional links to company social media profiles
+links:
+  - title: glassdoor
+    url: https://www.glassdoor.com/Overview/Working-at-Eventbrite-EI_IE344483.11,21.htm
+
+# optional, company headcount, LinkedIn format: [1-10, 11-50, 51-200, 201-500, 501-1000, 1001-5000, 5001-10000, 10001+]
+size: 501-1000
