@@ -1,0 +1,30 @@
+            {
+                "id": 162,
+                "companyId": 5,
+                "title": "Senior Software Engineer - IOS",
+                "location": ["Remote, India"],
+                "type": ["Full-time"],
+                "attendance": ["Remote"],
+                "experience": 4,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["iOS Engineer","Swift","SwiftUI","Secure Coding","Code Testing","Continuous Delivery","Automation","Design Patterns","Mobile Architectures","Market Software Standards","Communication","Collaboration","Technical Documentation","Goal Alignment","Product Design","Engineering","Teaching","Mentoring","Android","Python","Java","Kotlin","Open Source Software"],
+                "skills": ["iOS","Swift","SwiftUI","secure coding","testable code","continuous delivery","automation"],
+                "overview": "The Senior Software Engineer - IOS position at Eventbrite in India requires 4+ years of experience building highly performant iOS apps in Swift and SwiftUI, as well as the ability to write secure and maintainable code, collaborate well with peers, and align on goals with product and design. Experience with Android apps, Python/Java/Kotlin, and open source software is a plus.",
+                "description": "THE CHALLENGE
+Eventbrite is a people-first organization, and our goal of building the global platform for live experiences relies on a foundation of top talent and a strong company culture. Our team represents Eventbrite, and we are responsible for finding, attracting, and bringing on the best talent to drive Eventbrite's growing business and award-winning culture forward. Hiring the best talent globally is no easy feat, but our talented team has an inspiring story and mission. Our ideal candidate is someone who can connect that vision and story with top-notch talent.
+ 
+THE ROLE
+As a Senior Software Engineer Engineer you will join our mobile engineering team in India and help make Eventbrite an indispensable platform for finding the best events worldwide. Our technology spans web, mobile, APIs, big data, machine learning, search, and physical point of sale and ticket scanning systems. As a people-focused organization, we support a culture of inclusion, mentorship, and continuous learning. You'll work alongside product management, product design, and other engineers to gain a deep understanding of how users explore our inventory and build systems to effectively satisfy their needs. Pair programming, weekly demos, tech talks, and hackathons are core elements of our team and product building process. We engage with the community by hosting events with exciting technical speakers and releasing key building blocks of our stack as open-source software.
+
+THE TEAM
+The Organizer App team’s mission is to create the world's best event management tools for organizers. They focus on managing event sales and attendees through iOS or Android devices, monitoring real-time ticket sales, checking-in attendees, tracking attendance live, and accepting fast, secure payment for tickets and merchandise on-site. The team is composed of iOS and Android engineers, a product manager, a designer, and an engineering manager. They tackle big problems through small group collaboration and support a culture of inclusion, mentorship, and continuous learning.
+
+",
+                "extras": [{"title":"THE SKILL SET","content":["4+ years of experience as an iOS engineer building highly performant apps in Swift and SwiftUI","You have the ability to write secure, stable, testable, maintainable code with minimal defects","You have experience continuously delivering and automating processes","You enjoy working on a highly visible product that impacts millions of users.","You have knowledge of design patterns, mobile architectures and market software standards.","You’re a great communicator and collaborate well with technical and non-technical peers","You can write clear and concise technical documentation","You can align on goals and timelines with product, design, and engineering and work independently when needed to meet those goals","You have passion to teach and to mentor others"]},{"title":"BONUS POINTS","content":["Experience with Android apps","Experience using Python/Java/Kotlin in a production environment","Active contributor to open source software"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/eventbrite/2900071c-3aea-49ac-889c-116b10267e18"
+            }
