@@ -1,0 +1,48 @@
+            {
+                "id": 311,
+                "companyId": 6,
+                "title": "iOS Software Engineer (L5) - Streaming and Discovery Experiences",
+                "location": ["Remote, United States"],
+                "type": ["Full-time"],
+                "attendance": ["Remote"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": [""],
+                "skills": [""],
+                "overview": "",
+                "description": "Netflix is the world's leading streaming video service with over 200 million paid memberships in 190+ countries. The Consumer Engineering team builds the industry-leading Netflix iOS, Android, and TV apps. To bring new kinds of engaging and cinematic experiences to life, we partner closely with many cross-functional teams including product management, experience design, and creative production. 
+
+The Streaming and Discovery Experiences Engineering organization continuously improves the Netflix experience to delight, attract, and retain our members. We’re responsible for much of what our members interact with when they use Netflix - from our streaming algorithms to our client and server playback systems to the UI our members use daily to find their next favorite Netflix title. 
+
+We are part of a global, diverse organization that includes people of all people of all genders, sexual orientations, upbringings, nationalities, ages, and socioeconomic & educational backgrounds. We encourage anyone passionate about building compelling mobile experiences that touch audiences worldwide to apply.
+
+We are currently hiring for multiple roles across our teams.  Here’s an overview of our teams and the problems they work on:
+
+iOS Client Foundations
+
+The iOS Client Foundations team shepherds and builds foundational architecture and frameworks that power the Netflix iOS app. Our three core values are: Accelerate developer velocity, pave the path and set standards for App quality and experience metrics, and pave the path to build scalable app architecture (foundational scaffoldings), frameworks, documentation, and communication for iOS platforms across Netflix.
+
+Our responsibilities include implementing large-scale future-looking foundational architecture and frameworks ranging from core UI frameworks to core infrastructure that enables existing and future innovations for product teams across Netflix. We care deeply about the performance, quality, and accessibility of the Netflix app. We’re passionate about creating elegantly designed, highly performant architectures that empower engineers to build unique UI experiences used by millions of users across the globe. We partner closely with teams across Netflix to help deliver solutions that make UI development efficient and enjoyable.
+
+Discovery Core
+
+On our cross-platform UI team, we work to help members discover and connect with stories they'll love. You will work on product features and client architecture innovations on our flagship iOS Mobile Application. We love every minute of the complex engineering and product challenges that come with delighting our users at this scale. 
+
+The Discovery Core team is responsible for building features and solutions that power Netflix’s Discovery Experience innovation across iOS, Android, Web & TVUI. We uniquely sit at the intersection of Product and Client Infrastructure: 
+1. We bring the next generation of immersive product experiences to life in close partnership with several cross-functional teams.
+2. We build the Client & UI capabilities, features, architecture, and operational playbooks to enable teams to craft & ship rich, performant product experiences. 
+
+Member Experiences
+
+The Member Experiences team builds the industry-leading Netflix iOS, Android, and TV apps. We work with our design and product partners to rapidly experiment with new product ideas. 
+
+We’re looking for a Software Engineer to drive innovations in the member experience space. This is a high-impact role that enables delivering delightful experiences to Netflix subscribers on the iOS app. Our responsibilities include working on large-scale A/B tests of features - ranging from highly visible product experiences to core infrastructure that enables existing and future innovations. You will excel if you are product-minded, detail-oriented, and can drive scalable technical solutions that mesh with our business goals.
+",
+                "extras": [{"title":"Must-have skills & experiences","content":["Bring a wide variety of experience building frameworks/libraries with technologies like UIKit, Core Animation, Objective-C and/or Swift, and other Apple frameworks to the team","Help create a scalable, modular, extensible, and highly performant app that scales with high volumes of live data transactions on the app","Provide technical leadership to drive pragmatic yet deeply impactful architectural decisions that address current and future product needs","Deep understanding of the technical landscape of iOS development and can introduce new paradigms and practices","Taking a thoughtful, practical approach to problem-solving that considers tradeoffs and avoids over-engineering"]},{"title":"What Sets You Apart","content":["Curious about a broad range of new or unfamiliar technologies, our consumer base, and product vision","Seek different perspectives, feedback, and relevant information to continuously grow and improve","Maintain strong relationships with cross functional teams through clear communication","Take a thoughtful and practical approach to problem-solving that considers tradeoffs and avoids over-engineering","Comfortable asking questions and seeking knowledge in unfamiliar or ambiguous situations","Endeavor to elevate the knowledge, skills, and abilities of yourself and others that fosters an inclusive and collaborative environment"]},{"title":"You will be successful in the role if","content":["You enjoy pushing the boundaries of what technology can do and exploring uncharted waters with some supervision.","You are curious and ready to learn about various new or unfamiliar technologies, our consumer base, and product vision.","You have experience building transparent observability tooling and solutions that enhance developer velocity.","You love the idea of your work empowering other engineers and striving to understand their use cases.","Your colleagues appreciate the unique perspectives and balanced views you bring to collaborations.","You value the opinions of others when fleshing out solutions to fill out your blind spots.","You have familiarity with the Data-centric approach to app development.","You always seek different perspectives, feedback, and relevant information to navigate ambiguity comfortably.","You are effective at establishing strong relationships with cross-functional teams through clear communication.","You deeply care about the quality & performance of the product shipped.","You have read about Netflix’s culture and think you would thrive here"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/7a0da8a2-a64c-4e6f-8db7-bafff7d2479f"
+            }
