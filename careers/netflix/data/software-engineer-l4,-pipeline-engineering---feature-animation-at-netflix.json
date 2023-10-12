@@ -1,0 +1,29 @@
+            {
+                "id": 416,
+                "companyId": 6,
+                "title": "Software Engineer (L4), Pipeline Engineering - Feature Animation at Netflix",
+                "location": ["Burbank, California"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Python","Kotlin","GraphQL","Spring Boot","Java","NodeJS","Service-Oriented Architecture"],
+                "skills": ["Python","REST","gRPC","Kotlin","Spring Boot Java","NodeJS","database design"],
+                "overview": "The Software Engineer (L4), Pipeline Engineering - Feature Animation at Netflix is responsible for building the technology that connects each phase of the animation process, focusing on pre-production and automating the flow of information throughout the studio.",
+                "description": "Feature Animation at Netflix is committed to creating content that makes a lasting impression on audiences and expands expectations of what is possible in storytelling. We are paving the way for the bold future of animation by building a community of amazing artists and talent. As a part of Netflix, Feature Animation values integrity, excellence, respect, inclusion, and collaboration. This is the new wave of animation — and you can help shape it
+
+Job Summary:
+This role is responsible for empowering artists to focus on their creative process by building the technology that connects each phase of the animation process, with a particular focus on pre-production, and automates the flow of information throughout the studio, from Burbank to Vancouver to Sydney and beyond.  This pipeline engineer will work closely with production to deeply understand the problems of the studio and partner with the larger technology team to address them, shaping the future of technology at Feature Animation at Netflix and the animation industry at large. 
+
+About Feature Animation at Netflix Technology:
+The Feature Animation at Netflix Technology team is focused on developing cutting-edge tools and providing support to the growing slate of animated features.  We are active contributors to our strong culture of collaboration, opportunity, and partnership. We work directly with the artists and management staff to determine how best to apply technology solutions to all aspects of our studio.  We provide critical support in working with our creative partners (vendors) and establishing standardized workflows for departments.  We work closely with the other Technology teams across Netflix and its subsidiaries to offer the best solutions to the animation community.
+
+",
+                "extras": [{"title":"What You’ll Do:","content":["Engage with cross-functional partners, both technical and non-technical, to understand business needs and come up with robust solutions","Align on tradeoffs and decisions with stakeholders and partners across multiple locations and timezones","Build, test, and support pipelines to shepherd content and its metadata between creative workflows using technologies like Python, rez, REST, gRPC, and Kotlin","Develop foundational frameworks using service-oriented architecture and GraphQL","Partner with web developers on applications using Spring Boot Java and NodeJS and contribute to relational and non-relational database design supporting the backend","Share ideas openly and \"farm for dissent\" in an inclusive environment"]},{"title":"What You’ll Need:","content":["Versatility, you’re a software engineer who enjoys working with new technologies","Curiosity, you’re a technical pioneer who is self-motivated to seek out new knowledge and capabilities and empower your teammates by sharing what you've learned","Flexibility, when you identify a gap to be filled you step up to meet the need and appreciate stretching outside of your comfort zone for the chance to grow","Problem-Solving, you proactively identify issues and own their resolution","Passion, you care deeply about animation and storytelling","Strong Values, you have the desire to operate within Netflix culture and champion the culture of our team","Required bachelor's degree or higher (or its equivalent), or its equivalent in work-related experience","Candidates with a background relating but not limited to Engineering, Computer Science, Animation, Technology-related experience is a plus"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/44912894-f070-4989-9f9f-92ffb2ed210a"
+            }
