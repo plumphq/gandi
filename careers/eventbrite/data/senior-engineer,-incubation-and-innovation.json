@@ -1,0 +1,26 @@
+            {
+                "id": 157,
+                "companyId": 5,
+                "title": "Senior Engineer, Incubation and Innovation",
+                "location": ["Remote, United States"],
+                "type": ["Full-time"],
+                "attendance": ["Remote"],
+                "experience": 3,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Java","Project Management","Agile Methodology","Jira","Conflict Resolution","Budget Management","Team Leadership"],
+                "skills": ["AI/ML technology","rapid prototyping","Full stack","mobile experience","Data/ML Engineering","architectural discussions","remote-first environment"],
+                "overview": "Senior Engineer, Incubation and Innovation - Ideate, prototype, experiment and iterate on new ideas to drive innovation for a global platform, exploring AI and ML technologies, rapidly experimenting to validate new products and features at scale.",
+                "description": "THE CHALLENGE
+Eventbrite's business continues to grow and scale rapidly, powering millions of live events across the world. As we partner with event creators to bring the best and most unique experiences for our event attendees, we are investing heavily in building innovative AI-powered tools and interfaces.We are looking a creative problem solvers who enjoy tinkering with new tools and technology. As a Senior Engineer, you will ideate, prototype, experiment and iterate on new ideas that drive innovation for this global platform. 
+
+THE TEAM
+Eventbrite powers millions of live events for hundreds of millions of attendees each year across over 170 countries. The new incubation and innovation team will explore AI and ML technologies, prototype new products and features, rapidly experiment to validate them at scale, and partner closely with peer Dev teams to methodically take them to market.  
+",
+                "extras": [{"title":"THE ROLE","content":["Rapidly prototype and release new ideas, run experiments and iterate","Partner across the company to develop ideas into MVPs that have a path to viability","Build automation to improve internal operational efficiency","Partner with cross functional teams and stakeholders on graduating prototypes to full production","Evaluate and POC the vast ecosystem of AI and ML tools to opportunistically integrate into Eventbrite’s tech stack","Contribute to hiring, onboarding and mentoring engineers.","Propagate the culture of transparency, take ownership and drive impact."]},{"title":"THE SKILL SET","content":["Outstanding interpersonal and communication skills, and ability to communicate with technical and non-technical audience","3+ years experience in cross-functional, agile engineering teams.","A solid technical background with a passion for AI/ML technology, and rapid prototyping","Efficient, practical programmer with a record of producing maintainable code","Full stack and mobile experience are preferred. Data/ML Engineering is a plus","Comfortable participating in architectural discussions, asking informative questions, and assisting the team in making technical trade-offs.","Experience working within a highly collaborative, remote-first environment","Thrives in a dynamic team that runs many experiments and ships code to production often.","Experience building or innovating as part of an early stage startup and/or open source contributions are a plus","Experience with Kinesis, Kafka or equivalent streaming data frameworks,Terraform and CDK"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/eventbrite/73bf5038-e0ee-42f8-aa3a-65cd9c51928b"
+            }
