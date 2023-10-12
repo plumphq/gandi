@@ -1,0 +1,23 @@
+            {
+                "id": 219,
+                "companyId": 6,
+                "title": "Data Analyst, Customer Service",
+                "location": ["Manila, Philippines"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": [""],
+                "skills": ["Tableau","Power BI","data manipulation","data analysis","reporting","business intelligence","data visualization"],
+                "overview": "As a CS Data Analyst, the role involves creating and maintaining Customer Service reports, analyzing diverse data sets, providing user support, and ensuring accurate use of workforce management and operational data.",
+                "description": "Summary of the Role
+As a CS Data Analyst, you’ll be a key player responsible for creating and maintaining Customer Service reports within BI tools. You will analyze diverse data sets, including workforce management forecasting and scheduling metrics, vendor performance, and customer experience metrics, to identify trends and deliver executive-level updates. Additionally, you will be responsible for providing user support to our vendor partners and triaging Customer Service data integrity issues with engineering. Lastly, you will work closely with internal CS teams and Vendor partners to ensure accurate, effective use of workforce management and operational data across the customer service function. 
+",
+                "extras": [{"title":"Responsibilities","content":["Responsible for the creation and maintenance of Global Customer Service dashboards and reports for both internal stakeholders and vendor partners within various BI tools such as Tableau","Partner with the Netflix Data Visualization team to migrate ad hoc Tableau dashboards into Netflix's custom data visualization tools","Extract, manipulate, and analyze large datasets from various sources to identify patterns, trends, and anomalies in customer service data","Provide tier-one support to vendor partners data consumers. Collaborate with Data engineering teams to ensure timely resolution of data integrity issues.","Educate and train users on how to most effectively utilize and interpret reports and data","Create and maintain up-to-date documentation, including data dictionaries, report definitions, and best practices","Partner closely with multiple cross-functional teams to understand reporting requirements, business processes, and KPIs","Prepare and deliver periodic exec-level updates on status, insights, and trends to help inform and guide critical business decisions.","Develop and implement comprehensive and consistent strategies, tools, and processes related to dashboard maintenance and reporting support."]},{"title":"Qualifications and Competencies","content":["Bachelor’s degree in Math, Statistics, Business, Information Technology, or other demonstrated experience in a quantitative field or equivalent work experience accepted","5+ years of data analysis, reporting, and business intelligence, preferably in a customer service or related operational context","Proficiency in data manipulation and analysis using data visualization tools like Tableau, Power BI, or similar.","Demonstrated experience in designing and generating complex reports, dashboards, and visualizations that provide actionable insights to drive operational improvements","Experience working with large datasets and performing data cleansing, transformation, and validation to ensure data accuracy and integrity.","Project/program management, process development, influencing, modeling, and consulting skills","Communication, partnership, and interpersonal skills – ability to communicate complex concepts in simple terms, keeping diverse audiences in mind to drive results"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/7b3d5076-c3e5-4e1f-8d4e-addba82ac41c"
+            }
