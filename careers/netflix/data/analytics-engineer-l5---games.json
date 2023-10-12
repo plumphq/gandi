@@ -1,0 +1,27 @@
+            {
+                "id": 186,
+                "companyId": 6,
+                "title": "Analytics Engineer (L5) - Games",
+                "location": ["Remote, United States"],
+                "type": ["Full-time"],
+                "attendance": ["Remote"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Data Science","Analytics","Data Exploration","Data Solutions","SQL","Python","Big Data Technologies"],
+                "skills": ["SQL","Python","Tableau","Hadoop","Spark","data exploration","data manipulation"],
+                "overview": "You will be a Senior Analytics Engineer in the Games team at Netflix, responsible for leading analytics and data needs, partnering with game stakeholders to define metrics, build dashboards, and scale data access.",
+                "description": "Senior Analytics Engineer, Games
+
+Now is an amazing time to join Netflix as we seek to entertain the world. We have over 200 million paid members in over 190 countries, and we won’t stop there. Games are our next big frontier and an incredible opportunity for us to deliver new experiences to delight and entertain our quickly growing membership. You will be jumping in at the early stages of this adventure and be in a position to help us redefine what a Netflix subscription means for our members around the world.
+
+Data Science and Engineering (‘DSE’) at Netflix is aimed at using data, analytics, and sciences to improve various aspects of our business. We are looking for a Senior Analytics Engineer to join our Games DSE team, leading end-to-end analytics & data needs for the Games space. This role will be partnering closely with our Game stakeholders to define key metrics, build and maintain key dashboards and analytic tools and scale data access across our stakeholder set. As an early member of the team, you will also help shape our overall Games Data Strategy at Netflix.   
+
+",
+                "extras": [{"title":"What You Will Do:","content":["Partner directly with our Game stakeholders (e.g., Netflix Games Studio, Games Product, Game Strategy, Planning & Analysis team) on data, metrics & analytics initiatives","Lead end-to-end development of reports/dashboards/tools used by your direct stakeholders and a diverse set of teams across the company","Proactively perform data exploration and analytical deep dives to discover insights or future testing opportunities","Be a bridge between the business and tech, scaling access to insights that can empower better decision-making","Maintain and rethink existing data solutions to service a wider variety of use cases","Balance handling ad hoc requests while also driving larger projects forward"]},{"title":"Who You Are:","content":["You are an engineering-minded analyst with a strong bias towards action, delivering results quickly with iteration instead of waiting for perfection","You are comfortable taking vague requirements and crystallizing them into valuable tools, metrics, or analysis.","You have strong technical skills in manipulating large data sets with complex SQL and Python (or similar languages), big data technologies (e.g., Hadoop, Spark) and visualization tools (e.g., Tableau)","You are a self-starter that can work effectively in a fast-paced, ambiguous environment with changing priorities and minimally defined processes.","You are experienced in managing stakeholder asks, expectations, and relationships across a variety of stakeholders","Experience in Games industry a plus"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/cd8b1b06-ec57-43a5-bfd2-7c3ad6165bda"
+            }
