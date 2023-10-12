@@ -1,0 +1,51 @@
+            {
+                "id": 476,
+                "companyId": 6,
+                "title": "UI Engineer 5 - Media Infrastructure Platform Insights and Experiences",
+                "location": ["Los Gatos, California"],
+                "type": ["Full-time"],
+                "attendance": ["Hybrid"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["UI Engineer","Media Infrastructure","Platform Insights","Experiences","Frontend Engineer","UX Skills","Developer Experience"],
+                "skills": ["frontend engineer","UX skills","designer","developer experience","information architecture","user needs","user interfaces"],
+                "overview": "The UI Engineer 5 - Media Infrastructure Platform Insights and Experiences role involves building and growing innovative solutions in the media processing space, optimizing existing interfaces, and creating highly usable user interfaces to address user needs.",
+                "description": "Role Description: 
+
+Background on the Team
+The Cosmos platform is Netflix’s media processing platform. We enable innovation from experiment to productization in the media processing domain and provide an industry-leading path for quantifiably reliable, efficient, scalable, easy to use, easy to operate media processing solutions. Our platforms act as an enabler for media processing teams. Our team’s platform is critical to Netflix— every video in the Netflix catalog has been processed by Cosmos or one of its predecessors. 
+
+The Cosmos Platform Team is composed of three pods of engineers:  Compute, Workflow and Insights & Experiences. Each pod has a discrete charter that supports the platform’s overall mission and has a high degree of autonomy while collaborating tightly with the other pods. The Insights and Experiences Pod within the Cosmos Platform team is responsible for cross-cutting experiences and user interfaces for the platform. The team owns a number of key services and experiences, including the following:
+
+--Nirvana, a bespoke observability solution for Cosmos with a user interface that is tailored to the unique needs of Cosmos as a high scale media processing platform
+
+--Various backend observability components that collect data about media processing workloads to surface insights in Nirvana
+
+--Business insights and cost analysis dashboards and the data pipelines that power them
+
+--The continuous delivery experience for our users, including the testing framework for Cosmos services that coordinates and orchestrates the end to end tests for service owners.
+
+The Insights and Experiences pod also leads the engineering-driven product management effort for the platform. This gives the engineers on the pod a holistic view of the platform and its users needs and uniquely positions them to influence the direction of the platform as whole.
+
+The Media Infrastructure Platform team  is part of a media-focused engineering group  which provides highly available infrastructure for content production and processing, storage and access, across all Netflix productions and licensed content. Infrastructure pieces like massive scale media processing platforms (1, 2), workflows (Conductor), media asset management, collaboration, reporting, data movement , and data processing are some of the key services we build. All of this is custom built on top of Amazon Web Services (AWS) infrastructure.
+
+About the role
+As an engineer on the MIP Cosmos Insights and Experience pod,  you will help us build and grow innovative solutions in the media processing space. You’ll work on improving the developer experience of the platform. You’ll optimize the information architecture of our existing interfaces. You’ll weave together strong design sensibilities with technical knowhow. And above all, you’ll uncover user needs and build simple and highly usable user interfaces to address these needs. 
+
+About You
+You are a strong frontend engineer with strong UX skills, and might have even been considered a designer in a previous role.
+
+You are self-motivated and can work independently, while also being able to partner closely with other engineers on a project. You are passionate about building quality products and want to own development end-to-end, leading with the right architecture, and following sound engineering principles to deliver maintainable, performant and highly usable experience. You are a problem solver and like to challenge yourself, but you are not afraid to reach out when you need help, and enjoy helping other engineers.
+
+You combine UX Design engineering  expertise and product intuition into a single discipline, and are able to develop, prototype, test and implement innovative UI solutions that push the envelope on front-end engineering. You’ll weave together strong design sensibilities with technical knowhow. In other companies this role might be described as a UX Engineer.
+
+
+",
+                "extras": [],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/3f75a9bb-5d4f-4f1d-8cbc-4c36a198bd7b"
+            }
