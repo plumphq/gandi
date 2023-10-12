@@ -1,0 +1,27 @@
+            {
+                "id": 299,
+                "companyId": 6,
+                "title": "Finance Systems Lead, Workday Finance Applications L4",
+                "location": ["Los Gatos, California"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": 4,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Workday Financials","Configuration","Custom Reports","Project Management","Accounting","Integrations","Finance Business Processes"],
+                "skills": [""],
+                "overview": "",
+                "description": "Netflix is the world's leading streaming entertainment service, with 238 million paid memberships in over 190 countries, enjoying TV series, documentaries, and feature films across a wide variety of genres and languages. Members can watch as much as they want, anytime, anywhere, on any internet-connected screen. Members can play, pause, and resume watching, all without commercials or commitments.
+
+The Netflix Finance technology team manages and delivers solutions for the constantly evolving needs of our Finance organization. Our team seeks an outgoing, curious Finance Functional Lead to work in a rapid development environment with multiple internal customers throughout the business. 
+
+Visit our culture memo and long-term view to learn more about the unique Netflix culture and the opportunity to be part of our team.
+
+",
+                "extras": [{"title":"About The Role","content":["Work with Finance and cross-functional teams to understand business requirements and drive them to successful completion","Work with technical teams to design and develop solutions and deliver these, covering all facets of testing","Configure Workday based on business requirements and design and build custom reports for finance users as required","Plan, prioritize, and manage projects/enhancements on the roadmap ensuring successful end-user experience","Leverage business knowledge and expertise to identify opportunities for process improvements"]},{"title":"About You","content":["Strong knowledge of Workday Financials around Financial Accounting, Customer Accounts, Revenue, Integrations, and Security","4+ years of hands-on Workday Financials experience as a systems analyst supporting configuration, design, and integrations","Solid understanding of accounting around Billings and Revenue Recognition","Strong understanding of finance business processes and their interdependencies, including the month-end close cycle","Strong project management skills to take ownership of projects and drive them from inception to completion","Fast learner, detail-oriented, decisive, and enjoy fast-paced work environments.","Organized and accustomed to multitasking, prioritizing, and meeting multiple tight deadlines","Customer service oriented with a demonstrated desire to exceed expectations, serve multiple customers, and deliver an excellent experience","Bachelor's or Master's degree in Finance, Accounting (or a related field), or equivalent experience"]},{"title":"A few logistical details…","content":["This position is located in Los Gatos, CA. Some travel is required","We are hybrid- in person three days a week","We provide relocation benefits","We provide visa assistance when possible"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/b08a4bea-cc1f-4f6d-9e1d-503656d42452"
+            }
