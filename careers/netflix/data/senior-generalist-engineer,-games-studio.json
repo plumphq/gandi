@@ -1,0 +1,26 @@
+            {
+                "id": 390,
+                "companyId": 6,
+                "title": "Senior Generalist Engineer, Games Studio",
+                "location": ["Los Angeles, California"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": 5,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Java","Project Management","Agile Methodology","Jira","Conflict Resolution","Budget Management","Team Leadership"],
+                "skills": ["C#",".NET","Unity","AWS","Jenkins","CI/CD","ASP.NET"],
+                "overview": "The Senior Generalist Engineer, Games Studio position at Netflix involves working with a cross-disciplinary team to rapidly prototype and iterate towards a new game vision, integrating platform technologies and building lower-level systems and content creation tools.",
+                "description": "Netflix is building a new internal game studio to incubate and build a new class of hilarious, social party video games. 
+
+The Senior Generalist Engineer will work with a new cross-discipline core team to rapidly prototype and iterate towards a new game vision, building confidence on a great game prototype to eventually bring to full production and be available to Netflix members. A successful candidate will be able to establish workflows for other developers, integrate multiple platform technologies from external teams into our game project, build lower-level systems and content creation tools to support higher-level feature systems and help deploy and maintain our builds for both client and server.
+
+You’ll be joining a small, scrappy team with big ambitions, and an obsession to create memorable game moments that leave players telling their own stories for years to come. We’re looking for new teammates who care deeply about the experiences they create and the people they make them with. Those who bias towards action and are energized by the learning that comes with bold experimentation at an agile pace. As a part of Netflix, we strive to hire the best and value integrity, excellence, respect, inclusion, and collaboration. Now is an amazing time to join Netflix Game Studio as we seek to entertain our 200 million paid members in a really new way.
+",
+                "extras": [{"title":"Responsibilities","content":["Infrastructure Pipelines: Support CI/CD for code and data changes for both client and server. Set build pipelines with external teams supporting Automation and Cloud.","Platform Tech Integration: Research Netflix's own platform technologies and write code for integrating those into our game project. Come up with best practices for using them and guide other engineers with any edge cases or limitations. Be a representative when communicating with the Platform team.","Dev Tools: Develop and maintain GUI, CLI, and web tools that will enable content creation for internal and external developers, and enable automated deployment of that content across client and server."]},{"title":"Requirements","content":["5+ years experience as an engineer shipping multiple games","Extensive knowledge with C# and .NET tech, make build vs buy decisions","Familiarity with Unity or other game engines","Familiarity with AWS or other cloud technologies","Exceptional communication and cross-discipline collaboration skills","Passion for making video games, especially in a rapid, focused, smaller form vs multi-year investments"]},{"title":"Bonus Skills","content":["Experience building tools for content creators","Familiarity with CI/CD systems like Jenkins","Familiarity with ASP.NET"]},{"title":"Location","content":["Los Angeles Preferred/Remote"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/ddaed1e6-e5ed-4f2c-b2c5-3c4c9930f77f"
+            }
