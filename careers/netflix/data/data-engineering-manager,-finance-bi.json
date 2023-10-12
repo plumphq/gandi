@@ -1,0 +1,27 @@
+            {
+                "id": 222,
+                "companyId": 6,
+                "title": "Data Engineering Manager, Finance BI",
+                "location": ["Los Gatos, California"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Data Engineering","Manager","Finance BI","Technical Vision","Roadmap","Data Ecosystem","Cross-functional Teams"],
+                "skills": ["data engineering","finance","BI","data ecosystem","data engineers","analytics engineers","data analysts"],
+                "overview": "The Data Engineering Manager, Finance BI position at Netflix involves creating and leading a diverse team of data engineers, analytics engineers, and data analysts to scale business intelligence for Netflix's financial ecosystem and overcome technical challenges related to the volume and complexity of productions, while ensuring the accuracy and timeliness of financial data.",
+                "description": "Netflix is the world's leading internet entertainment service with over 230 million members in over 190 countries enjoying TV series, documentaries and feature films across a wide variety of genres and languages. Members can watch as much as they want, anytime, anywhere, on any internet-connected screen. Members can play, pause and resume watching, all without commercials or commitments.
+
+Our team builds critical infrastructure to help Netflix optimize our large content investment that enables us to produce world-class, award-winning, high-quality, and diverse content. The goal of our team is to provide operational excellence, systems infrastructure, and business intelligence to our business functions such as Finance, Talent, Revenue throughout the content production life cycle.
+
+We're looking for a data engineering manager who can create a strong vision and viable roadmap as well as build and lead a diverse team of world-class data engineers, analytics engineers and data analysts. In this role you will partner with data science, software engineers and business leaders to scale business intelligence for Netflix’s entire financial ecosystem. You will help the team overcome technical challenges that come with the ever-increasing volume and complexity of our productions -- all while maintaining the accuracy and timeliness of our financial data.
+
+",
+                "extras": [{"title":"What will you do?","content":["Provide technical vision and strategy for building a data ecosystem that enables Netflix to leverage data around finance within cross-functional teams","Build strong relationships across business, science, analytics, and engineering partners","Balance immediate stakeholder needs vs longer term vision","Lead a dream team of data engineers, analytics engineers and data analysts to execute a shared vision between analytics, engineering and business partners","Grow and mentor this team through thoughtful observation and courageous, honest feedback","Build a secure and robust data ecosystem for the entire Netflix’s financial ecosystem"]},{"title":"About you","content":["You are an experienced data manager with hiring and leading high-caliber, data-focused teams with diverse technical strengths","Mentorship / Guidance: You have a proven track record of managing a large successful team. You know that the most important part of your job is setting the team up for success. Through mentoring, teaching, and reviewing, you help other engineers make sound architectural decisions, improve their code quality, and get out of their comfort zone.","Execution: You care tremendously about execution and feature velocity. You hold yourself personally accountable, jumping in and taking ownership of problems that might not even be in your team's scope.","Hiring know-how. You're a thoughtful interviewer who constantly raises the bar for excellence. You believe that what seems amazing one day becomes the norm the next day, and that each new hire should significantly improve the team.","Are Detail Oriented. You value data accuracy and also understand the nuances of the projects in flight."]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/a65ac387-48a8-4759-8ba6-484ee3519fc2"
+            }
