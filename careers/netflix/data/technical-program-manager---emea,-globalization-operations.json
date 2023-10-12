@@ -1,0 +1,28 @@
+            {
+                "id": 470,
+                "companyId": 6,
+                "title": "Technical Program Manager - EMEA, Globalization Operations",
+                "location": ["Amsterdam, Netherlands"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": 8,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Technical Program Management","Localization","EMEA","Project Management","Business Analysis","Globalization","Operational Strategy"],
+                "skills": ["media localization","software localization","consulting","business program management","localization tools","workflows","technology management"],
+                "overview": "The Technical Program Manager - EMEA, Globalization Operations is responsible for leading and managing localization programs and projects across EMEA, optimizing business workflows, implementing operational strategies, and driving performance improvements in media and software localization.",
+                "description": "The Globalization team is responsible for the translation and cultural adaptation of most things Netflix creates, from beautiful user interfaces to cinematic original programming. We go beyond translation, treating each language we support uniquely to provide an immersive and personalized local experience at scale.
+
+The Globalization Operations team is seeking a highly skilled and experienced Technical Program Manager. In this role, you will lead and manage high-impact and strategic localization programs and projects across EMEA. Collaborating with localization leaders and cross-functional teams, you will analyze and translate business, quality, and technical requirements into an architectural blueprint that delivers maximum business impact. These objectives may be technical, strategic, or financial in nature, involving both internal team initiatives and external stakeholder collaborations. 
+
+Your expertise will be instrumental in shaping the global operational strategy and execution of functional efforts within the EMEA Globalization team. You will ensure the operational infrastructure is in place to deliver exceptional content, marketing, gaming and product localization for the region. Additionally, you will contribute EMEA-specific knowledge and expertise to inform the overall operational strategy of the Globalization team. 
+
+This position is based in Amsterdam. 
+",
+                "extras": [{"title":"Responsibilities:","content":["Review and optimize business workflows, identifying areas for improvement and implementing operational strategies in the product and media globalization spaces.","Develop and implement future localization investment strategies to enhance language quality and coverage across multiple globalization verticals (product, content, marketing, gaming).","Bridge the gap between global functional and operational efforts and EMEA Globalization teams.","Partner with product, analytics and insights teams to drive scaled experimentation, generating insights to inform recommendations and roadmaps.","Establish key performance indicators (KPIs) to measure program success, experimental results and ongoing operational performance.","Share progress on these KPIs across the business and with leadership.","Establish strong relationships with globalization management and team members to facilitate the adoption of new operational models in EMEA.","Define and implement scaled processes tailored to the diverse regional content landscape in EMEA","Stay updated on emerging media and localization technologies, positioning yourself as an expert and critical resource across multiple disciplines"]},{"title":"Role Requirements:","content":["Expertise in media (subtitle/dubbing/gaming) and/or software localization.","8+ years of consulting or large scale, multidisciplinary business program management.","Knowledge of localization and globalization tools, workflows, and technology, as well as other business areas such as product development, finance and technology management.","Proficiency in creative problem-solving, technical solutions and engineering practices; knowledge of continuous improvement or Lean methodology is advantageous.","Ability to think globally and act locally, with deep experience in EMEA.","Experience managing and leveraging large data sets to drive performance improvements and process optimization.","Excellent financial modeling and analysis skills.","Outstanding presentation, communication, and interpersonal skills, including the ability to engage with executive leadership"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/3d649cc1-7843-41d0-b24b-a7848107b84b"
+            }
