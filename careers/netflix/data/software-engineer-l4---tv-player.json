@@ -1,0 +1,30 @@
+            {
+                "id": 414,
+                "companyId": 6,
+                "title": "Software Engineer (L4) - TV Player",
+                "location": ["Los Gatos, California"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": 3,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Software Engineer","TV Player","Streaming Video Player","CE Devices","Playback Features","Streaming Quality","Product Feature Expansion"],
+                "skills": ["Typescript","Node.js","A/B testing","Analyzing data","Streaming media playback","Video Players","CE devices"],
+                "overview": "The Software Engineer (L4) - TV Player position involves enhancing the video player with new features, conducting A/B experiments, analyzing data, and managing player releases to millions of devices worldwide.",
+                "description": "The TV Player team is responsible for streaming video player that brings industry-leading playback experiences to the Netflix app running on CE devices. Our player runs on millions of CE devices comprising Smart TVs, streaming sticks, game consoles, and set-top boxes, delighting our members with innovative playback features and the best streaming quality.
+
+The Team
+The TV Player team sits at the nexus of a diverse set of innovative activities around product feature expansion (recent playback features include Live Streaming, Seamless Ads playback, and Ident innovation),  A/B experimentation of new encodes (ex: AV1) to increase adoption, support for new security features, content discovery and playback control on companion devices, as well as continuous integration and release management of our video player. We partner with various cross-functional teams across Netflix, including UI, Encoding, Streaming Algorithms, Security,  and Open Connect for product development and experimentation.
+
+Our team comprises engineers from diverse backgrounds with various expertise across different disciplines (Embedded systems, Streaming Media Playback, Content Protection,  Client Server Communication, Networking protocols, Continuous Integration, Test Automation, Experimentation, and Software engineering). Our success comes from self-motivated, selfless, curious, and highly collaborative engineers in the team. 
+
+The Role
+We are looking for a software engineer to join our team in enhancing our video player with new features and tackle challenges to improve streaming quality and reach on TV devices. In this role, you will develop new features, conduct A/B experiments, analyze the data, influence decision-making, contribute to CI and test automation, and manage our player releases to millions of devices worldwide. 
+",
+                "extras": [{"title":"What sets you apart?","content":["You are a curious and self-motivated individual, willing to learn and execute","You have a mindset to go deeper to understand the problems and identify the root causes","You seek alternate perspectives to improve your ideas","You can rethink existing designs and rebuild as needed","You use data and seek input from others to inform your decisions","You are selfless, highly collaborative, and willing to help colleagues when in need"]},{"title":"What skills are essential to us?","content":["Have 3+ years of software development experience, with release management of medium to large-scale software deployments","Proficient in Typescript and Node.js","Strong analytical and problem-solving skills","Experience with A/B testing, developing experiments to test hypotheses, and analyzing data to drive improvements in streaming quality","Solid understanding of Streaming media playback or Video Players is nice to have","Proven ability to tailor communication to a given audience","Experience working with CE devices (Smart TVs, Set-top boxes, or Streaming sticks) is a plus"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/38e25742-6602-4fa1-b3e3-ba39dfee1ee9"
+            }
