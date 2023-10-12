@@ -1,0 +1,31 @@
+            {
+                "id": 150,
+                "companyId": 5,
+                "title": "Product Marketing Manager - Music",
+                "location": ["Remote, England, United Kingdom"],
+                "type": ["Full-time"],
+                "attendance": ["Remote"],
+                "experience": 3,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Product Marketing","Music","Technical Skills","Tools","Job Responsibilities","Java","Project Management"],
+                "skills": ["positioning","messaging","market research","product marketing strategy","driving GTMs","product-led growth","in-product messaging"],
+                "overview": "The Product Marketing Manager - Music will support the growth of Eventbrite's Music business through audience segmentation, messaging, and go-to-market planning, while ensuring that products and new releases are positioned effectively and supported with customer-facing assets.",
+                "description": "THE TEAM
+Our Product Marketing team’s mission at Eventbrite is to champion the needs of event creators and consumers to bring irresistible product experiences to market, ensuring customers understand how Eventbrite’s products and features can enable their success. We work cross-functionally to action customer and market insights by influencing product and monetization strategy and developing positioning, messaging, and go-to-market plans for Eventbrite’s suite of products and services. 
+
+THE CHALLENGE
+Eventbrite has built a world-class events marketplace, enabling entrepreneurs worldwide to build and grow their businesses with live events while helping event-goers discover unique, local things to do. 
+We seek an up-and-coming Product Marketing star to support our growth in the Music category. In this role, you will partner cross-functionally to support our Music creator acquisition and retention strategy with product positioning, compelling messaging, and a unique GTM approach that differentiates Eventbrite in the eyes of Independent Music Venues and Promoters.
+
+THE ROLE
+As Music Product Marketing Manager, you will support the growth of our Music business through game-changing strategies across audience segmentation, messaging and positioning, and go-to-market planning for new features, campaigns, and partnerships. You will act as the bridge between our Product and Customer facing functions to ensure that existing products and new releases are positioned in a compelling way and supported with dynamic customer-facing assets. You will work with cross-functional teams to coordinate successful product launches by articulating market requirements, defining and measuring success, executing go-to-market plans, and helping craft messaging that clearly communicates the value of Eventbrite to a Music audience. In partnership with research, analytics, and customer-facing teams, you will develop a deep understanding of our Music customer needs and recommend growth strategies. 
+This role will require you to bring a combination of strategic thinking, analytical rigor, strong communications, and operational excellence. The right candidate will thrive in an entrepreneurial environment and be motivated to hit and exceed our business targets. Your mission (and ours) is unique and powerful: bringing the world together through live experiences.
+",
+                "extras": [{"title":"YOU WILL","content":["Drive GTM activity for new product launches and marketing campaigns targeting Music customers","Work closely with UXR and Market Research to enhance our understanding of our core music customer segments, the key jobs to be done, unmet needs, and the decision-making process for each segment, as well as our competition in these segments","Translate this understanding of customer segments and our competition into clear value props, messaging, and marketing claims that communicate our value to music event organisers","Gather qualitative and quantitative insights by talking regularly to Music customers and working with our research and customer-facing teams to identify growth opportunities for Eventbrite"]},{"title":"THE SKILLSET","content":["3+ years experience, with a background in positioning and messaging for e-commerce and/or marketplaces, preferably in the Independent Music venue and promoter space","Experience with executing product marketing strategy and driving GTMs for new product launches and marketing campaigns","Experience with driving product-led growth, especially in-product messaging and optimizing user journeys for conversion","Experience partnering with market research function to drive understanding of target audience needs and behaviour","Biased towards action with the ability to flex between strategic thinking and building tactical work plans","Energised by collaborative work; attacks big problems with big ideas and without ego","Fantastic communication and presentation skills with the ability to confidently present to senior management and peers","Strong writing skills and demonstrated understanding of messaging strategy","Ability to manage multiple projects at one time, prioritizing and organizing effectively","Thrives on hitting and beating business targets"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/eventbrite/b0c13382-6399-4c95-acff-e556a54c939c"
+            }
