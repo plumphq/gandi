@@ -1,0 +1,24 @@
+            {
+                "id": 478,
+                "companyId": 6,
+                "title": "Workday Systems Analyst",
+                "location": ["Manila, Philippines"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": 2,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Workday Systems Analyst","System Maintenance and Support","User Support","Reporting and Analytics","Process Optimization","Compliance and Security","Documentation and Training","Workday HCM","HR processes and practices","Problem-solving","Analytical skills","Data analysis","Communication skills","Interpersonal skills","HRIS integrations","System upgrades","Service Management systems/tools","Jira"],
+                "skills": ["Workday HCM","HR processes","data analysis","reporting tools","HRIS integrations","system upgrades","Service Management systems/tools (e.g. Jira)"],
+                "overview": "As a Workday Systems Analyst, you will be responsible for maintaining and troubleshooting Workday and other Talent systems, collaborating with stakeholders, and supporting continuous improvements.",
+                "description": "We are seeking a skilled and detail-oriented Workday Systems Analyst to join our dynamic Global Talent Operations Center.  As Workday Systems Analyst, you will play a critical role in ensuring the smooth operation of Workday and other Talent systems. Your responsibilities will include maintaining system functionality, troubleshooting issues, leading annual projects and programs, collaborating with stakeholders, and supporting continuous improvements.
+
+Key Responsibilities:    
+",
+                "extras": [{"title":"System Maintenance and Support:","content":["Monitor and maintain our HRIS (Workday) and other systems (survey tools, 360 feedback, etc.) to ensure optimal performance.","Deliver efficient, accurate, timely system administration services as per agreed KPIs and SLAs","Drive implementation (build, test, deployment) of technical solutions across people platforms according to business requirements and agreed timelines.","Identify and resolve system issues, user errors, and data discrepancies promptly.","Collaborate with Engineering and Talent teams to apply system updates, patches, and enhancements.","Partner with other parts of Talent to manage and execute seasonal processes and programs (annual compensation processes, 360 reviews, etc.)."]},{"title":"User Support:","content":["Provide ongoing support to Talent users and employees, addressing their inquiries and resolving system-related issues.","Conduct user training sessions and create user documentation to enhance system adoption."]},{"title":"Reporting and Analytics:","content":["Support customer data and reporting requests via our suite of reporting tools in Workday, Tableau, and custom-built reporting tools.","Develop and generate reports and analytics within Workday to support Talent and business decisions.","Collaborate with Talent and business stakeholders to fulfill operational data needs."]},{"title":"Process Optimization:","content":["Identify opportunities for process improvement and automation.","Collaborate with Talent and Engineering teams to streamline processes and enhance efficiency."]},{"title":"Compliance and Security:","content":["Ensure compliance with data privacy and security regulations (e.g., GDPR, HIPAA).","Implement and maintain security protocols to safeguard sensitive HR data."]},{"title":"Documentation and Training:","content":["Create and update system documentation, including standard operating procedures and guidelines.","Provide training and support to HR staff and end users on system functionality."]},{"title":"Qualifications:","content":["At least 2+ years working with Workday HCM as an analyst or administrator.","Strong understanding of HR processes and practices.","Excellent problem-solving and analytical skills.","Proficiency in data analysis and reporting tools.","Strong communication and interpersonal skills.","Ability to work independently and collaboratively in a fast-paced environment.","Experience with HRIS integrations and system upgrades is a plus","Experience in the use of Service Management systems/tools (e.g. Jira) is a plus","Amenable to working in shifts and on holidays"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/93183450-fd14-4606-a0fa-1ae6dbf5b31d"
+            }
