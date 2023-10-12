@@ -1,0 +1,35 @@
+            {
+                "id": 389,
+                "companyId": 6,
+                "title": "Senior Gameplay Engineer, Games Studio",
+                "location": ["Los Angeles, California"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": 5,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Gameplay Engineer","Games Studio","Java","Project Management","Agile Methodology","Jira","Conflict Resolution"],
+                "skills": ["C#","Game development engines","Unity","Unreal Engine"],
+                "overview": "The Senior Gameplay Engineer, Games Studio position involves collaborating with the design team to translate gameplay objectives into technical solutions, implementing core gameplay mechanics, optimizing existing systems, mentoring junior engineers, identifying technical challenges and proposing solutions, resolving gameplay-related issues, and staying updated with industry trends and emerging technologies. The ideal candidate should have excellent problem-solving skills, be skilled at writing elegant and optimized code, and have at least 5 years of professional experience in gameplay development, proficiency with game development engines (e.g., Unity, Unreal Engine), and a significant experience using C#.",
+                "description": "ABOUT OUR TEAM
+We’re a group of developers, artists, and storytellers that make games full of wonder, danger, and humor. Everyone at our studio, whether an industry vet or new voice impacts each game through collaborative feedback, mutual respect, and creative empowerment. If you want to make games that leave a meaningful impact on players: we want to hear from you.
+
+We’re looking for new teammates who deeply care about the work they do, the stories they tell, and the people they create with. As part of the Netflix team, we strive to hire the best and value integrity, excellence, respect, inclusion, and collaboration.
+
+Learn how our story-loving game people came to join Netflix’s team of game-loving story people.
+
+
+ENGINEERING AT NIGHT SCHOOL
+Software development is just as creative as other roles at Night School. Our engineering team highly values cross-disciplinary thinking. Creating great gameplay experiences requires engineers to not only imagine elegant, extensible, and optimized systems, but also to appreciate, communicate, and integrate with art, design, and narrative. Here, you’ll flex your ingenuity and skill in multiple areas as needs arise, whether directly in our games, as part of a development support system, or as part of our in-house storytelling toolset, NightTools.
+
+ABOUT THE ROLE
+We’re looking for a talented, driven, and passionate gameplay engineer to help us build the best experiences possible for our existing and upcoming games. As a Senior Gameplay Engineer, you will play a pivotal role in the design and development of gameplay mechanics that will define the player experience in our upcoming titles. We’re seeking an experienced and highly motivated individual with a strong background in gameplay development, a keen eye for detail, and a passion for creating compelling and memorable gameplay experiences.
+
+",
+                "extras": [{"title":"Responsibilities:","content":["Collaborate closely with the design team to understand gameplay objectives and translate them into technical solutions.","Partner with design and implement core gameplay mechanics, systems, and features.","Optimize and maintain existing gameplay systems to ensure a fluid and engaging player experience.","Mentor and provide guidance to junior engineers, sharing your expertise in gameplay development.","Identify technical challenges and propose innovative solutions to overcome them.","Debug and resolve gameplay-related issues, ensuring high-quality and bug-free gameplay experiences.","Stay up-to-date with industry trends and emerging technologies to continually enhance our gameplay capabilities."]},{"title":"About you:","content":["Driven to maintain the highest-quality experiences for players.","Excellent problem-solving skills and the ability to work independently as well as in a team.","Skilled at writing code that is elegant, extensible, and optimized.","Proficient at giving and receiving quality feedback.","Self-starter willing to seek out solutions and ask questions when necessary.","Mindful of the needs of a team as individuals and as a whole."]},{"title":"Skills & Requirements:","content":["Bachelor's degree in Computer Science, Software Engineering, or related field (or equivalent work experience).","5+ years of professional experience in gameplay development.","Proficiency with game development engines (e.g., Unity, Unreal Engine).","Two or more published games for mobile, consoles and/or PC.","Significant experience using C#."]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/1ef07f62-5abc-497a-995f-fd8a2feed9fa"
+            }
