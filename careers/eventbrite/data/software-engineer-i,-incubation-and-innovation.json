@@ -1,0 +1,26 @@
+            {
+                "id": 165,
+                "companyId": 5,
+                "title": "Software Engineer I, Incubation and Innovation",
+                "location": ["Remote, United States"],
+                "type": ["Full-time"],
+                "attendance": ["Remote"],
+                "experience": 1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Software Engineer","Incubation","Innovation","AI-powered tools","Prototype","Experiment","Iterate","Automation","Cross functional teams","AI and ML tools","Transparency","Communication skills","Agile engineering teams","Rapid prototyping","Full-stack","Mobile experience","Technical discussions","Collaborative","Remote-first environment","Dynamic team","Production","Early stage startup","Open source contributions","GenAI","GPT-4","Llama2","DALL·E","Stable Diffusion","Multimodal AI"],
+                "skills": ["AI/ML technology","rapid prototyping","Full-stack","mobile experience","Data/ML/AI","technical discussions","remote-first environment"],
+                "overview": "As a Software Engineer I, you'll ideate, prototype, experiment and iterate on new ideas that drive innovation for Eventbrite's global platform, working with the new incubation and innovation team to explore AI and ML technologies, prototype new products and features, and partner with other teams to take them to market at scale.",
+                "description": "THE CHALLENGE
+Eventbrite's business continues to grow and scale rapidly, powering millions of live events across the world. As we partner with event creators to bring the best and most unique experiences for our event attendees, we are investing heavily in building innovative AI-powered tools and interfaces. We are looking for creative problem solvers who enjoy tinkering with new tools and technology. As a Software Engineer I, you will ideate, prototype, experiment and iterate on new ideas that drive innovation for this global platform. 
+
+THE TEAM
+Eventbrite powers millions of live events for hundreds of millions of attendees each year across over 170 countries. The new incubation and innovation team will explore AI and ML technologies, prototype new products and features, rapidly experiment to validate them at scale, and partner closely with peer Dev teams to methodically take them to market. 
+",
+                "extras": [{"title":"THE ROLE","content":["Rapidly prototype and release new ideas, run experiments and iterate","Partner across the company to develop ideas into MVPs that have a path to viability","Build automation to improve internal operational efficiency","Partner with cross functional teams and stakeholders on graduating prototypes to full production","Evaluate and POC the vast ecosystem of AI and ML tools to opportunistically integrate into Eventbrite’s tech stack","Propagate the culture of transparency, take ownership and drive impact."]},{"title":"THE SKILLSET","content":["Outstanding interpersonal and communication skills, and ability to communicate with technical and non-technical audience","1+ years experience in cross-functional, agile engineering teams","A solid technical background with a passion for AI/ML technology, and rapid prototypingEfficient, practical programmer with a record of producing maintainable code","Full-stack and/or mobile experience is preferred. Data/ML/AI is a plus","Comfortable participating in technical discussions, asking informative questions, and assisting the team in making technical trade-offs","Experience working within a highly collaborative, remote-first environment","Thrives in a dynamic team that runs many experiments and ships code to production often","Experience building or innovating as part of an early stage startup and/or open source contributions are a plus","Project/work experience with GenAI (GPT-4, Llama2, or other LLMs, and/or DALL·E, Stable Diffusion, or other multimodal AI) is a plus"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/eventbrite/31b61588-af57-4ff3-96aa-6bc1fad9d3e2"
+            }
