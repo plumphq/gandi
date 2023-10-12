@@ -1,0 +1,40 @@
+            {
+                "id": 285,
+                "companyId": 6,
+                "title": "Engineering Manager - Artifact, Build, and Source team",
+                "location": ["Los Gatos, California"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Engineering Manager","Artifact Build","Source team","Netflix","software development lifecycle","Developer Platform","tooling","infrastructure","best practices","source code","build","test","publication phases","Source Code Management","code storage","distribution","code search","code review","Build Infrastructure","Continuous Integration","build metadata","diagnostics APIs","distributed build caches","Artifact publication","distribution","productivity","user experience","continuous integration","partnerships","product evolution","product lifecycle","adoption","migration experience","Engineering Manager","developer tooling","Platform team","high-performing teams","individual contributors","cross-functional partnerships","Product Management","Technical Program Management","deep technical knowledge","customer-focused mindset","customer use cases","technology solutions","end-to-end experience","portfolio management","qualitative methods","quantitative methods","product intuition","judgment","excellent communication skills"],
+                "skills": ["Java","JavaScript","Python","Continuous Integration","Java","JavaScript","Python"],
+                "overview": "The Engineering Manager - Artifact, Build, and Source team position at Netflix involves defining strategies for improving source code management and continuous integration offerings, leading through change, and driving a product vision by leveraging cross-functional partnerships.",
+                "description": "Los Gatos, CA
+
+It’s an amazing time to be joining Netflix as we continue to transform entertainment. We deliver billions of hours of movies and TV shows per month to more than 230 million members in over 190 countries. At Netflix, we aspire to entertain the world.
+
+At Netflix, we empower developers to take ownership and handle their creations throughout the entire software development lifecycle. We scale this approach through substantial investments in developer tooling, streamlining, and automating DevOps to minimize repetitive tasks.
+
+Within the Developer Platform organization, the Artifact, Build, and Source team’s mission is to provide Netflix Engineers with the tooling, infrastructure, and best practices required to efficiently and securely take source code through the build, test, and publication phases of the software development lifecycle. 
+The Opportunity
+The Artifact, Build, and Source team was recently formed through a combination of two closely related but previously separate teams. You’ll complete their integration by defining a new team charter and mapping out strategies to address the following three domains:
+
+Source Code Management
+Provide approachable and productive solutions for source code storage and distribution, source code search, and code review for thousands of Netflix Engineers around the world.
+
+Build Infrastructure
+Provide language-agnostic build infrastructure such as Continuous Integration, build metadata and diagnostics APIs, distributed build caches, and more. 
+
+Artifact publication and distribution
+Continue to refine, secure, and expand our ability to publish, store, and distribute built artifacts to Netflix Engineers and services located around the world.
+
+",
+                "extras": [{"title":"What You Will Do","content":["Define strategies for improving the productivity and user experience of our source code management and continuous integration offerings.","Define how we measure the success and effectiveness of our products and drive the execution and continuous evaluation of those metrics.","Create strong partnerships with Netflix engineers by creating continuous feedback loops that allow us to understand their problems better and address them in a highly leveraged manner.","Ensure that our product evolution thoughtfully addresses product lifecycle and adoption/migration experience and provides clear guidance and recommendations to your teams."]},{"title":"What We’re Looking For","content":["Experience as an Engineering Manager of a developer tooling or Platform team","Success in developing high-performing teams and growing individual contributors","Ability to lead through change as the business evolves to take on new challenges","Proven track record of driving a product vision and strategy while leveraging strong cross-functional partnerships with Product Management, Technical Program Management, and our close partners.","A healthy blend of deep technical knowledge with a customer-focused mindset and empathy","Demonstrated passion for developer platforms, developer experience, tools, workflows, and infrastructure","Success in leading large-scale migrations to completion","Deep experience with Java, JavaScript, or Python or experience that spans multiple languages","Strategic thinker that can connect customer use cases to technology solutions and think holistically about end-to-end experience","Ability to manage a portfolio of bigger and smaller bets while balancing short-term goals and long-term vision","Comfortable applying a combination of qualitative and quantitative methods to define success","Leverage product intuition and judgment to solve problems and make decisions without perfect information","Excellent written and verbal communication skills; timely communication with clear expectations"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/52ebc67a-d736-49f5-aa3b-911d532f61f9"
+            }
