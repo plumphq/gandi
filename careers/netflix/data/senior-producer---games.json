@@ -1,0 +1,27 @@
+            {
+                "id": 399,
+                "companyId": 6,
+                "title": "Senior Producer - Games",
+                "location": ["Helsinki, Finland"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": 3,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": [""],
+                "skills": ["Agile methodologies","Jira","Confluence","Game production","Team management","Leadership experience","Mobile games industry"],
+                "overview": "The Senior Producer - Games is responsible for driving the project, managing the team's agile production methods, and ensuring the project's timeline and scope, while also coaching the team and enabling their growth and adopting efficient practices.",
+                "description": "Next Games is a Netflix Game Studio, focusing on creating compelling players-first experiences from engaging IP crossovers to interesting game mechanics - An unwavering focus on our players and fun gameplay is at the core of the studio’s game development, free from the constraints of free-to-play. 
+
+As a Senior Producer, you are the driving force behind getting the project done. You will work together with the Game Lead to make the product backlog understandable to all stakeholders. You own the team's agile production methods and practices, as well as your project’s timeline and scope. You have natural people skills and don’t hesitate to manage conflicts within your team and handle personal dynamics. You will coach your team and enable growth of your team’s skills and encourage them to adopt efficient practices. You understand the importance of velocity and the value it brings to the team.
+
+This is what you’ll get to work on:
+
+",
+                "extras": [{"title":"With Game Lead","content":["Finding effective ways to refine and prioritise the product backlog","Articulate and communicate product backlog to the team","Building the best possible team on earth to execute on the game vision","Define, update, and enforce Definition of Done and Definition of Ready for team deliverables"]},{"title":"With game team","content":["Coach the team to be self-organised and cross-functional, clarify roles within the team","Facilitate agile events (Daily, Review, Retro and Planning)","Take out impediments within the team and on organizational level","Coach team to agile methods and make sure everybody understands why they are being used","Mediate conflicts and nurture team dynamics, hold 1 on 1s with team members"]},{"title":"On organizational level","content":["Own your project’s production plan, staffing plan and budget","Collaborate with other producers to spread learnings and duplicate successes","Help other employees and stakeholders to fully grasp agile methods"]},{"title":"Your experience and skills include:","content":["Proven track record of producing and shipping multiple games with modern Agile methodologies","Strong supervisor and leadership experience","Strong experience in managing team dynamics within a game team","Ability to set up and configure team’s production tools and information radiators","Deep knowledge of Atlassian Jira and Confluence","Passion for games and understanding of the mobile games industry","Ability to adjust to the given production framework and tools","Disciplined and self-motivated with a strong work ethic","Experience in working with senior levels of management","Excellent written and verbal communication skills in English"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/96142c17-fd89-4cf4-8366-270ffaff5513"
+            }
