@@ -1,0 +1,34 @@
+            {
+                "id": 426,
+                "companyId": 6,
+                "title": "Software Engineer (L5) - Streaming Algorithms",
+                "location": ["Los Gatos, California"],
+                "type": [],
+                "attendance": ["Onsite"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": [""],
+                "skills": ["Java","Python","C++","Scala","Algorithms","Data analysis","Streaming protocols"],
+                "overview": "This position is for a senior software engineer (L5) responsible for improving the streaming quality of experience (QoE) on various devices and developing tools for streaming algorithms at Netflix.",
+                "description": "Interested in working with the team that influences ⅓ of the Internet traffic, shapes the playback experience at Netflix, and brings studio-quality audio to Stranger Things? Read on to learn more!
+
+Who We Are
+We obsess over great playback experiences. We want playback to start immediately, at great quality, and we never want playback to stop unexpectedly. 
+
+To provide the best possible streaming experience, we design algorithms that adapt audio and video qualities to ever-changing network conditions, encoding profiles, UI features, and device capabilities. Our team comes from diverse backgrounds, has an equal gender ratio, and has a wide range of expertise in computer networking, video streaming, data analysis, embedded systems, and software engineering. 
+
+Beyond the subscription-based video-on-demand service, we help Netflix expand into Live Streaming and Advertisements. We work highly cross-functionally and jointly develop our algorithms with Netflix CDN, Encoding Technologies, Data Science & Engineering, Consumer Insights, and UI Engineering. 
+
+Who You Are
+We are looking for a senior engineer to help us further improve the streaming quality of experience (QoE) on browsers, game consoles, Smart TVs, mobile and other devices. In this role, you would be responsible for improving Netflix’s Live streaming experience and developing tools that help innovate streaming algorithms for millions of devices. You will also help evolve system architecture and conduct controlled experiments in the field to validate improvements.
+
+It’s an exciting time to join this team! The business is expanding, the science is new, and we’re making big progress at a rapid pace.
+",
+                "extras": [{"title":"More about you:","content":["Comfortable developing software on multiple platforms","Comfortable with algorithm-focused software development","Proven ability to design tools to improve software performance","Proven ability to communicate complex technical issues cross-functionally","Bias to action and take strategic approaches to solve technical problems"]},{"title":"Nice to have skills:","content":["Experience in statistics and data analysis","Experience with audio or video","Knowledge of streaming protocols","Knowledge of data engineering","Knowledge of encoding technology","Experience with shipping software on behalf of a major brand at scale"]},{"title":"What you will do:","content":["Improve Netflix Live playback experience through adaptive streaming designs","Design tools and systems to facilitate adaptive streaming algorithm designs and improve the playback experience","Design metrics that capture the viewer’s experience as well as the system performance","Run controlled experiments on millions of streaming sessions to validate improvements","Work cross-functionally with Netflix CDN, Encoding Technologies, Data Science & Engineering, Consumer Insights, and UI Engineering"]},{"title":"To learn more","content":["Read about the Netflix culture which values freedom and responsibility, enabling us to do our best work","Watch the video to learn how Netflix streaming works and how we design adaptive streaming algorithms","Watch the video to learn how we improve the experimentation methodology with Bayesian Optimization","Read the tech blog to learn how we launch the high-quality audio experience at Netflix","Read this paper to learn how we make Netflix traffic friendlier on the Internet while improving the quality of experience"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/a634ff09-5797-4866-8c5d-be3a6e1a09bb"
+            }
