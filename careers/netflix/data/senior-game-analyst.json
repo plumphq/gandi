@@ -1,0 +1,27 @@
+            {
+                "id": 401,
+                "companyId": 6,
+                "title": "Senior Game Analyst",
+                "location": ["Helsinki, Finland"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": [""],
+                "skills": [""],
+                "overview": "The Senior Game Analyst position at Next Games in Helsinki, Finland involves analyzing mobile games, providing actionable insights to game teams and stakeholders, mentoring other analysts, and collaborating with the Netflix Games Data Science & Engineering team for predictive modeling and statistical analysis. The role also includes tasks such as designing and implementing KPIs, analyzing in-game economy, building dashboards, maintaining game data pipelines, and contributing to feature planning. Practical quantitative and statistical analysis experience, A/B testing knowledge, proficiency in SQL and Python/R, and strong communication skills are required.",
+                "description": "Next Games is a Netflix Game Studio, focusing on creating compelling fans-first interactive experiences by combining the stories of well-known movies and shows with engaging game mechanics. An unwavering focus on fans and fun gameplay is at the core of the studio’s game development, free from the constraints of free-to-play. 
+
+As a Senior Games Analyst you will be an integral part of our very international Business Intelligence team working in Helsinki, Finland. We are looking for someone with both experience with and passion for analyzing mobile games, and a knack for unearthing actionable insights for game teams and related stakeholders. 
+
+In this role you are both expected to take on analytics ownership for one of our game titles, as well as act as a mentor to other analysts in the BI team. In addition, you will play an important role in supporting our stakeholders with the design and implementation of larger model applications such as churn/retention prediction. We also partner closely with the Netflix Games Data Science & Engineering team through mutual initiatives across the games portfolio around building predictive models, conducting statistical analysis and deriving business insights.
+
+",
+                "extras": [{"title":"As a Senior Games Analyst, your responsibilities will include:","content":["Working as a dedicated analyst for one of our game titles, carrying out various tasks to help the team meet their data-related needs, such as:","Help design and implement actionable KPIs in the subscription-based business model, and provide actionable analysis based on these","Provide analysis on the in-game economy (inflation rate, bottlenecks, churn rate, etc.) in collaboration with the development and production teams","Design and build actionable dashboards for monitoring and reporting, and educate and assist other end users in doing the same to increase self-serve capabilities","Designing, building and maintaining our game data pipelines in collaboration with our data engineers to meet specific reporting and analytics needs","Taking an active role in feature planning and mapping out the future of the respective game title in collaboration with the game team","Having a proactive approach to analytics - actively communicating findings and methodologies to the game team and other stakeholders, and proposing new ideas for tools, processes and practices","Acting as a mentor for more junior team members to aid with their career development and help level up the BI team","Devising methodologies around testing and validation (including A/B testing) for new and existing games","Other broader research initiatives as they come up"]},{"title":"Requirements:","content":["Extensive practical quantitative and statistical analysis experience, including advanced statistical methodologies","Practical experience with designing and running A/B tests","Practical experience in a general data analysis language such as SQL, Python/R","Experience with data modeling, schema design, and designing and building robust data pipelines","Experience with BI tools such as Looker, Tableau or Periscope","Excellent communication skills, and the ability to turn mathematical analyses into clear action","As a senior, you are naturally able to own and prioritize your work, manage deadlines, and help others do the same"]},{"title":"Appreciated, but not hard requirements:","content":["A degree (BS/MS/PhD) in a quantitative field (econometrics, mathematics, physics, statistics, engineering, economics, etc) helps us assess your skills. But, if you have the skills without a degree in a relevant area, we’d still love to hear from you.","Prior experience with similar work in the gaming industry","Prior experience specifically with using Tableau as a primary BI tool","Prior experience with mentoring other team members or leading small teams","Prior experience with designing and implementing Machine Learning models and experiments"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/466d3a3d-296f-4f0d-8e9d-ce4298bc0b2f"
+            }
