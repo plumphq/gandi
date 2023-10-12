@@ -1,0 +1,27 @@
+            {
+                "id": 188,
+                "companyId": 6,
+                "title": "Analytics Engineer (L5) - Messaging",
+                "location": ["Los Gatos, California"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": 0,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Analytics Engineer","Messaging","Data Analytics","Storytelling with Data","Cross-Functional Collaboration","A/B Testing","SQL"],
+                "skills": ["SQL","ETL","Data Warehousing","A/B Testing","Python","JavaScript","Scala"],
+                "overview": "The Analytics Engineer (L5) - Messaging position at Netflix involves supporting the transformation of the messaging program, driving acquisition and engagement through measurement frameworks and data analytics, and collaborating cross-functionally to improve the Netflix messaging program.",
+                "description": "Netflix is one of the world's leading streaming entertainment services with 238 million paid memberships in over 190 countries enjoying TV series, documentaries, feature films and mobile games across a wide variety of genres and languages. Members can play, pause and resume watching as they want, anytime, anywhere, and can change their plans at any time. 
+
+Our multi-channel messaging experiences are the primary way we speak to consumers, delivering essential updates and building excitement for our product. The Messaging team at Netflix creates & delivers messaging experiences across the customer lifecycle to drive acquisition, retention & member engagement. 
+
+We are looking for a Senior Analytics Engineer to support the transformation of our messaging program to a platform that can serve the many needs of our diversifying product offering. This high-impact role will work closely with a broad set of cross-functional stakeholders to define and drive the messaging analytics strategies, being at the forefront of advancing measurement frameworks, insights, and analytics products. The ideal candidate will excel in data analytics, storytelling with data, and cross-functional collaboration and share a passion for continuously improving how we use data to improve the Netflix messaging program.
+
+",
+                "extras": [{"title":"In this role, you will:","content":["Be a strong thought partner that influences strategic decision-making through data-driven insights and recommendations.","Design metrics, scope, and conduct in-depth analysis, generate actionable insights and product recommendations.","Support end-to-end development of analytics products used by both direct stakeholders and a diverse teams across the company.","Execute A/B tests to innovate on the Messaging experiences in close collaboration with engineers, product designers, consumer researchers, and product managers.","Understand where various opportunities fit into the broader strategies and prioritize competing demands to ensure the most impactful items.","Identify opportunities and create solutions to transform suites of metrics, ad hoc queries, and analyses into powerful decision-support tools."]},{"title":"You are:","content":["Passionate about using data to help guide strategic decision-making, bringing together data solutions and business impact while managing cross-functional projects autonomously.","Highly skilled in SQL, familiar with distributed data stores (S3, Presto, Hive, Spark), and experienced in ETL and data warehousing concepts.","Experienced at building compelling, narrative data visualizations with dashboard tools. Experience building custom visualizations using JavaScript / React and frameworks like D3 is a plus.","Experienced in the practical application of A/B testing fundamentals.","Proficient with scripting languages such as Python and JavaScript. Familiarity with Scala is a plus.","Highly skilled in effectively engaging with diverse stakeholders and cultivating strong partnerships.","Comfortable with ambiguity, capable of thriving with minimal oversight and process."]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/1e27d499-f650-47c2-abed-4d3f93e4ab7a"
+            }
