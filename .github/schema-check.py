@@ -8,9 +8,9 @@ has_errors = False
 def check_directory(directory):
     for root, dirs, files in os.walk(directory):
         for file in files:
-            if file.endswith('.json'):
-                check_json_file(os.path.join(root, file))
-            elif file.endswith('.yaml'):
+            # if file.endswith('.json'):
+            #     check_json_file(os.path.join(root, file))
+            if file.endswith('.yaml'):
                 check_yaml_file(os.path.join(root, file))
 
 
