@@ -1,0 +1,31 @@
+            {
+                "id": 187,
+                "companyId": 6,
+                "title": "Analytics Engineer (L5) - Member Product",
+                "location": ["Los Gatos, California"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": 4,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Analytics Engineering","Data Pipelines","Data Modeling","Product Strategy","Data Analytics","Storytelling with Data","Cross-functional Collaboration"],
+                "skills": ["data analytics","data pipelines","data modeling","SQL","big data","Object Oriented Programming","Python"],
+                "overview": "The Analytics Engineer (L5) - Member Product position involves working closely with data scientists, data engineers, and business teams to develop and maintain data pipelines, tools, and products to inform product strategy across member product experience.",
+                "description": "
+At Netflix, we seek to entertain the world. We have more than 200 million members in 190 countries, reflecting that great stories can come from anywhere and be loved everywhere. Within Product, we have a very high velocity in innovations in the member experience. We never stop challenging ourselves and are constantly thinking about connecting with our members in new ways or even in new domains! 
+
+Member Product DSE is at the forefront of these innovations with a mission to relentlessly improve Netflix member experience within our streaming and new verticals services across TV, Mobile & Web by surfacing insights, streamlining experimentation and enabling decision making at scale. The team collaborates extensively with Product, Design and Engineering teams to identify, incubate and enable product innovations leveraging robust measurement techniques (analytics, experimentation, modeling) and scalable tooling.
+
+As a Senior Analytics Engineer, you’ll be working closely with data scientists, data engineers, and business teams to develop and maintain data pipelines, tools, and products to inform product strategy across member product experience. 
+
+The ideal candidate will excel in data analytics, storytelling with data, cross-functional collaboration, and share a passion for continuously improving the way we use data to make the Netflix product better.
+
+To learn more about analytics engineering at Netflix, read here.
+",
+                "extras": [{"title":"In this role, you will:","content":["Create a vision for how to best tell the story of how our members are engaging with Netflix and build consensus around this vision with our partners in Product, Design and Engineering Leadership","Build best in class analytics products that realize this vision; create robust tooling to monitor and evaluate product performance.","Work with our Data Engineering partners, and other Data Scientists on the team to make sure we have great data to support the products we are building. Some examples of this work include data modeling and semantic layer for analytics, experimentation, and many more.","Provide mentorship and guidance to other Analytics Engineers on the team.","Visit our culture deck and our Research page to learn about what it’s like to work on Analytics at Netflix."]},{"title":"To be successful in this role, you have:","content":["At least four years of experience building scalable data pipelines and solutions that power product understanding","Practical experience with domain specific data modeling to scale analytics across complex organization","Passion for building scalable repeatable tooling and data solutions; curiosity for understanding needs from internal and external users.","Strong communication skills with technical and non-technical audiences;","Expertise in SQL for working with big data (e.g. Spark, Trino). Experienced in engineering data pipelines and orchestrating workflows (e.g. Airflow, Metaflow)","Fluent in Object Oriented Programming in Python.","Familiarity with web technologies (e.g. API calls) and engineering practices (e.g. code review, unit testing)","Practical experience with building compelling, narrative data visualizations with dashboard tools"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/1ee622d5-3dc6-4f96-b729-974bc38c74cf"
+            }
