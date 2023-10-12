@@ -1,0 +1,34 @@
+            {
+                "id": 402,
+                "companyId": 6,
+                "title": "Senior Gameplay Engineer",
+                "location": ["Remote, United States"],
+                "type": ["Full-time"],
+                "attendance": ["Remote"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Senior Gameplay Engineer","Unreal Engine","C++ programming","Multiplayer","Communication skills","Animation programming","Data-driven tooling"],
+                "skills": ["Unreal Engine","C++","multiplayer","communication skills","game engine components","debugging skills","data-driven tooling"],
+                "overview": "The Senior Gameplay Engineer position at Spry Fox involves building and maintaining gameplay and content systems in Unreal Engine, with a focus on creating polished player experiences and high-performance code.",
+                "description": "ABOUT OUR TEAM
+Our motto is, “make the world a better place”; and we try to do this through the games we make. Invention is part of our DNA at Spry Fox. Whether it’s by designing MMOs that encourage the development of friendships and discourage toxicity, or by designing unique puzzle games that promote English language learning; we’re always asking ourselves “how does this game improve your life?”
+
+Spry Fox strives to be a studio that is a pleasure to work for, an important but not dominating part of your life, and recognizes crunch is a negative, counter-productive industry practice — something to be learned from and avoided in the future. We want you to have friends, family, hobbies, and a life outside of work. We want you to love your colleagues and know that they support you 100%. We want you to be proud of what you do and how you do it.
+
+For 10+ years, we’ve been fully remote with Foxes scattered all over the world. To make that work well, we all try to be online and communicative from 10am to 2pm PST to ensure that we have enough overlapping work hours with our team; otherwise, our schedules are flexible and fully under our individual control!
+
+Now that we’re a part of Netflix, we can do what we love with more support and without having to worry about how to monetize! We’ve always been focused on making thoughtful, original games… now more than ever. 
+
+ABOUT THE JOB
+Spry Fox is looking for a Senior Gameplay Engineer to help us build an original, non-violent MMO.
+
+You will be responsible for building and maintaining gameplay and content systems and data-driven tooling in Unreal Engine, with a focus on the moment to moment or “game-feel” aspects of the project. You’ll work closely with the design team and rest of the engineering team to translate designs into polished player experiences and high performance client and server code.
+",
+                "extras": [{"title":"REQUIREMENTS","content":["You’ve been responsible for bringing moment to moment gameplay (e.g. controls, character, camera) to a shipping quality level.","You’ve shipped a multiplayer project.","Strong C++ programming and debugging skills.","Strong communication skills that will help you succeed in a remote team environment.","Recent professional experience with Unreal and a deep understanding of game engine components and architecture."]},{"title":"NICE TO HAVE","content":["Animation programming experience.","Shipped at least one title that supported touch as well as keyboard & mouse for input.","Experience building data-driven tooling together with a designer.","Prior live service development experience.","Experience with, or interest in, automated testing."]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/51b55707-927e-4ac0-b499-709eae935454"
+            }
