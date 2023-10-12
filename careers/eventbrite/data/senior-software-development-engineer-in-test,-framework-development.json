@@ -1,0 +1,40 @@
+            {
+                "id": 160,
+                "companyId": 5,
+                "title": "Senior Software Development Engineer in Test, Framework Development",
+                "location": ["Remote, India"],
+                "type": ["Full-time"],
+                "attendance": ["Remote"],
+                "experience": 4,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Java","Automated Testing","CI/CD","Docker","Cloud Services","Python","Django"],
+                "skills": ["Python","Java","automated testing","testing pyramid","CI/CD","Docker","cloud services"],
+                "overview": "The Senior Software Development Engineer in Test, Framework Development position at Eventbrite is responsible for leading the adoption and implementation of world-class automated testing solutions, building self-service test automation frameworks, eliminating manual/regression test execution, enabling automated test executions within CI/CD pipelines, supporting development teams in maintaining and improving existing automated tests, and collaborating with development teams to architect robust test infrastructure.",
+                "description": "THE CHALLENGE
+Eventbrite's business continues to grow and scale rapidly, powering millions of events. Event creators and event goers need reliable tools and technologies that empower their live experiences. In turn, Eventbrite’s development teams need effective tools and techniques for testing and delivering high quality products. Software Developers in Test (SDET) are Eventbrite’s center of excellence for software quality and are responsible for leading the adoption and implementation of world class automated testing solutions. You will work both within a centralized test automation-focused team, and as support to other development teams as they implement testing frameworks and expand test coverage. 
+
+THE TEAM
+The members of our team tackle big problems through small group collaboration. Our technology spans web, mobile, APIs, big data and machine learning, search, as well as physical point of sale and ticket scanning systems. As a people-focused organization, we support a culture of inclusion, mentorship, and continuous learning. Pair programming, weekly demos, tech talks, and hackathons are at the core of how we build our team and product. We’re currently working through a transition to a pure Devops culture. We strive for teams to be completely autonomous and to have full ownership of their services and roadmaps. This includes requirements gathering,  deployment, maintenance - and testing!
+
+THE ROLE
+We seek Senior Software Engineers with passion for quality and automated testing to join the team. Our mission is to enable the delivery of highest-quality products by making writing and maintaining tests easy. To make this happen, typical activities include:
+
+-Build self-service test automation frameworks that are reliable, reusable, easy to maintain and extend across multiple locales, devices, features, teams, etc. 
+-Focus on eliminating manual/regression test execution and improve test efficiency by creating automated solutions
+-Enable automated test executions within CI/CD pipelines. 
+-Support development teams in monitoring, maintaining, refactoring, and continuously improving existing automated tests.
+-Develop tools and processes for managing test environments.Develop tools and processes for creating and managing test data.
+-Collaborate with development teams to architect robust test infrastructure that enable them to conduct efficient automated testing across the testing pyramid.
+-Perform gap analysis and continuously refine the test framework to enable earlier defect detection in the development lifecycle. 
+-Review reported bugs and incidents postmortems to identify test infrastructure gaps which prevented the detection of the issues.
+
+
+",
+                "extras": [{"title":"THE SKILLSET","content":["4+ years of experience building software in at least one popular programming language - such as Python, Java, Kotlin, JavaScript, etc.Experience with automated testing across the testing pyramid (unit, integration, end-to-end).","Experience with static code analysis tools (SonarQube, CodeClimate,...).","Experience with CI/CD and Docker.Experience using logging and debugging tools like Cloudwatch, Sentry, and Datadog.Experience with cloud services in AWS.","You have a holistic approach to quality.","You have a passion for delivering well tested and maintainable code.","You are a results-driven self-starter with great communication and collaboration skills",".You enjoy teaching and mentoring colleagues."]},{"title":"THE TECH STACK","content":["Our primary stack is Python and Django based microservices, running on AWS with MySQL backends. Some of the other tools that we use heavily are Redis, RabbitMQ, Elasticsearch, Kafka, Git, and an endless supply of coffee."]},{"title":"BONUS POINTS","content":["Experience designing automation tests tools or frameworks for enterprise software","You have experience with microservices and/or Service Oriented Architecture.","Experience testing ecommerce or marketplace software products.","Experience performing performance testing."]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/eventbrite/b46ce9e5-2c47-41af-af96-df90e50224ed"
+            }
