@@ -1,0 +1,27 @@
+            {
+                "id": 218,
+                "companyId": 6,
+                "title": "Data Analyst (L5), Business Intelligence Engineering",
+                "location": ["Los Gatos, California"],
+                "type": ["Full-time"],
+                "attendance": ["Hybrid"],
+                "experience": 6,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Data Analysis","SQL","Python","Dashboarding","Tableau","Data Modeling","ETL"],
+                "skills": ["SQL","Python","Tableau","Dashbuilder","Looker","ETL","LookML"],
+                "overview": "The Data Analyst (L5), Business Intelligence Engineering position at Netflix involves owning areas around applications built internally to assist various Netflix content finance teams, using strategic insight and technical expertise to shape the future of their business intelligence ecosystem, and analyzing and interpreting complex financial and operational data.",
+                "description": "Netflix is the world's leading streaming entertainment service with over 238 million paid memberships in over 190 countries enjoying TV series, films, and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time. 
+
+Our team builds critical infrastructure to help Netflix optimize our large content investment that enables us to produce world-class, award-winning, high-quality, and diverse content. The goal of our team is to provide operational excellence, systems infrastructure, and business intelligence to our business functions such as Finance, Talent, and Revenue throughout the content production life cycle.
+
+We're looking for a data analyst who can own areas around all applications built internally to assist various Netflix content finance teams. In this role, you will use your strategic insight and technical expertise to help shape the future of our business intelligence ecosystem. To be successful in this role, we require experience in data analysis with a proven track record in developing and executing data-driven solutions. You should have a deep understanding of financial and operational data, and be able to communicate your insights in a clear and concise manner. You should also be comfortable working with large data sets and be able to analyze and interpret complex data.
+
+",
+                "extras": [{"title":"What will you do?","content":["Build reports and visualizations to support finance teams","Understand and own our financial data to connect data sets across our studio ecosystem","Work on SQL, Hive, Spark, Presto, Python, etc… to drive analysis.","Create and monitor errors and alerts to make sure our data remains clean","Partner with product managers and non-technical users to translate loose business questions into actionable reports and insights","Partner with engineering teams to prioritize and develop our connected data model"]},{"title":"About you","content":["6+ years of experience in a data analyst role","Analytical skills with an excellent grasp of SQL and Python required","Experience with dashboarding platforms such as Tableau, Dashbuilder, and Looker is required","You enjoy working with data to identify patterns, anomalies, and opportunities","You should have a strong focus on accuracy as these reports are used for key business decision-making and external reporting","Strong communication skills that allow you to partner effectively with non-technical stakeholders when leading projects","Experience with data modeling fundamentals, working with ETL, LookML is big a plus"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/785a25cf-3cbd-42c4-93f0-c37672cfeb15"
+            }
