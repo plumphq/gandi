@@ -1,0 +1,33 @@
+            {
+                "id": 433,
+                "companyId": 6,
+                "title": "Software Engineer L5 - Ads Platform Engineering",
+                "location": ["Remote, United States"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": 2,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Ad Delivery","Identity and Audience Targeting","Measurement","Sales Enablement","Advertising Marketplace","Cloud-based Applications","A/B Testing"],
+                "skills": ["Ad Delivery","Identity and Audience Targeting","Measurement","Sales Enablement","General understanding of the advertising marketplace","A/B testing and experimentation"],
+                "overview": "The Software Engineer L5 - Ads Platform Engineering position at Netflix involves building advertising systems and integrations that deliver ads using their content delivery ecosystem, with a focus on member experience and advertiser outcomes. The team is seeking highly motivated engineers with domain experience in ad tech, identity and audience targeting, measurement, or sales enablement. Familiarity with the advertising marketplace, cloud-based applications, and A/B testing is also desired.",
+                "description": "At Netflix, we want to entertain the world and are constantly innovating on how entertainment is imagined, created and delivered to a global audience. We currently stream content in more than 30 languages in 190 countries, topping over 233 million paid subscribers. 
+
+We launched a new ad-supported tier in November 2022 to offer our members more choice in how they consume their content. Our new tier allows us to attract new members at a lower price point, while also creating a compelling path for advertisers to reach audiences that are deeply engaged.
+
+Our Team
+
+The Ads Platform Engineering teams build advertising systems and integrations that powers the delivery of ads using our world class content delivery ecosystem. We use a number of Netflix investments and innovations to power our ads - unique mix of client and server side ad insertions, state of the art content delivery system, ad encoding recipes, content understanding and metadata etc. We deliver ads in a manner that’s thoughtful of our member’s viewing experience and drive great outcomes for advertisers. We also ensure that advertiser brand safety is ensured during serving, members only see the most appropriate ads for them.
+
+Our team is new and yet faced with the enormous ambitions of building highly performant advertising systems and delivering high impact to our business by monetizing our incredible slate of content. As one of the newest entrants in the Connected TV advertising space that’s rapidly growing, we seek to build unique value propositions that help us differentiate from the competition and become a market leader in record time.
+
+We are looking for highly motivated engineers working in the advertising space who are excited to join us on this journey.
+
+",
+                "extras": [{"title":"Skills & experience we’re seeking:","content":["Well grounded domain experience in ANY ONE of these 4 areas :","1- (Ad Delivery) Building publisher side ad tech systems such as ad servers, bidders and pacers, yield optimizers or their demand side counterparts (DSPs).","2 - (Identity and Audience Targeting) Built identity graphs, integrated with DMPs and worked on enabling audience targeting, 1P or 3P segments.","3 - (Measurement) Familiarity with brand lift measurement, incrementality based measurement, outcomes measurement etc.","4 - (Sales Enablement) Guaranteed and non-guaranteed inventory reservations and management, Sales tooling, Integrations with OMS, CRM systems etc.","General understanding of the advertising marketplace and landscape.","Worked closely with ad operations to enable campaign setup, targeting, reporting and advertiser needs.","Developed many cloud based applications and comfortable with modern programming languages (preferably object oriented),","Familiar with A/B testing and experimentation."]},{"title":"Nice to haves:","content":["Contributed to an ads industry technology standard (e.g VAST, OpenRTB) or worked on an industry consortium effort, working group etc.","Familiarity with legal compliance and changing landscape of ads regulations around the world.","Experience working in the CTV space and knowledge of it’s unique constraints"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/5e78df76-587c-4cbf-bab5-fb970c8646f7"
+            }
