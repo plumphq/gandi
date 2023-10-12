@@ -1,0 +1,26 @@
+            {
+                "id": 321,
+                "companyId": 6,
+                "title": "Logistics Import/Export Manager",
+                "location": ["Los Gatos, California"],
+                "type": ["Full-time"],
+                "attendance": ["Hybrid"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": [""],
+                "skills": ["International shipping","Import/export compliance","HTS number classification","ECCN/CCL","License Exemption codes","Logistics processes automation","Vendor management"],
+                "overview": "This role involves managing outbound and inbound shipments to data centers and ISPs, collaborating with internal and external partners, and preparing shipping documents to ensure efficient delivery of Netflix Open Connect Appliances worldwide.",
+                "description": "Join our embedded team of international import and export experts, where you will help ensure our customers have the best possible viewing experience. Netflix has changed the way people watch shows and movies via the Internet. The Open Connect Logistics team ensures that our content-serving appliances are imported smoothly and delivered timely. To efficiently stream billions of hours of Netflix around the globe, we partner with thousands of ISPs in more than 160 countries. You'll guide our partners through importing Open Connect Appliances and get them to our 90+ Netflix data center locations to be deployed! 
+
+If you are a self-starter with a passion for and expertise in international freight and expect the best from yourself and your vendors, this is the role for you. 
+
+You will manage multiple outbound and inbound shipments to data centers and ISPs as an Open Connect Logistics team member. You will also recover a subset of equipment for repairs, optimizations, and redeployment (reverse logistics). Workflows include collaboration with internal cross-functional teams and external partners, bill of materials review, inventory allocations, order placement with our vendors and warehouse, dispatching to ensure the right equipment is onsite at the right time, and preparation of shipping documents. The outcomes of your work will result in millions and millions of happy Netflix users around the world.
+",
+                "extras": [{"title":"Responsibilities","content":["Prepare shipping and related documents, shepherd and track shipments from start to finish (Ex: proforma invoices, commercial invoices, pre-shipment inspections, packing lists, and other documents required for international export and import)","Develop process improvements and strategies to automate further and streamline Logistics processes","Vendor management and accountability: evaluate and select warehousing service providers, freight forwarders, suppliers, manufacturers, and other partners. Hold them accountable to the standards and requirements you have established","Purchase and maintain optimum inventory levels to meet on-time shipments of site build items","Collaborate with the Finance department in analyzing freight and import costs, and inventory investments","Advise and guide partners/ISPs on the international importation process of Netflix Open Connect Appliances","Develop metrics for Key Performance Indicators to monitor delivery performance for Appliance shipments","Review expected site builds and augment dates, and plan shipping timing, routes, and carriers, ensuring on-time and efficient delivery","Maintain an updated shipment status in the ticketing system (JIRA), to provide accurate information regarding current status and any issues with the shipment and/or partners’ requests"]},{"title":"Qualifications","content":["Solid understanding of international shipping, Incoterms, and import/export compliance","Knowledge of HTS number classification, ECCN/CCL, and License Exemption codes.","Must thrive and enjoy working in a high-performance, dynamic, and fast-paced environment","Healthy attention to detail with the ability to manage multiple projects concurrently","Excellent written and verbal communication skills","Effective collaboration and communication skills; able to articulate complex ideas in a direct, concise way","Able to time-shift as needed to support teams and projects in other time zones, to support a global organization","Occasional travel required"]},{"title":"Bonus","content":["Spanish proficiency or fluency","Portuguese proficiency or fluency"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/1a52837c-312b-4b60-8763-bcd143c42f5c"
+            }
