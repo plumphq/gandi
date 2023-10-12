@@ -1,0 +1,30 @@
+            {
+                "id": 377,
+                "companyId": 6,
+                "title": "Program Manager (L5) - Developer Education",
+                "location": ["Remote, United States"],
+                "type": ["Full-time"],
+                "attendance": ["Remote"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Program Manager","Developer Education","Technical Skills","Project Management","Agile Methodology","Jira","Training Delivery"],
+                "skills": [""],
+                "overview": "",
+                "description": "About the team
+Netflix is one of the world's leading streaming entertainment services with over 231 million paid memberships in over 190 countries enjoying TV series, films, and games across a wide variety of genres and languages. Members can play, pause, and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.
+
+The Developer Education team sits at the intersection of Engineering and Learning & Development, and ensures that the technical learning strategy is well integrated with the overall employee learning journey at Netflix. Our mission is to help all Netflix engineers, scientists, and solution developers be as informed and productive as possible by ensuring they have access to curated knowledge, education, and support resources, when and where they need them.
+ 
+Team initiatives include new hire onboarding, overall knowledge strategy and information architecture for product documentation, go-to-market support and strategy for internal product launches, and Engineering-wide programs to build community and drive innovation.
+
+About the role
+We are looking for innovative, proactive Program Managers whose mission is to transform the Developer Education onboarding and continuing education program into a more interactive, impactful, and meaningful experience. You will be responsible for the entire DevEd onboarding and continuing education training planning, delivery, and development, including communication campaigns, metric tracking and reporting, and cross-team and vendor partnership training implementation. You will also engage with the rest of the Developer Education team and integrate with the documentation lifecycle workflows and projects. We’re looking for a self-starter who is passionate about technology, and learning and can think outside of the box to help us scale.
+",
+                "extras": [{"title":"What you will do...","content":["Drive vision, strategy, & operations of our technical onboarding and continuing education efforts across Netflix Engineering","Partner with internal and external program managers, instructional designers, technical writers, and facilitators for developer education program execution","Foster a culture of learning that promotes inclusion and diversity in our teams, interactions, and learning models","Develop strong partnerships with Emerging Talent, our Engineering domains, and Support teams to create continuous feedback loops to ensure we’re solving the most impactful problems","Evolve the onboarding and continuing education learning to be product-led, focused on user experience, with relevant KPIs to assess learning impact and to tune up the modules."]},{"title":"Your experience must include or demonstrate...","content":["Strong leadership of technical education programs through setting of vision and strategy, and a track record of successful execution producing positive outcomes","Design and implementation of diverse learning formats and blended instructional methods","The ability to navigate diverse stakeholder groups, forming and sustaining successful partnerships by influencing up, down, and across","Creating and maintaining a learning culture that amplifies the organization’s potential"]},{"title":"Other attributes that will excite us...","content":["Good understanding of modern application architectures, software development lifecycle, data processing needs, cloud infrastructure, and developer tooling","Good understanding of the education space for engineers and data scientists, including learning styles and approaches","A track record of consistently and successfully delivering technical education and community-building training and events."]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/96a88c5c-5722-46c3-8953-99af1945ef7a"
+            }
