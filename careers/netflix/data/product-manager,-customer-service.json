@@ -1,0 +1,30 @@
+            {
+                "id": 371,
+                "companyId": 6,
+                "title": "Product Manager, Customer Service",
+                "location": ["Remote, United States"],
+                "type": ["Full-time"],
+                "attendance": ["Remote"],
+                "experience": 5,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Product Manager","Customer Service","CS Technology","Contact Center Platform","Third-Party Solutions","Roadmap","Engineering"],
+                "skills": ["Product Management","Contact Center Platform","CCaaS","CPaaS","UCaaS","Data Pipelines","APIs"],
+                "overview": "The Product Manager, Customer Service is responsible for leading and managing innovation in improving members' and support agents' experience with the contact center platform, partnering with cross-functional teams and third-party solution providers.",
+                "description": "Product Manager, Customer Service
+
+Over 200 million members worldwide love Netflix. When they sit down to watch, we want to make sure that nothing gets between them and their favorite shows, movies, and games. And Netflix Customer Service (CS) is here to assist customers when they are in need of help. 
+
+The CS Technology team is part of the Customer Service organization and is responsible for ensuring the right CS tools and technologies are in place and well-functioning to support the operation, growth, and scalability of the Customer Service business now and in the future. We are looking for an experienced Product Manager to lead and manage innovation in improving our members' and support agents’ experience with our contact center platform. 
+
+In this role, you’ll need to have the passion and ability to wear multiple hats, partnering with design, engineering, operations, and data engineering teams as well as third-party solution providers to deliver the best-in-class platform experience that enables our Customer Service team to provide great customer experience when contacting Netflix CS.
+
+As a Product Manager, you’ll be the key player in shaping the future of our contact center platform through the adoption of third-party solutions and helping to create and execute the long-term strategy and prioritized roadmap. Although this is a senior role, like most other PMs at Netflix you will be focused on leading a cross-functional team, without direct reports, so you can focus on having an enormous impact on our customer and agent experience without managing an organization.
+",
+                "extras": [{"title":"Responsibilities:","content":["Provide product management leadership for our contact center platform including new feature adoption, feature enhancements, data pipelines, APIs, and integrations with our internal tools through closely working with our third-party solution providers.","Help define strategy, capture requirements, clarify prioritization, identify dependencies, mitigate risks and impediments, communicate, and create a roadmap.","Partner with each CS functional team to better understand their vision and challenges and deliver the best possible solutions together.","Manage integrations and adoption of product features through close collaboration with our engineering and data scientist teams as well as third-party solution providers and/or consulting firms.","Understand differences in support expectations in different regions around the world, and tailor experience accordingly.","Expand product management responsibility to other tools as business needs present.","Embody the unique Netflix culture"]},{"title":"What We're Looking For","content":["5+ years of experience in product management for consumer or internal-facing products.","Prior experience focusing on Customer Service contact centers is a must.","Prior experience working with Contact Center Platform, CCaaS, CPaaS, or UCaaS whether 3rd party or in-house build is a must.","Ability to make tough decisions informed by both data and judgment.","Deep focus on delivering a great customer and agent experience.","Demonstrated record of executing projects that measurably improved customer and agent experiences.","Organizational leadership and influence without authority","Outstanding written and verbal communication skills: great memos and presentations, an ability to build trust and create collaborative partnerships cross-functionally is extremely important","Ability to inspire, motivate and lead designers and engineers","Experience working on global products is also beneficial"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/a8c16474-73b4-4e23-b8df-a901f70e7e8f"
+            }
