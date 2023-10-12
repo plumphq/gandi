@@ -1,0 +1,28 @@
+            {
+                "id": 443,
+                "companyId": 6,
+                "title": "Software Engineer L4 - Backend Application Java APIs (BAJA) Team",
+                "location": ["Los Gatos, California"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": 3,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Java","Backend Development","APIs","Microservice Architecture","Project Management","Collaboration","Problem Solving"],
+                "skills": [""],
+                "overview": "",
+                "description": "Location: Los Gatos, CA.
+
+Netflix has revolutionized the global entertainment industry and continues to change the way people enjoy their favorite shows and movies. We serve billions of viewing hours every month to more than 200 million member households globally, across thousands of different devices. 
+
+At the heart of Netflix technology is the Platform organization, which serves as the foundation for Netflix application development, and powers the viewing experience of millions of customers every day. As part of this Platform Org, the Backend Application Java API (BAJA) team enables the development of Schema and APIs through workflows, frameworks, tools, and IPC. The BAJA team is part of the Java Platform, which provides guidance, support, and innovative technology to keep the Netflix microservice ecosystem on the leading edge of the entertainment industry. 
+
+We are looking for a highly motivated Senior Software Engineer to join us in supporting the growing needs of the Netflix development ecosystem. We need a responsible Engineer who is looking to understand and improve the development experience. If you are naturally curious, empathetic, and innovative, you will excel in this role. 
+",
+                "extras": [{"title":"What We’ll Expect From You","content":["Be curious - be proactive in seeking to understand nuances and perspectives.","Be a strong team player - enjoy working with others collaboratively to find solutions.","Own and drive initiatives to support Java schema development in the Netflix ecosystem.","Always seek to improve and innovate on the status quo.","Have a strong focus on developer experience."]},{"title":"What To Expect From Us","content":["High Impact - your work will be crucial for the ongoing growth and success of the core Netflix platform.","Exciting challenges - there is a wealth of opportunity for learning and growing, and our culture both enables and encourages you to rise to the challenges.","Great team environment - you will be working with other excellent Engineers, who value collaboration and communication."]},{"title":"Must haves:","content":["Microservice architecture experience (preferred at scale)","Experience working with partner and stakeholder teams on creating solutions with myriad, sometimes conflicting, requirements","~3 years of industry experience developing in Java for the above"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/bec92236-c28e-43da-9882-5c996ad208f0"
+            }
