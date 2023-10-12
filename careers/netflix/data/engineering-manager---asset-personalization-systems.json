@@ -1,0 +1,29 @@
+            {
+                "id": 286,
+                "companyId": 6,
+                "title": "Engineering Manager - Asset Personalization Systems",
+                "location": ["Los Gatos, California"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": 5,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": [""],
+                "skills": [""],
+                "overview": "",
+                "description": "Netflix is the world's leading streaming entertainment service, with over 230 million paid memberships in over 190 countries, enjoying TV series, documentaries, and feature films across various genres and languages. Members can watch or play as much as they want, anytime, anywhere, on any internet-connected screen. 
+
+The Opportunity 
+Netflix’s recommendation systems are really good at finding the right content for our members. But as our catalog and member base become global and more diverse, we need more than content recommendations. Members need help choosing the right show/movie/game for that moment. The context we share about unfamiliar content helps our members make confident viewing choices.
+
+We provide this context to members in various ways. We use personalization to find the best artwork and video trailers for a member. We also personalize other metadata - does this member care about actor/director information or the plot? What about games - what’s useful for members to know for a mobile game vs. a cloud game? If you’re interested, here is a high-level overview of what we do.
+
+The team partners with a large set of cross-functional teams like Content Creative teams, ML researchers, Product Management, Product Design, Data Engineering, and many backend and client engineering teams. The team is responsible for offline systems that leverage continuous explore/exploit models to generate personalized asset and metadata recommendations. The team is also responsible for very high throughput, low latency systems that deliver personalized assets in real-time to Netflix UI clients. The team is directly involved in experimentation to continuously evolve the member experience and in developing experiences for new content types like Games and Live content. 
+",
+                "extras": [{"title":"What we are looking for in you -","content":["A track record of hiring diverse, highly talented engineers and growing successful, highly impactful teams","A passion for improving consumer experiences through strong partnerships with product leaders, ability to influence product direction and roadmaps","Excellence in communicating context with the team, stakeholders, partners, and leadership. Ability to drive the team’s roadmap by connecting the dots between your team’s work and business needs, managing expectations, and navigating competing priorities","Domain experience with personalization, AB testing, machine learning, cloud computing, and Java","Strong technical acumen and ability to act as a technical advisor to the team. Experience building and operating distributed systems with a direct impact on the customer experience","A leadership style that prioritizes giving and receiving feedback, fostering new ideas, and empowering others without micromanagement","A BS in Computer Science/Engineering or a related discipline"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/f0cbe42f-0dff-4aa5-b6ed-ec40e1752def"
+            }
