@@ -1,0 +1,30 @@
+            {
+                "id": 406,
+                "companyId": 6,
+                "title": "Senior Revenue Accountant, Ads (Billing/Invoicing)",
+                "location": ["Los Gatos, California"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": 5,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Ads Invoicing","Billing Systems","Revenue Recognition","Financial Close","Cash Collections","Process Improvements","Account Reconciliations"],
+                "skills": ["GAAP","Revenue recognition","Invoicing","Billing","Accounting","CRM","OMS"],
+                "overview": "The Senior Revenue Accountant, Ads (Billing/Invoicing) position at Netflix is responsible for establishing and scaling Netflix's growing ads business, including order management, invoicing, and cash collections processes, and solving complex revenue recognition and operational issues.",
+                "description": "*This role can be based in Los Gatos, CA or New York, NY*
+
+Netflix is one of the world's leading streaming entertainment services with 238 million paid memberships in over 190 countries enjoying TV series, documentaries, feature films and mobile games across a wide variety of genres and languages. Members can play, pause and resume watching as they want, anytime, anywhere, and can change their plans at any time. 
+
+The core Advertising team is charged with building a new, best in class ads organization to  establish Netflix as the premiere platform for advertiser partners, and to drive advertising revenue. Our Revenue team is currently looking for a Senior Ads Revenue Accountant to partner with multiple cross-functional teams to establish and scale multiple aspects of Netflix’s growing ads business, across the order management, invoicing, and cash collections processes. This individual will look to solve complex revenue recognition and operational issues with groups such as Sales Ops, Ad Ops, Sales, and Infrastructure Engineering.  
+
+You will be based in either Los Gatos, CA or New York City, NY, but will work cross-functionally across many time zones with our US and international offices.
+
+
+",
+                "extras": [{"title":"In this role, you will:","content":["Collaborate cross-functionally to design and build key facets of Netflix’s ads invoicing and billing systems, including creating policies, providing revenue recognition guidance, and owning accounting-related user testing for impacted systems/tools.","Oversee invoicing dispute process, including relevant systematic approvals, resolution options, and accounting impact.","Monitor cash outstanding and collected from customers, and ensure cash is applied systematically according to GAAP.","Aid in the creation of AR Aging and Reserve policies (if applicable), including technical memo preparation for topics such as bad debt and write-offs.","Provide revenue recognition guidance, including technical memo preparation (if applicable), for changes to client incentive offerings, new invoicing/billing methods, or new products/features that will have invoicing implications.","Partner with the Ad Ops and Sales Ops teams to define the 3rd party billing reconciliation and resolution process, with emphasis on adhering to a tight financial close process that is GAAP compliant.","Define upstream approval workflows and downstream revenue recognition impact for credit memos, make goods, ad credits, or other customer resolution events offered in the OMS.","Understand and analyze relevant ads revenue drivers and the impact on internally and externally reported business metrics.","Be responsible for the invoicing/billing impacting monthly revenue close process, which includes detailed analytics, monthly account reconciliations, and external audit deliverables.","Collaborate with our international finance and international tax teams to bridge US GAAP and Statutory/Local reporting requirements.","Drive ongoing operational process improvements along with Sales Ops, infrastructure engineering, Ads Ops, Ads Engineering, and Workday ERP teams."]},{"title":"Qualities we're looking for:","content":["A passion for building from the ground up with a vision towards the future and scale.","Self-motivated and dedicated; able to work and problem-solve independently.","A great communicator who can cultivate strong cross-functional relationships and communicate effectively with internal teams and external partners.","Proactive and contributive; takes initiative and follows through reliably.","Accustomed to multitasking, prioritizing, and meeting multiple tight deadlines.","Intellectually curious and passionate; our team members ask probing questions, challenge the status quo, make changes to improve processes, and have fun while doing it all.","Comfortable with Ambiguity.","Organized, detail-oriented, and a speedy learner; you can be successful on our team if you're excited about learning, focused on becoming an expert in the areas you support, and have the drive to succeed."]},{"title":"Education and experience:","content":["Minimum of 5 years of accounting experience.","Prior experience working at an advertising technology, media company, and/or Ad Agency/HoldCo is greatly encouraged.","Proven project management experience and demonstrated ability to drive process improvements.","Experience with CRM and/or OMS."]},{"title":"Bonus experience - not required but are a plus!","content":["Experience with Workday Financials or other cloud-based ERP systems.","Prior experience developing/implementing invoicing, billing, cash collection, or cash application workflows."]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/60133bcd-c58b-4067-a1f0-f0450971b82b"
+            }
