@@ -1,0 +1,26 @@
+            {
+                "id": 475,
+                "companyId": 6,
+                "title": "UI Artist, Games Studio",
+                "location": ["Los Angeles, California"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": 3,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["UI Artist","Games Studio","Rich Visuals","Dynamic Visuals","UI Assets","Menus","HUD Elements"],
+                "skills": ["UI artist","rich and dynamic visuals","UI assets","menus","HUD elements","2D game art","kinetic motion graphics","source art","mock up","collaborate","designers","engineers","UX-minded","intuitive layouts","clean composition","memorable game moments","ambitions","action","learning","Netflix Game Studio","paid members","final UI assets","art tools","transitions","kinetic motion design","UI mockups","layouts","composition","game menus","usability","accessibility","creative/team feedback","creative contributions","creative goals","specific outcomes","3+ years experience","shipped title","UX design","visualize the game holistically","Unity","Unity assets","prefabs","art tools","Photoshop","Illustrator","Figma","After Effects","animation","motion design","design knowledge","visual styles","communication skills","traditional illustration skills","video games","board games","sense of humor","Los Angeles Preferred/Remote"],
+                "overview": "The UI Artist, Games Studio at Netflix is responsible for creating rich and dynamic visuals, including UI assets, menus, HUD elements, and 2D game art, with a focus on kinetic motion graphics and intuitive layouts. They collaborate with designers and engineers to bring their work to life and strive to create memorable game moments. The ideal candidate has 3+ years of experience as a UI artist, knowledge of UX design, proficiency with Unity and art tools, and strong communication skills. Strong traditional illustration skills and familiarity with social party games are considered a bonus. The position is preferred to be based in Los Angeles, but remote work is also an option.",
+                "description": "Netflix is building a new internal game studio to incubate and build a new class of hilarious, social party video games.
+
+We’re seeking a talented UI artist who is passionate about making rich and dynamic visuals that enhance the player experience. A successful candidate excels at creating beautiful UI assets, menus, HUD elements, and 2D game art, and has a keen eye for kinetic motion graphics. On our small team, versatility is paramount. We’re looking for someone who can create the source art, mock up how it animates, and then collaborate with designers and engineers to bring their work to life. Our ideal candidate is also UX-minded, able to plan out intuitive layouts with clean composition and a natural flow from screen to screen. 
+
+You’ll be joining a small, scrappy team with big ambitions, and an obsession to create memorable game moments that leave players telling their own stories for years to come. We’re looking for new teammates who care deeply about the experiences they create and the people they make them with. Those who bias towards action and are energized by the learning that comes with bold experimentation at an agile pace. As a part of Netflix, we strive to hire the best and value integrity, excellence, respect, inclusion, and collaboration. Now is an amazing time to join Netflix Game Studio as we seek to entertain our 200 million paid members in a really new way. 
+",
+                "extras": [{"title":"Responsibilities","content":["Assets - Create final UI assets that will live on top of our game environments","Animation - Use art tools to clearly demonstrate the intended transitions and kinetic motion design of your UI elements","Graybox - Create UI mockups that block out layouts and composition","Menus - Work closely with designers to map out the flow of our game menus","Accessibility - Collaborate with the rest of the team to improve usability and accessibility","Collaboration - Provide and receive creative/team feedback, “yes, and” others’ creative contributions, and provide clear creative goals with specific outcomes"]},{"title":"Requirements","content":["3+ years experience as a UI artist with at least 1 shipped title","Good knowledge of UX design with the ability to visualize the game holistically","Experienced with Unity and able to create Unity assets and prefabs","Experienced with art tools such as Photoshop, Illustrator, Figma, After Effects, etc.","Experienced with animation and motion design","Well-rounded design knowledge and a strong sense of current visual styles","Excellent communication skills, both written and verbal"]},{"title":"Bonus Skills","content":["Strong traditional illustration skills","Familiarity with video and board games that are in the social party space","A strong sense of humor in your work"]},{"title":"Location","content":["Los Angeles Preferred/Remote"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/b4e8f0e0-076b-4ca9-a1b9-f50b0d3766e2"
+            }
