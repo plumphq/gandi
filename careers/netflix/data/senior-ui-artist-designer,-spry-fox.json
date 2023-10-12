@@ -1,0 +1,34 @@
+            {
+                "id": 496,
+                "companyId": 6,
+                "title": "Senior UI Artist/Designer, Spry Fox",
+                "location": ["Remote, United States"],
+                "type": ["Full-time"],
+                "attendance": ["Remote"],
+                "experience": 3,
+                "salaryMin": 150000,
+                "salaryMax": 200000,
+                "salaryFormat": "per-year-salary",
+                "salaryCurrency": "USD",
+                "salaryBonus": "Unspecified",
+                "tags": ["UI Artist","UI Designer","Asset Creation","In-engine Implementation","Art Direction","UMG","Blueprint"],
+                "skills": ["Unreal","UI design","UMG","widget Blueprints","2D asset creation","user experiences","game mechanics"],
+                "overview": "The Senior UI Artist/Designer position at Spry Fox involves leading the UI visual direction, asset creation, and in-engine implementation for a multi-platform MMO, collaborating with cross-functional teams to develop a functional and visually appealing UI, and ensuring the UI works across different experiences while balancing visual quality, performance, and maintenance.",
+                "description": "ABOUT OUR TEAM
+Our motto is, “make the world a better place”; and we try to do this through the games we make. Invention is part of our DNA at Spry Fox. Whether it’s by designing MMOs that encourage the development of friendships and discourage toxicity, or by designing unique puzzle games that promote English language learning; we’re always asking ourselves “how does this game improve your life?”
+
+Spry Fox strives to be a studio that is a pleasure to work for, an important but not dominating part of your life, and recognizes crunch is a negative, counter-productive industry practice — something to be learned from and avoided in the future. We want you to have friends, family, hobbies, and a life outside of work. We want you to love your colleagues and know that they support you 100%. We want you to be proud of what you do and how you do it.
+
+For 10+ years, we’ve been fully remote with Foxes scattered all over the world. To make that work well, we all try to be online and communicative from 10am to 2pm PST to ensure that we have enough overlapping work hours with our team; otherwise, our schedules are flexible and fully under our individual control!
+
+Now that we’re a part of Netflix, we can do what we love with more support and without having to worry about how to monetize! We’ve always been focused on making thoughtful, original games… now more than ever. 
+
+ABOUT THE JOB
+Spry Fox is looking for a UI Artist/Designer! In this role, you will lead our UI visual direction, asset creation, and in-engine implementation for a cozy, multi-platform MMO. 
+
+You will work closely with our Art, Design, and Engineering teams to develop a UI that pairs well with our 3D world in function, style and aesthetic. You'll collaborate with the design team to turn wireframes into shipping quality UI, and with the engineering team to grow and maintain a set of reusable components. As the UI Artist/Designer, you will be responsible for structuring our UI to work across a variety of experiences (e.g. mobile and more) and navigate tradeoffs between visual quality, performance, and maintenance. 
+",
+                "extras": [{"title":"Responsibilities","content":["Author high quality, stylized UI assets that compliment the look of in-game 3D assets","Collaborate with art direction and designers to improve the quality and usability of the overall UI, within the constraints created by design","Maintain and improve a pipeline for authoring high-quality, stylized UI assets that complement the look of in-game 3D assets","Integrate UI assets into UMG widgets and use Blueprint to create and maintain standardized components","Regular, ongoing, open communication with team members about your work and status (Slack, Google Meet, email is critical)"]},{"title":"Requirements","content":["Experience working with the latest versions of Unreal – structuring UI in UMG and creating widget Blueprints","A portfolio that demonstrates solid UI design skills, as well as 2D asset creation","Experience designing user experiences and UI for games, including a deep understanding of game mechanics, player motivations, game flow","A deep understanding of how design translates to code and how your decisions will affect development complexity and timelines.","Strong communication skills including clear and proactive communication and capable of conveying a range of complex technical issues to both programmers and non-technical team members"]},{"title":"Nice To Have","content":["Experience shipping UI in Unreal, especially on mobile","Motion graphics experience for mobile games","Secondary Specialties: VFX, general 3D experience, Concept Art, C++"]},{"title":"Required Application Materials","content":["Candidates will be expected to take a brief, test demonstrating UMG competency","Resume","Portfolio link or upload"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/netflix/8ee462db-870d-420b-bab3-d4f1dbbdc3b3"
+            }
