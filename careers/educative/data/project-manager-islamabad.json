@@ -1,0 +1,45 @@
+            {
+                "id": 511,
+                "companyId": 7,
+                "title": "Project Manager (Islamabad)",
+                "location": ["Islamabad"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Project Management","Workforce Management","Resource Allocation","Workflow Processes","Automation","Performance Analysis","Productivity Metrics"],
+                "skills": ["Workforce management","Resource allocation","Workflow processes","Automation of processes","Performance analysis","Productivity metrics","Forecasting data"],
+                "overview": "The Content Project Manager in Islamabad will be responsible for workforce management, including staffing plans and resource allocation, as well as performance analysis and implementing productivity metrics.",
+                "description": "Do you want to be part of a high-performing team at a fast-growing technology company?
+
+Are you passionate about enabling learning and career growth for a community of developers?
+
+Do you feel motivated by contributing to a culture of continuous improvement?
+
+The Content Project Manager role may be right for you. The Content Project Manager is integral for company growth and you will help drive the future of the company by maximizing the our ability to deliver high quality technical courses.
+
+You’ll also have the freedom to make Educative better every day. To see your ideas in action.
+
+In this role, you will perform:
+
+Workforce management:
+• Develop staffing plans and facilitate tradeoffs when conflicts arise.
+• Oversee resource allocation to ensure delivery of courses, response to author and learner tickets, and completion of strategic projects under agreed upon timelines.
+• Work with management to achieve cross-training initiatives to ensure even workload distribution.
+• Communicate proactively with internal stakeholders on any internal and/or external changes that could impact delivery status.
+• Promote content development estimation techniques to forecast delivery dates and efficiently use resources.
+• Evaluate and implement opportunities for improving workflow processes and automation of processes.
+• Point of contact for any issues with workforce management tools.
+
+Performance analysis:
+• Define, implement and monitor productivity metrics for the team and individual contributors.
+• Analyze forecasting data to assist in developing action plans to remedy any service level gaps
+",
+                "extras": [{"title":"You are:","content":["Highly motivated with proven track record of thriving in an entrepreneurial environment","Ability to be responsive to changing business needs, manage and prioritize concurrent assignments","Enthusiasm and curiosity for continuous improvement and root cause analysis","Proven track record of enabling teams and building cross-functional relationships"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/educative/dc3c0a42-b179-47f5-8eae-05bd29d86a5c"
+            }
