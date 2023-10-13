@@ -1,0 +1,34 @@
+            {
+                "id": 522,
+                "companyId": 8,
+                "title": "Design Manager",
+                "location": ["Lahore"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Product Design","User Experience","Design Management","Team Leadership","Design Systems","Feedback","Cross-functional Collaboration"],
+                "skills": ["Product Design","User Experience","Design Culture","Design Systems","Design Standards","Design Guidelines","Design Quality"],
+                "overview": "The Design Manager will advocate for the customer experience, lead design across products, manage and develop designers, build and maintain design systems, and present product design ideas to cross-functional teams and senior leadership.",
+                "description": "Core Responsibilities
+
+• Your primary role as a Product Design Manager is to advocate for the customer experience (CX).
+• You obsess over customer pain points and continually push to make the CX more useful, enjoyable, and accessible.
+• Embed within a cross-functional product area and lead design across one or more products – from discovery, definition, and development through to delivery. 
+•  Proactively partner with the existing Design team, Product, and Engineering to oversee and align the user experience of Syngenta’s diverse platform and family of products.
+•  Manage, develop, coach, and mentor Designers within the team.
+•  Inform, mature, and help develop our design culture, ensuring an open and collaborative working environment.
+•  Build out, scale, and maintain our internal Design Systems, standards, best practices, and guidelines.
+•  Provide regular feedback to your team regarding performance, and help shape and define clear career paths and tangible action plans to achieve them.
+• Present and defend your product design ideas to cross-functional teams and senior leadership.
+• Follow an existing design system with the latitude to push it further.
+• Constantly bring new and impactful ideas and improve the design quality at Educative.
+",
+                "extras": [],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/educative/2e5dd704-4c51-4a23-891a-0fc2b0f2b544"
+            }
