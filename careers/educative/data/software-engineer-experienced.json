@@ -1,0 +1,26 @@
+            {
+                "id": 531,
+                "companyId": 8,
+                "title": "Software Engineer (Experienced)",
+                "location": ["Lahore"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Java","Project Management","Agile Methodology","Jira","Conflict Resolution","Budget Management","Team Leadership"],
+                "skills": ["Python","JavaScript","Git","Docker","Kubernetes","AWS","React"],
+                "overview": "A Software Engineer (Experienced) position is available at Educative, a hyper-growth platform for interactive text-based courses in computer science and advanced technologies, where the engineer will be responsible for delivering a cutting-edge learning platform through end-to-end ownership and collaboration with cross-functional teams.",
+                "description": "Educative is connecting millions of developers around the world. We are a hyper growth platform for interactive text-based courses on many aspects of computer science, cloud computing, and advanced technologies.
+
+Our learners rely on us to create engaging courses so they can get better at their job, find a better job or just experience the joy of learning.
+
+You are an innovative and passionate developer focused on delivering a cutting-edge learning platform. You like to own deliverables end-to-end and have a meaningful influence on the final product. You are a builder. You like to work with fellow engineers and cross functional teams to share knowledge, imagine, design, develop, test, and launch features that wow our learners, authors and customers.
+",
+                "extras": [{"title":"In This Role, You Will:","content":["Write high quality, maintainable, reusable code following solid principles.","Independently clarify technical requirements, develop coding estimates and apply a broad range of design approaches to bring innovative solutions.","Review code of other team members and provide constructive direction.","Constantly strive to raise the bar on engineering excellence.","Drive continuous improvement of software quality, customer experience and maintainability of products/features.","Mentor and lead developers by cultivating curiosity and deep technical understanding.","Independently conduct quality review of 1-pagers and 6-pagers.","Evaluate root cause analysis (RCA) and facilitate RCA evaluation meetings.","Ensure the global platform architecture provides excellent agility, functionality, scalability, reliability, security, and performance.","Carry out a constant technology watch and stay aware of market opportunities and competitive threats.","Identify emerging technologies and set the direction of technological innovation and product investment."]},{"title":"About You:","content":["BS, MS or Ph.D. in computer science.","Solid understanding of data structures and algorithms.","Good knowledge of multithreading.","Proficiency in at least one programming language, e.g., Python, JavaScript, Typescript, etc.","Working knowledge of Git.","Ability to work independently.","Self-driven with a can-do attitude.","Collaborative team player with excellent communication skills.","Laser-focused on delivering high-quality features."]},{"title":"Nice To Have:","content":["Experience with Google App Engine and Google Cloud.","Experience in shipping production quality products using Python and Node.js.","Experience in React/Redux/React Native.","TypeScript, Next.js, and Tailwind CSS.","Experience with Docker and Kubernetes.","Working experience with low-level systems and knowledge of Linux networking stack.","Experience with AWS."]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/educative/5ddd53be-d3fa-4c87-9402-bcf2fbcf65df"
+            }
