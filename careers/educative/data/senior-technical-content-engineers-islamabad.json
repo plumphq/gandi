@@ -1,0 +1,36 @@
+            {
+                "id": 547,
+                "companyId": 9,
+                "title": "Senior Technical Content Engineers (Islamabad)",
+                "location": ["Islamabad"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": 5,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Technical Courses","Research","Planning","Interactive Text-Based Courses","Hands-On Programming Assignments","Projects","Review","Adherence to Educative Standards","Technical Quality","Platform Features","Technical Developments","Course Strategy","Learner Needs","Educative Platform","Product Features","Enhancements","People Management Skills","Team Development Activities","Recruiting","Mentoring","Training Sessions","Strong Hands-On Engineer","Problem-Solving Skills","Communication","Written Communication Skills","English","Self-Directed","Goal-Oriented","Disciplined","Time Management","Multitasking Skills","Presenting","Audiences","Programming Languages","C++","C#","HTML","CSS","JavaScript","Python"],
+                "skills": ["JavaScript","Python","HTML","CSS","C++","C#","Hands-on experience"],
+                "overview": "Senior Technical Content Engineers (TCE) explain complex technical topics to learners, create engaging technical content, and work with subject matter experts to build courses for Educative learners.",
+                "description": "Senior Technical Content Engineers (TCE) are distinguished by their ability to explain complex technical topics to learners. They create engaging technical content and work with subject matter experts to build courses for Educative learners.
+
+Your responsibilities will include:
+
+Create technical courses:
+• Research, plan and create interactive text-based courses with hands-on programming assignments and projects for engineering audiences.
+• Review courses created by others ensuring adherence to Educative standards for editorial and technical quality; and effective use of platform features to engage learners.  Deliver feedback with clear and respectful language.
+• Monitor technical developments to contribute to course strategy and ensure that Educative courses are responsive to learner needs.
+
+Build expertise on Educative platform:
+• Develop expertise on platform capabilities to effectively create courses and guide internal and external authors in fully utilize platform features in courses.
+• May recommend product features and enhancements.  Follow recommendation through prioritization, design and implementation.
+
+Develop people management skills:
+• Contribute to team development activities, such as campus and experienced hire recruiting, mentoring new team members, leading training sessions, etc.
+",
+                "extras": [{"title":"About you:","content":["Strong hands-on engineer passionate about learning new programming languages and technologies, with excellent problem-solving skills.","Adept at communicating technically complicated topics simply and elegantly","Excellent written communication skills in English.","Self-directed, goal-oriented, and disciplined","Strong time management and multitasking skills","Confident and comfortable presenting to different types of audiences, large and small","Hands-on experience with programming languages, such as C++, C#, HTML, CSS, JavaScript, Python, etc."]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/educative/0ee86a3d-2645-4c5e-8c72-6b8f6e68a1d5"
+            }
