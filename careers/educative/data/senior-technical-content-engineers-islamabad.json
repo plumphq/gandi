@@ -1,0 +1,36 @@
+            {
+                "id": 530,
+                "companyId": 8,
+                "title": "Senior Technical Content Engineers (Islamabad)",
+                "location": ["Islamabad"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Technical Content Creation","Course Development","Educative Platform","Programming Languages","Problem-solving Skills","Written Communication","Time Management"],
+                "skills": ["HTML","CSS","JavaScript","Python","C++","C#","Problem-solving skills"],
+                "overview": "Senior Technical Content Engineers (TCE) in Islamabad create engaging technical content and build courses for Educative learners by explaining complex technical topics in an understandable manner.",
+                "description": "Senior Technical Content Engineers (TCE) are distinguished by their ability to explain complex technical topics to learners. They create engaging technical content and work with subject matter experts to build courses for Educative learners.
+
+Your responsibilities will include:
+
+Create technical courses:
+• Research, plan and create interactive text-based courses with hands-on programming assignments and projects for engineering audiences.
+• Review courses created by others ensuring adherence to Educative standards for editorial and technical quality; and effective use of platform features to engage learners.  Deliver feedback with clear and respectful language.
+• Monitor technical developments to contribute to course strategy and ensure that Educative courses are responsive to learner needs.
+
+Build expertise on Educative platform:
+• Develop expertise on platform capabilities to effectively create courses and guide internal and external authors in fully utilize platform features in courses.
+• May recommend product features and enhancements.  Follow recommendation through prioritization, design and implementation.
+
+Develop people management skills:
+• Contribute to team development activities, such as campus and experienced hire recruiting, mentoring new team members, leading training sessions, etc.
+",
+                "extras": [{"title":"About you:","content":["Strong hands-on engineer passionate about learning new programming languages and technologies, with excellent problem-solving skills.","Adept at communicating technically complicated topics simply and elegantly","Excellent written communication skills in English.","Self-directed, goal-oriented, and disciplined","Strong time management and multitasking skills","Confident and comfortable presenting to different types of audiences, large and small","Hands-on experience with programming languages, such as C++, C#, HTML, CSS, JavaScript, Python, etc."]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/educative/0ee86a3d-2645-4c5e-8c72-6b8f6e68a1d5"
+            }
