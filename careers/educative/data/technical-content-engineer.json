@@ -1,0 +1,27 @@
+            {
+                "id": 515,
+                "companyId": 7,
+                "title": "Technical Content Engineer",
+                "location": ["Lahore"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Technical Content Engineer","course development","project plan development","coordination","bug fixes","feature requests","text based courses","engineering audiences","review courses","subject matter experts","editorial standards","technical standards","platform capabilities","external authors","course strategy","learner needs","computer science concepts","data structures","algorithms","programming languages","HTML","CSS","JavaScript","Python","written communication skills","self-directed","goal-oriented","disciplined","time management skills"],
+                "skills": ["Python","C++","CSS","JavaScript","HTML","data structures","algorithms"],
+                "overview": "Technical Content Engineers (TCE) create engaging technical content and work with subject matter experts to build courses on the platform, researching, planning, developing, reviewing, suggesting edits, and monitoring technical developments to contribute to course strategy. They should have an understanding of computer science concepts, familiarity with programming languages, passion for learning new languages/technologies, excellent written communication skills, and strong time management.",
+                "description": "Educative is connecting millions of developers around the world. We are a hyper growth platform for interactive text-based courses on many aspects of computer science, cloud computing, and advanced technologies.
+Our learners rely on us to create engaging courses so they can get better at their job, find a better job or just experience the joy of learning.
+
+We have ambitious goals for courses —and that’s where you come in!
+
+Technical Content Engineers (TCE) are distinguished by their abilities to explain complex topics in a way that is useful to their audience. They create engaging technical content and work with subject matter experts to build courses on the platform.
+",
+                "extras": [{"title":"Your responsibilities will include:","content":["Lead course development from inception to launch, including project plan development, coordination with internal and external stakeholders, and collaboration with engineering teams for bug fixes or new feature requests.","Research, plan and create text based, interactive courses for engineering audiences.","Review and suggest edits to courses written by subject matter experts ensuring editorial and technical quality standards are met.","Develop expertise on platform capabilities to effectively create courses and guide external authors in fully utilizing platform features in courses.","Monitor technical developments to contribute to course strategy and ensure that Educative courses are responsive to learner needs."]},{"title":"About you:","content":["Understanding of computer science concepts, such as data structures and algorithms.","Familiarity with programming languages, such as C++, C#, HTML, CSS, JavaScript, Python, etc.","Passionate about learning new programming languages and technologies.","Excellent written communication skills in English.","Self-directed, goal-oriented, and disciplined","Strong time management skills"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/educative/b065fdf1-680f-47e0-ad0f-08b67528ae98"
+            }
