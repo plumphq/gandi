@@ -1,0 +1,27 @@
+            {
+                "id": 532,
+                "companyId": 8,
+                "title": "Technical Content Engineer",
+                "location": ["Lahore"],
+                "type": ["Full-time"],
+                "attendance": ["Onsite"],
+                "experience": -1,
+                "salaryMin": 0,
+                "salaryMax": 0,
+                "salaryFormat": "USD",
+                "salaryCurrency": "per-year-salary",
+                "salaryBonus": "Unspecified",
+                "tags": ["Technical Content Engineer","Project Management","Course Development","Technical Writing","Subject Matter Expert","Programming Languages","Written Communication Skills"],
+                "skills": ["Java","Python","HTML","CSS","JavaScript","C++","C#"],
+                "overview": "Technical Content Engineers (TCE) create engaging technical courses and collaborate with subject matter experts to build courses on the platform, with responsibilities including leading course development, researching and creating interactive courses, reviewing and suggesting edits to courses, developing expertise on platform capabilities, and monitoring technical developments to contribute to course strategy. Applicants should have an understanding of computer science concepts, familiarity with programming languages, passion for learning new technologies, excellent written communication skills in English, and strong time management skills.",
+                "description": "Educative is connecting millions of developers around the world. We are a hyper growth platform for interactive text-based courses on many aspects of computer science, cloud computing, and advanced technologies.
+Our learners rely on us to create engaging courses so they can get better at their job, find a better job or just experience the joy of learning.
+
+We have ambitious goals for courses —and that’s where you come in!
+
+Technical Content Engineers (TCE) are distinguished by their abilities to explain complex topics in a way that is useful to their audience. They create engaging technical content and work with subject matter experts to build courses on the platform.
+",
+                "extras": [{"title":"Your responsibilities will include:","content":["Lead course development from inception to launch, including project plan development, coordination with internal and external stakeholders, and collaboration with engineering teams for bug fixes or new feature requests.","Research, plan and create text based, interactive courses for engineering audiences.","Review and suggest edits to courses written by subject matter experts ensuring editorial and technical quality standards are met.","Develop expertise on platform capabilities to effectively create courses and guide external authors in fully utilizing platform features in courses.","Monitor technical developments to contribute to course strategy and ensure that Educative courses are responsive to learner needs."]},{"title":"About you:","content":["Understanding of computer science concepts, such as data structures and algorithms.","Familiarity with programming languages, such as C++, C#, HTML, CSS, JavaScript, Python, etc.","Passionate about learning new programming languages and technologies.","Excellent written communication skills in English.","Self-directed, goal-oriented, and disciplined","Strong time management skills"]}],
+                "requirements": [],
+                "applicationUrl": "https://jobs.lever.co/educative/b065fdf1-680f-47e0-ad0f-08b67528ae98"
+            }
