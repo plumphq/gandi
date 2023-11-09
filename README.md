@@ -1,5 +1,9 @@
 # Gandi · ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgandiorg%2Fgandi%2Fmain%2Fdocs%2Fmeta%2Fbadges.json&query=%24.companies_number&label=Companies%3A&labelColor=%231a1a1a&color=%231a1a1a) ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgandiorg%2Fgandi%2Fmain%2Fdocs%2Fmeta%2Fbadges.json&query=%24.jobs_number&label=Careers%3A&labelColor=%231a1a1a&color=%231a1a1a) 
 
+### GANDI IS CURRENTLY IN ACTIVE RECONSTRUCTION STATE
+- Legacy websites: https://gandicore.com (playground is there) + https://plump.ai (search is there)
+- New website: https://gandi-xi.vercel.app/ (search will be moved soon)
+
 > Stateful Reverse Proxy for decentralized IT jobs
 
 Gandi shifts the closed-platform job search paradigm to a distributed, transparent and job-seeker driven model,
